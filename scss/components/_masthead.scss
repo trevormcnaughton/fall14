@@ -1,0 +1,23 @@
+//------------------------------------------------------------------------------
+//
+// Masthead
+//
+//-----------------------------------------------------------------------------
+
+.masthead {
+  padding: 4em 0;
+  margin-bottom: 3em;
+  
+  @media (min-width: em-calc(640)) {
+    padding: 10em 0;
+  }
+}
+
+.masthead--blue {
+  background: #60A6E4;
+  color: #FFF;
+
+  h1, h2, h3{
+    color: #fff;
+  }
+}
