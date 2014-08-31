@@ -5,6 +5,7 @@ username: trevormcnaughton.com
 password: Toulouse2013
 
 # Optional
+port: 22
 path: domains/trevormcnaughton.com/html/did-fall-2014
 exclude:
     - .gitignore
@@ -14,4 +15,8 @@ exclude:
     - package.json
     - bower_components/
     - .git/
+    - node_modules/
+    - .bowerrc
+    - README.md
+    - bower.json
 revision_file: .revision
