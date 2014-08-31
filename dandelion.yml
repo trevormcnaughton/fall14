@@ -5,9 +5,10 @@ username: trevormcnaughton.com
 password: Toulouse2013
 
 # Optional
-path: domains/trvr.co/html/did-fall-2014/
+path: domains/trvr.co/html/did-fall-2014
 exclude:
     - .gitignore
+    - .ruby-version
     - dandelion.yml
     - .sass-cache
     - Gruntfile.js
@@ -18,4 +19,3 @@ exclude:
     - .bowerrc
     - README.md
     - bower.json
-revision_file: .revision
