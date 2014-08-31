@@ -6,7 +6,7 @@ password: Toulouse2013
 
 # Optional
 port: 22
-path: domains/trevormcnaughton.com/html/did-fall-2014
+path: domains/trevormcnaughton.com/html/did-fall-2014/
 exclude:
     - .gitignore
     - dandelion.yml
