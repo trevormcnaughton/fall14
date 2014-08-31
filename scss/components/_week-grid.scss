@@ -1,0 +1,35 @@
+//------------------------------------------------------------------------------
+//
+// Week Grid
+//
+//-----------------------------------------------------------------------------
+
+.week-grid {
+
+}
+
+.week-block-inner {
+  display: block;
+  padding: 4em;
+  background: $ghost;
+  border: 1px solid $smoke;
+  text-align: center;
+  border-radius: 4px;
+
+  h3 {
+    color: inherit;
+  }
+}
+
+.coming-soon {
+  opacity: 0.5;
+}
+
+.week--olive {
+  background: $olive;
+  color: #FFF;
+
+  &:hover {
+    color: lighten($olive, 25%);
+  }
+}

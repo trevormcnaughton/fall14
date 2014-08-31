@@ -4,20 +4,37 @@
 //
 //-----------------------------------------------------------------------------
 
+// Masthead Colors – Export to settings later
+$blue: #0074D9;
+$olive: #3D9970;
+$teal: #39CCCC;
+
+
 .masthead {
-  padding: 4em 0;
+  padding: 3.5em 0;
   margin-bottom: 3em;
-  
+  text-align: center;
+
+  h1, h2, h3, h4 {
+    color: inherit;
+  }
+
+  h1 {
+    font-size: 6em;
+    font-weight: bold;
+  }
+
   @media (min-width: em-calc(640)) {
     padding: 10em 0;
   }
 }
 
 .masthead--blue {
-  background: #60A6E4;
-  color: #FFF;
+  background: $blue;
+  color: lighten($blue, 20%);
+}
 
-  h1, h2, h3{
-    color: #fff;
-  }
+.masthead--olive {
+  background: $olive;
+  color: lighten($olive, 25%);
 }
