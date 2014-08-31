@@ -1,0 +1,53 @@
+//------------------------------------------------------------------------------
+//
+// Week Grid
+//
+//-----------------------------------------------------------------------------
+
+.list-grid {
+
+}
+
+.list-block-inner {
+  display: block;
+  padding: 4em;
+  background: $ghost;
+  border: 1px solid $smoke;
+  text-align: center;
+  border-radius: 4px;
+
+  h2, h3, h4 {
+    color: inherit;
+  }
+}
+
+.coming-soon {
+  opacity: 0.5;
+}
+
+.list--olive {
+  background: $olive;
+  color: #FFF;
+
+  &:hover {
+    color: lighten($olive, 25%);
+  }
+}
+
+.list--blue {
+  background: $blue;
+  color: #FFF;
+
+  &:hover {
+    color: lighten($blue, 25%);
+  }
+}
+
+.list--teal {
+  background: $teal;
+  color: #FFF;
+
+  &:hover {
+    color: lighten($teal, 25%);
+  }
+}

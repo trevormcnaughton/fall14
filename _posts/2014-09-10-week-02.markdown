@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Week 2"
+date:   2014-09-10 14:18:46
+categories: jekyll update
+week: Week 2
+color: teal
+---
+
+### Agenda
+- [Introductions](http://slides.com/trevormcnaughton/hi/live#/)
+- [Review Syllabus](/files/syllabus.pdf)
+- [Introduction to Illustrator](#intro-to-illustrator)
+
+### Introduction to Illustrator
+Illustrator is a super powerful drawing program. It is part of the Adobe Creative Cloud, and will be the first application we learn to use. It is mostly used to draw illustrations, cartoons, logos, and interfaces. It uses mathematical equations to draw lines, shapes, and colors. Meaning anything you make with illustrator is scalable without any loss of resolution. Below is the basic rundown of what we will cover first. Don't worry, things will get more exciting
+
+First we will create a new document. `File` > `New` and make a new Letter Document (8.5x11 inches). We will just use the default settings for now.
+<figure>
+  <img src="/images/week1/ai-new-doc.png" alt="" />
+  <figcaption>The new file interface</figcaption>
+</figure>
+
+Alternatively, you can open an image file within Illustrator via `File` > `Open`
+
+Let's take a look at some of the User Interface (UI). There's a lot here and you won't be expected to memorize all of it right away. This toolbar is going to be one of your best friends over the next few weeks. Get to know it, and love it.
+<figure>
+  <img src="/images/week1/ai-toolbar.png" alt="">
+  <figcaption>Illustrator Toolbar</figcaption>
+  </img>
+</figure>
+
+### ACTIVITY TIME
+Lets make some faces with the basic Illustrator tools. Using only the line tool, and shape tools, lets put together a few quick faces.
+<figure>
+  <img src="/images/week1/activity-shapes.png" alt="">
+  <figcaption>What can we make using just these shapes?</figcaption>
+</figure>
+Try playing with different stroke thicknesses, and different shape sizes.
+
+### Shape Faces
+What was difficult about it? Were the rules helpful or too much of a constraint?
+<figure>
+  <img src="/images/week1/activity-shape-faces.png" alt="">
+  <figcaption>You don't always need to render detailed images to get an idea across</figcaption>
+</figure>
+
+### Homework
+- Practice Class Activities
+- [Digital Sketches - Click for assignment](assignments/assignment-01)
+
+### Notes
+[Comprehensive Pen Tool Guide](http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141)

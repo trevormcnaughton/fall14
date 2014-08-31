@@ -38,3 +38,8 @@ $teal: #39CCCC;
   background: $olive;
   color: lighten($olive, 25%);
 }
+
+.masthead--teal {
+  background: $teal;
+  color: lighten($teal, 25%);
+}
