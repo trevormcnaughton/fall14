@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome!"
-date:   2014-09-03 14:18:46
+title:  "Week 2"
+date:   2014-09-10 14:18:46
 categories: week
-week: Week 1
-color: olive
+week: Week 2
+color: teal
 ---
 
 ### Agenda
@@ -47,7 +47,7 @@ What was difficult about it? Were the rules helpful or too much of a constraint?
 
 ### Homework
 - Practice Class Activities
-- [Digital Sketches - Click for assignment](/assignments/assignment-01.html)
+- [Digital Sketches - Click for assignment](assignments/assignment-01)
 
 ### Notes
 [Comprehensive Pen Tool Guide](http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141)

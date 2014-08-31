@@ -4,14 +4,17 @@ email: tmcnaughton@colum.edu
 description: Class website for DID Fall 2014
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://trvr.co" # the base hostname & protocol for your site
+permalink: /:categories/:title
 twitter_username: trvrmcn
 github_username:  trevormcnaughton
 sass: false
 encoding: utf-8
+order: descending
 
 #Collections
 collections:
-  - assignments
+  assignments:
+    output: true
 
 # Build settings
 markdown: kramdown

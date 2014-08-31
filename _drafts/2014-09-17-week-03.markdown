@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Week 2"
-date:   2014-09-10 14:18:46
-categories: jekyll update
-week: Week 2
+title:  "Week 3"
+date:   2014-09-17
+categories: week
+week: Week 3
 color: teal
 ---
 

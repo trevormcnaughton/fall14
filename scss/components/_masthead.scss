@@ -20,12 +20,16 @@ $teal: #39CCCC;
   }
 
   h1 {
-    font-size: 6em;
+    font-size: 3em;
     font-weight: bold;
   }
 
   @media (min-width: em-calc(640)) {
-    padding: 10em 0;
+    padding: 8em 0;
+
+    h1 {
+      font-size: 6em;
+    }
   }
 }
 

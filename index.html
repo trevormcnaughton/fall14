@@ -7,8 +7,8 @@ layout: default
 
 <div class="row">
   <div class="large-12 columns">
-    <ul class="large-block-grid-3 small-block-grid-1 list-grid">
-      {% for post in site.posts %}
+    <ul class="large-block-grid-1 small-block-grid-1 list-grid">
+      {% for post in site.posts order desc %}
         <li class="list-block-wrapper">
           <a href="{{ post.url | prepend: site.baseurl }}" class="list-block-inner list--{{ post.color }}">
             <h3>{{ post.title }}</h3>
