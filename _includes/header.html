@@ -16,13 +16,13 @@
           <li><a class="site-title" href="{{ site.baseurl }}/">Home</a></li>
           <li><a class="site-title" href="{{ site.baseurl }}/assignments">Assignments</a></li>
           <li><a class="site-title" href="{{ site.baseurl }}/projects">Projects</a></li>
-        {% for page in site.pages %}
+          {% for page in site.pages %}
           {% if page.title %}
           <li>
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           </li>
           {% endif %}
-        {% endfor %}
+          {% endfor %}
       </ul>
       </div>
     </nav>
