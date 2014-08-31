@@ -1,0 +1,17 @@
+# Required
+scheme: ftp
+host: s161207.gridserver.com
+username: trevormcnaughton.com
+password: Toulouse2013
+
+# Optional
+path: domains/trevormcnaughton.com/html/did-fall-2014
+exclude:
+    - .gitignore
+    - dandelion.yml
+    - .sass-cache
+    - Gruntfile.js
+    - package.json
+    - bower_components/
+    - .git/
+revision_file: .revision
