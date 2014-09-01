@@ -1,6 +1,11 @@
 *.DS_Store
 /bower_components/*
 /node_modules/*
+_assignments/
+_drafts/
+_includes/
+_layouts/
+_posts/
 .gitignore
 .ruby-version
 .sass-cache
