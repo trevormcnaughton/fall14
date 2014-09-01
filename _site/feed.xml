@@ -5,60 +5,32 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://trvr.co/</link>
     <atom:link href="http://trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 Aug 2014 22:44:13 -0500</pubDate>
-    <lastBuildDate>Sun, 31 Aug 2014 22:44:13 -0500</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2014 23:28:16 -0500</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2014 23:28:16 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
-        <title>Week 2</title>
+        <title>Building Blocks</title>
         <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://slides.com/trevormcnaughton/hi/live#/&quot;&gt;Introductions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/files/syllabus.pdf&quot;&gt;Review Syllabus&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#intro-to-illustrator&quot;&gt;Introduction to Illustrator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Homework Review&lt;/li&gt;
+  &lt;li&gt;Gestalt Theories&lt;/li&gt;
+  &lt;li&gt;Start class portfolios&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;introduction-to-illustrator&quot;&gt;Introduction to Illustrator&lt;/h3&gt;
-&lt;p&gt;Illustrator is a super powerful drawing program. It is part of the Adobe Creative Cloud, and will be the first application we learn to use. It is mostly used to draw illustrations, cartoons, logos, and interfaces. It uses mathematical equations to draw lines, shapes, and colors. Meaning anything you make with illustrator is scalable without any loss of resolution. Below is the basic rundown of what we will cover first. Don’t worry, things will get more exciting&lt;/p&gt;
-
-&lt;p&gt;First we will create a new document. &lt;code&gt;File&lt;/code&gt; &amp;gt; &lt;code&gt;New&lt;/code&gt; and make a new Letter Document (8.5x11 inches). We will just use the default settings for now.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/ai-new-doc.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;The new file interface&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Alternatively, you can open an image file within Illustrator via &lt;code&gt;File&lt;/code&gt; &amp;gt; &lt;code&gt;Open&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Let’s take a look at some of the User Interface (UI). There’s a lot here and you won’t be expected to memorize all of it right away. This toolbar is going to be one of your best friends over the next few weeks. Get to know it, and love it.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/ai-toolbar.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Illustrator Toolbar&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
+&lt;h3 id=&quot;gestalt-theory&quot;&gt;Gestalt Theory&lt;/h3&gt;
 
 &lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
-&lt;p&gt;Lets make some faces with the basic Illustrator tools. Using only the line tool, and shape tools, lets put together a few quick faces.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/activity-shapes.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;What can we make using just these shapes?&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;Try playing with different stroke thicknesses, and different shape sizes.&lt;/p&gt;
-
-&lt;h3 id=&quot;shape-faces&quot;&gt;Shape Faces&lt;/h3&gt;
-&lt;p&gt;What was difficult about it? Were the rules helpful or too much of a constraint?&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/activity-shape-faces.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;You don't always need to render detailed images to get an idea across&lt;/figcaption&gt;
-&lt;/figure&gt;
 
 &lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Practice Class Activities&lt;/li&gt;
+  &lt;li&gt;Read: Color (pg 70-83)&lt;/li&gt;
+  &lt;li&gt;Read: &lt;a href=&quot;http://freelancefolder.com/typography-
+essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Watch: Illustrator Tutorials&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;assignments/assignment-01&quot;&gt;Digital Sketches - Click for assignment&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h3 id=&quot;notes&quot;&gt;Notes&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141&quot;&gt;Comprehensive Pen Tool Guide&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Sep 2014 09:18:46 -0500</pubDate>
         <link>http://trvr.co/week/week-02</link>
@@ -70,16 +42,36 @@
       </item>
     
       <item>
-        <title>Welcome!</title>
+        <title>Welcome!!</title>
         <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://slides.com/trevormcnaughton/hi/live#/&quot;&gt;Introductions&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/files/syllabus.pdf&quot;&gt;Review Syllabus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#google-survey&quot;&gt;First Day Quiz&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#intro-to-illustrator&quot;&gt;Introduction to Illustrator&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;introduction-to-illustrator&quot;&gt;Introduction to Illustrator&lt;/h3&gt;
-&lt;p&gt;Illustrator is a super powerful drawing program. It is part of the Adobe Creative Cloud, and will be the first application we learn to use. It is mostly used to draw illustrations, cartoons, logos, and interfaces. It uses mathematical equations to draw lines, shapes, and colors. Meaning anything you make with illustrator is scalable without any loss of resolution. Below is the basic rundown of what we will cover first. Don’t worry, things will get more exciting&lt;/p&gt;
+&lt;p&gt;Illustrator is a super powerful drawing program. It is part of the Adobe Creative Cloud, and will be the first application we learn to use. It is mostly used to draw illustrations, cartoons, logos, and interfaces. It uses mathematical equations to draw lines, shapes, and colors. Meaning anything you make with illustrator is scalable without any loss of resolution.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week1/logo-examples.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Vector logo examples&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week1/character-examples.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Some vector characters&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week1/interface-examples.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;A couple rad interfaces&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Hopefully this gives you an idea of some of the things we are capable of building with illustrator. It’s a very powerful tool, and has a whole lot of nuances. Don’t get overwhelmed, we will tackle it piece by piece. Starting from the very beginning. Creating a new file. Below is the basic rundown of what we will cover first. Don’t worry, things will get more exciting&lt;/p&gt;
 
 &lt;p&gt;First we will create a new document. &lt;code&gt;File&lt;/code&gt; &amp;gt; &lt;code&gt;New&lt;/code&gt; and make a new Letter Document (8.5x11 inches). We will just use the default settings for now.&lt;/p&gt;
 &lt;figure&gt;
@@ -97,12 +89,11 @@
 &lt;/figure&gt;
 
 &lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
-&lt;p&gt;Lets make some faces with the basic Illustrator tools. Using only the line tool, and shape tools, lets put together a few quick faces.&lt;/p&gt;
+&lt;p&gt;Lets make some faces with the basic Illustrator tools. Using only the line tool, and shape tools, lets put together a few quick faces. Try playing with different stroke thicknesses, and different shape sizes.&lt;/p&gt;
 &lt;figure&gt;
   &lt;img src=&quot;/images/week1/activity-shapes.png&quot; alt=&quot;&quot; /&gt;
   &lt;figcaption&gt;What can we make using just these shapes?&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;Try playing with different stroke thicknesses, and different shape sizes.&lt;/p&gt;
 
 &lt;h3 id=&quot;shape-faces&quot;&gt;Shape Faces&lt;/h3&gt;
 &lt;p&gt;What was difficult about it? Were the rules helpful or too much of a constraint?&lt;/p&gt;
@@ -114,10 +105,12 @@
 &lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Practice Class Activities&lt;/li&gt;
+  &lt;li&gt;Read: Point, Line, and Plane (pg 12-27)&lt;/li&gt;
+  &lt;li&gt;Watch: Illustrator tutorials on Lynda.com&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/assignments/assignment-01.html&quot;&gt;Digital Sketches - Click for assignment&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;notes&quot;&gt;Notes&lt;/h3&gt;
+&lt;h3 id=&quot;notes--extra-stuff&quot;&gt;Notes &amp;amp; Extra stuff&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141&quot;&gt;Comprehensive Pen Tool Guide&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Sep 2014 09:18:46 -0500</pubDate>

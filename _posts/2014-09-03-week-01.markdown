@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Welcome!!"
 date:   2014-09-03 14:18:46
 categories: week
 week: Week 1
@@ -10,10 +10,30 @@ color: olive
 ### Agenda
 - [Introductions](http://slides.com/trevormcnaughton/hi/live#/)
 - [Review Syllabus](/files/syllabus.pdf)
+- [First Day Quiz](#google-survey)
 - [Introduction to Illustrator](#intro-to-illustrator)
 
 ### Introduction to Illustrator
-Illustrator is a super powerful drawing program. It is part of the Adobe Creative Cloud, and will be the first application we learn to use. It is mostly used to draw illustrations, cartoons, logos, and interfaces. It uses mathematical equations to draw lines, shapes, and colors. Meaning anything you make with illustrator is scalable without any loss of resolution. Below is the basic rundown of what we will cover first. Don't worry, things will get more exciting
+Illustrator is a super powerful drawing program. It is part of the Adobe Creative Cloud, and will be the first application we learn to use. It is mostly used to draw illustrations, cartoons, logos, and interfaces. It uses mathematical equations to draw lines, shapes, and colors. Meaning anything you make with illustrator is scalable without any loss of resolution.
+<figure>
+  <img src="/images/week1/logo-examples.png" alt="">
+  <figcaption>Vector logo examples</figcaption>
+  </img>
+</figure>
+
+<figure>
+  <img src="/images/week1/character-examples.png" alt="">
+  <figcaption>Some vector characters</figcaption>
+  </img>
+</figure>
+
+<figure>
+  <img src="/images/week1/interface-examples.png" alt="">
+  <figcaption>A couple rad interfaces</figcaption>
+  </img>
+</figure>
+
+Hopefully this gives you an idea of some of the things we are capable of building with illustrator. It's a very powerful tool, and has a whole lot of nuances. Don't get overwhelmed, we will tackle it piece by piece. Starting from the very beginning. Creating a new file. Below is the basic rundown of what we will cover first. Don't worry, things will get more exciting
 
 First we will create a new document. `File` > `New` and make a new Letter Document (8.5x11 inches). We will just use the default settings for now.
 <figure>
@@ -31,12 +51,11 @@ Let's take a look at some of the User Interface (UI). There's a lot here and you
 </figure>
 
 ### ACTIVITY TIME
-Lets make some faces with the basic Illustrator tools. Using only the line tool, and shape tools, lets put together a few quick faces.
+Lets make some faces with the basic Illustrator tools. Using only the line tool, and shape tools, lets put together a few quick faces. Try playing with different stroke thicknesses, and different shape sizes.
 <figure>
   <img src="/images/week1/activity-shapes.png" alt="">
   <figcaption>What can we make using just these shapes?</figcaption>
 </figure>
-Try playing with different stroke thicknesses, and different shape sizes.
 
 ### Shape Faces
 What was difficult about it? Were the rules helpful or too much of a constraint?
@@ -47,7 +66,9 @@ What was difficult about it? Were the rules helpful or too much of a constraint?
 
 ### Homework
 - Practice Class Activities
+- Read: Point, Line, and Plane (pg 12-27)
+- Watch: Illustrator tutorials on Lynda.com
 - [Digital Sketches - Click for assignment](/assignments/assignment-01.html)
 
-### Notes
+### Notes & Extra stuff
 [Comprehensive Pen Tool Guide](http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141)
