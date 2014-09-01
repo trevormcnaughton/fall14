@@ -22,8 +22,13 @@ Using the techniques we discussed in class, and concepts from the Point, Line, a
 Here are some ideas to get the gears turning.
 
 <figure>
-  <img src="/images/week1/assignment-symmetry.png" alt="">
-  <figcaption>Symmetry</figcaption>
+  <img src="/images/week1/assignment-order.png" alt="">
+  <figcaption>Order</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/week1/assignment-chaos.png" alt="">
+  <figcaption>Chaos</figcaption>
 </figure>
 
 <figure>

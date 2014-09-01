@@ -68,7 +68,7 @@ What was difficult about it? Were the rules helpful or too much of a constraint?
 - Practice Class Activities
 - Read: Point, Line, and Plane (pg 12-27)
 - Watch: Illustrator tutorials on Lynda.com
-- [Digital Sketches - Click for assignment](/assignments/assignment-01.html)
+- [Assignment 1 – Digital Sketches](/assignments/assignment-01.html)
 
 ### Notes & Extra stuff
 [Comprehensive Pen Tool Guide](http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141)
