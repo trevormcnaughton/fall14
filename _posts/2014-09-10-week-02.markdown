@@ -9,11 +9,72 @@ color: teal
 
 ### Agenda
 - Homework Review
-- Gestalt Theories
+- Gestalt Theory
+- Gestalt Principles
 - Start class portfolios
 
 ### Gestalt Theory
+> "The whole is other than the sum of the parts” - Kurt Koffka
 
+Is the basis of how we visually perceive objects. In essence, when we see a group of objects, we perceive the whole before we consider it’s parts. And even when we look at the parts we want to group them as a whole.
+
+#### Key Properties
+**Emergence** – Is basically pattern recognition. We see the outline of a shape, identify that shape, then we begin to recognize the parts that make up the whole.
+<figure>
+  <img src="/images/week2/emergence.png" alt="">
+  <figcaption>What shape emerges?</figcaption>
+  </img>
+</figure>
+
+**Reification** – Is filling in the gaps. If there isn’t enough visual data present we will make up that in our minds to create a meaningful image.
+<figure>
+  <img src="/images/week2/reification.png" alt="">
+  <figcaption>Shapes without a shape</figcaption>
+  </img>
+</figure>
+
+**Multi-stability** – Describes what our mind does when it sees two things within one image. We cannot focus on both images, so we only see one at a time.
+<figure>
+  <img src="/images/week2/multistability.png" alt="">
+  <figcaption>One or two images?</figcaption>
+  </img>
+</figure>
+
+**Invariance** – The ability to recognize shapes at various angles. This is due to our seeing things in three dimensions. We’ve adapted to recognizing in different contexts.
+<figure>
+  <img src="/images/week2/invariance.png" alt="">
+  <figcaption>It's always a box with a hole in it</figcaption>
+  </img>
+</figure>
+
+Dang, those are some crazy words.
+
+### Gestalt Principles
+Almost everything we do in graphic design is summarized in these theories and principles. Understanding all of the principles below will make you an ultimate design badass.
+
+> “People will perceive and interpret ambiguous or complex images as the simplest form(s) possible.”
+
+- Law of Prägnanz
+- Closure
+- Symmetry & Order
+- Figure/Ground
+- Uniform Connectedness
+- Common Regions
+- Proximity
+- Continuation
+- Common Fate
+- Parallelism
+- Similarity
+- Focal Points
+- Past Experiences
+
+### The Pen Tool
+That's enough concepts for now. Let's dig into one of Illustrators most powerful features. The Pen tool.
+<figure>
+  <img src="/images/week2/pen-tool.png" alt="">
+  <figcaption>This should probably be a t-shirt</figcaption>
+  </img>
+</figure>
 
 ### ACTIVITY TIME
 

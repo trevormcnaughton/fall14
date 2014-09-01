@@ -11,8 +11,6 @@
 .list-block-inner {
   display: block;
   padding: 4em;
-  background: $ghost;
-  border: 1px solid $smoke;
   text-align: center;
   border-radius: 4px;
 
@@ -23,6 +21,8 @@
 
 .coming-soon {
   opacity: 0.5;
+  border: 1px solid $smoke;
+  background: $ghost;
 }
 
 .list--olive {

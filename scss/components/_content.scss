@@ -17,3 +17,21 @@ figcaption {
   text-align: center;
   font-style: italic;
 }
+
+
+blockquote {
+  font-family: $serif;
+  font-style: italic;
+
+  p {
+    font-weight: 100;
+    font-size: 2.25em;
+  }
+}
+
+
+%fancy-images {
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(#000, 0.25);
+  overflow: none;
+}

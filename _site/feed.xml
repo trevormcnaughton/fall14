@@ -5,8 +5,8 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 01 Sep 2014 11:02:17 -0500</pubDate>
-    <lastBuildDate>Mon, 01 Sep 2014 11:02:17 -0500</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2014 14:32:32 -0500</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2014 14:32:32 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -14,11 +14,79 @@
         <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Homework Review&lt;/li&gt;
-  &lt;li&gt;Gestalt Theories&lt;/li&gt;
+  &lt;li&gt;Gestalt Theory&lt;/li&gt;
+  &lt;li&gt;Gestalt Principles&lt;/li&gt;
   &lt;li&gt;Start class portfolios&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;gestalt-theory&quot;&gt;Gestalt Theory&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“The whole is other than the sum of the parts” - Kurt Koffka&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Is the basis of how we visually perceive objects. In essence, when we see a group of objects, we perceive the whole before we consider it’s parts. And even when we look at the parts we want to group them as a whole.&lt;/p&gt;
+
+&lt;h4 id=&quot;key-properties&quot;&gt;Key Properties&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Emergence&lt;/strong&gt; – Is basically pattern recognition. We see the outline of a shape, identify that shape, then we begin to recognize the parts that make up the whole.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week2/emergence.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;What shape emerges?&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Reification&lt;/strong&gt; – Is filling in the gaps. If there isn’t enough visual data present we will make up that in our minds to create a meaningful image.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week2/reification.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Shapes without a shape&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Multi-stability&lt;/strong&gt; – Describes what our mind does when it sees two things within one image. We cannot focus on both images, so we only see one at a time.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week2/multistability.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;One or two images?&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Invariance&lt;/strong&gt; – The ability to recognize shapes at various angles. This is due to our seeing things in three dimensions. We’ve adapted to recognizing in different contexts.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week2/invariance.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;It's always a box with a hole in it&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Dang, those are some crazy words.&lt;/p&gt;
+
+&lt;h3 id=&quot;gestalt-principles&quot;&gt;Gestalt Principles&lt;/h3&gt;
+&lt;p&gt;Almost everything we do in graphic design is summarized in these theories and principles. Understanding all of the principles below will make you an ultimate design badass.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“People will perceive and interpret ambiguous or complex images as the simplest form(s) possible.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Law of Prägnanz&lt;/li&gt;
+  &lt;li&gt;Closure&lt;/li&gt;
+  &lt;li&gt;Symmetry &amp;amp; Order&lt;/li&gt;
+  &lt;li&gt;Figure/Ground&lt;/li&gt;
+  &lt;li&gt;Uniform Connectedness&lt;/li&gt;
+  &lt;li&gt;Common Regions&lt;/li&gt;
+  &lt;li&gt;Proximity&lt;/li&gt;
+  &lt;li&gt;Continuation&lt;/li&gt;
+  &lt;li&gt;Common Fate&lt;/li&gt;
+  &lt;li&gt;Parallelism&lt;/li&gt;
+  &lt;li&gt;Similarity&lt;/li&gt;
+  &lt;li&gt;Focal Points&lt;/li&gt;
+  &lt;li&gt;Past Experiences&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-pen-tool&quot;&gt;The Pen Tool&lt;/h3&gt;
+&lt;p&gt;That’s enough concepts for now. Let’s dig into one of Illustrators most powerful features. The Pen tool.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week2/pen-tool.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;This should probably be a t-shirt&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
 &lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
 
