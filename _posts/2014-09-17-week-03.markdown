@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Color & Type"
+date:   2014-09-17
+categories: week
+week: Week 3
+color: red
+bgimage: '/images/week2/typecolor-bg.png'
+---
+
+### Agenda
+- Homework Review
+- Gestalt Theory
+- Gestalt Principles
+- Start class portfolios
+
+### Gestalt Theory
+
+### ACTIVITY TIME
+
+
+### Homework
+- Practice Class Activities
+- Read: Color (pg 70-83)
+- Read: [Typography Essentials](http://freelancefolder.com/typography-
+essentials-a-getting-started-guide/)
+- Watch: Illustrator Tutorials
+- [Digital Sketches - Click for assignment](assignments/assignment-01)
