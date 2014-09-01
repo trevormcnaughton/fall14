@@ -7,15 +7,29 @@ layout: default
 
 <div class="row">
   <div class="large-12 columns">
-    <ul class="large-block-grid-1 small-block-grid-1 list-grid">
+    <h3>Classes</h3>
+    <ul class="large-block-grid-3 small-block-grid-1 list-grid">
       {% for post in site.posts order desc %}
-        <li class="list-block-wrapper">
-          <a href="{{ post.url | prepend: site.baseurl }}" class="list-block-inner list--{{ post.color }}">
-            <h3>{{ post.title }}</h3>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          </a>
-        </li>
+      <li class="list-block-wrapper">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="list-block-inner list--{{ post.color }}">
+          <h3>{{ post.title }}</h3>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </a>
+      </li>
       {% endfor %}
+      <li class="list-block-wrapper">
+        <a href="#" class="list-block-inner">
+          <h3>Week 2</h3>
+          <span class="post-meta">Coming Soon...</span>
+        </a>
+      </li>
+
+      <li class="list-block-wrapper">
+        <a href="#" class="list-block-inner">
+          <h3>Week 2</h3>
+          <span class="post-meta">Coming Soon...</span>
+        </a>
+      </li>
     </ul>
   </div>
 </div>

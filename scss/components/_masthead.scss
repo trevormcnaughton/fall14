@@ -4,12 +4,6 @@
 //
 //-----------------------------------------------------------------------------
 
-// Masthead Colors – Export to settings later
-$blue: #0074D9;
-$olive: #3D9970;
-$teal: #39CCCC;
-
-
 .masthead {
   padding: 3.5em 0;
   margin-bottom: 3em;
@@ -46,4 +40,9 @@ $teal: #39CCCC;
 .masthead--teal {
   background: $teal;
   color: lighten($teal, 25%);
+}
+
+.masthead--navy {
+  background: $navy;
+  color: lighten($navy, 25%);
 }
