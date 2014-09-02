@@ -3,10 +3,10 @@
   <channel>
     <title>DID Fall 2014</title>
     <description>Class website for DID Fall 2014</description>
-    <link>http://teach.trvr.co/</link>
-    <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 01 Sep 2014 15:59:11 -0500</pubDate>
-    <lastBuildDate>Mon, 01 Sep 2014 15:59:11 -0500</lastBuildDate>
+    <link>http://trvr.co/</link>
+    <atom:link href="http://trvr.co/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 01 Sep 2014 21:28:10 -0500</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2014 21:28:10 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -34,8 +34,8 @@ essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 17 Sep 2014 00:00:00 -0500</pubDate>
-        <link>http://teach.trvr.co/week/week-03</link>
-        <guid isPermaLink="true">http://teach.trvr.co/week/week-03</guid>
+        <link>http://trvr.co/week/week-03</link>
+        <guid isPermaLink="true">http://trvr.co/week/week-03</guid>
         
         
         <category>week</category>
@@ -134,8 +134,8 @@ essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 Sep 2014 09:18:46 -0500</pubDate>
-        <link>http://teach.trvr.co/week/week-02</link>
-        <guid isPermaLink="true">http://teach.trvr.co/week/week-02</guid>
+        <link>http://trvr.co/week/week-02</link>
+        <guid isPermaLink="true">http://trvr.co/week/week-02</guid>
         
         
         <category>week</category>
@@ -215,8 +215,8 @@ essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;
 &lt;p&gt;&lt;a href=&quot;http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141&quot;&gt;Comprehensive Pen Tool Guide&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Sep 2014 09:18:46 -0500</pubDate>
-        <link>http://teach.trvr.co/week/week-01</link>
-        <guid isPermaLink="true">http://teach.trvr.co/week/week-01</guid>
+        <link>http://trvr.co/week/week-01</link>
+        <guid isPermaLink="true">http://trvr.co/week/week-01</guid>
         
         
         <category>week</category>
