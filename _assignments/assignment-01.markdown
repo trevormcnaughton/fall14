@@ -49,8 +49,10 @@ Here are some ideas to get the gears turning.
 ### Submitting Homework
 Using any FTP client, upload your assignments to the class folder. The instructions below will help you get started with FTP. [FileZilla](https://filezilla-project.org/download.php?type=client) is a decent free FTP client, I use [Transmit](http://panic.com/transmit/). It's not free but it's super well designed, and awesome.
 
-#### Steps to FTP
-- Open FTP application of choice
-- Enter `iam.colum.edu` into the `host` field
-- Put your IAM username into `username`
-- And your IAM password into `password`
+#### How to FTP
+- [Reference this WIKI article to get started with FTP](http://imamp.colum.edu/mediawiki/index.php/FTP)
+- Navigate to /classfolders/DID/36-1300-03_Trevor/
+- Once you are in that folder create a folder for named with your first and last name like this `firstname-lastname`
+- Navigate into your folder and create a folder inside there called `assignment-1`
+- Save your work in the `assignment 1` folder!
+- Woo!
