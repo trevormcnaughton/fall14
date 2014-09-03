@@ -16,7 +16,7 @@ color: teal
 ### Gestalt Theory
 > "The whole is other than the sum of the parts” - Kurt Koffka
 
-Is the basis of how we visually perceive objects. In essence, when we see a group of objects, we perceive the whole before we consider it’s parts. And even when we look at the parts we want to group them as a whole.
+The Gestalt theory is the basis of how we visually perceive objects. In essence, when we see a group of objects, we perceive the whole before we consider it’s parts. And even when we look at the parts we want to group them as a whole.
 
 #### Key Properties
 **Emergence** – Is basically pattern recognition. We see the outline of a shape, identify that shape, then we begin to recognize the parts that make up the whole.
@@ -26,10 +26,10 @@ Is the basis of how we visually perceive objects. In essence, when we see a grou
   </img>
 </figure>
 
-**Reification** – Is filling in the gaps. If there isn’t enough visual data present we will make up that in our minds to create a meaningful image.
+**Reification** – Is filling in the gaps. If there isn’t enough visual data present we will make up the missing information in our minds to create something meaningful.
 <figure>
   <img src="/images/week2/reification.png" alt="">
-  <figcaption>Shapes without a shape</figcaption>
+  <figcaption>Shapes without a definitive shape</figcaption>
   </img>
 </figure>
 
@@ -77,6 +77,7 @@ That's enough concepts for now. Let's dig into one of Illustrators most powerful
 </figure>
 
 ### ACTIVITY TIME
+Using the Pen Tool. We are going to run through a quick and dirty pen tool exercise. [Download This File](/files/week2/Pen_Tool_The_Exercise.ai), open it up in illustrator, and we should be good to go.
 
 
 ### Homework
@@ -86,3 +87,7 @@ That's enough concepts for now. Let's dig into one of Illustrators most powerful
 essentials-a-getting-started-guide/)
 - Watch: Illustrator Tutorials
 - [Digital Sketches - Click for assignment](assignments/assignment-01)
+
+### Additional Resources
+- [Thinking with Type](http://www.thinkingwithtype.com/) – Comprehensive type nerdfest
+- [Elements of Typographic Style](http://webtypography.net/) – The definitive type manual applied to the web

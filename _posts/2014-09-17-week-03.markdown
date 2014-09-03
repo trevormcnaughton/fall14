@@ -26,3 +26,8 @@ bgimage: '/images/week2/typecolor-bg.png'
 essentials-a-getting-started-guide/)
 - Watch: Illustrator Tutorials
 - [Digital Sketches - Click for assignment](assignments/assignment-01)
+
+### Additional Resources
+- [http://shape.method.ac/](http://shape.method.ac/)
+- [http://type.method.ac/](http://type.method.ac/)
+- [http://thinkingwithtype.com/](http://thinkingwithtype.com/)

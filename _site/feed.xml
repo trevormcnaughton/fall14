@@ -3,10 +3,10 @@
   <channel>
     <title>DID Fall 2014</title>
     <description>Class website for DID Fall 2014</description>
-    <link>http://trvr.co/</link>
-    <atom:link href="http://trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 01 Sep 2014 21:28:10 -0500</pubDate>
-    <lastBuildDate>Mon, 01 Sep 2014 21:28:10 -0500</lastBuildDate>
+    <link>http://teach.trvr.co/</link>
+    <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 02 Sep 2014 20:34:52 -0500</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2014 20:34:52 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -32,10 +32,17 @@ essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;
   &lt;li&gt;Watch: Illustrator Tutorials&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;assignments/assignment-01&quot;&gt;Digital Sketches - Click for assignment&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://shape.method.ac/&quot;&gt;http://shape.method.ac/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://type.method.ac/&quot;&gt;http://type.method.ac/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thinkingwithtype.com/&quot;&gt;http://thinkingwithtype.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 17 Sep 2014 00:00:00 -0500</pubDate>
-        <link>http://trvr.co/week/week-03</link>
-        <guid isPermaLink="true">http://trvr.co/week/week-03</guid>
+        <link>http://teach.trvr.co/week/week-03</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-03</guid>
         
         
         <category>week</category>
@@ -57,7 +64,7 @@ essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;
   &lt;p&gt;“The whole is other than the sum of the parts” - Kurt Koffka&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Is the basis of how we visually perceive objects. In essence, when we see a group of objects, we perceive the whole before we consider it’s parts. And even when we look at the parts we want to group them as a whole.&lt;/p&gt;
+&lt;p&gt;The Gestalt theory is the basis of how we visually perceive objects. In essence, when we see a group of objects, we perceive the whole before we consider it’s parts. And even when we look at the parts we want to group them as a whole.&lt;/p&gt;
 
 &lt;h4 id=&quot;key-properties&quot;&gt;Key Properties&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;Emergence&lt;/strong&gt; – Is basically pattern recognition. We see the outline of a shape, identify that shape, then we begin to recognize the parts that make up the whole.&lt;/p&gt;
@@ -67,10 +74,10 @@ essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;strong&gt;Reification&lt;/strong&gt; – Is filling in the gaps. If there isn’t enough visual data present we will make up that in our minds to create a meaningful image.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reification&lt;/strong&gt; – Is filling in the gaps. If there isn’t enough visual data present we will make up the missing information in our minds to create something meaningful.&lt;/p&gt;
 &lt;figure&gt;
   &lt;img src=&quot;/images/week2/reification.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Shapes without a shape&lt;/figcaption&gt;
+  &lt;figcaption&gt;Shapes without a definitive shape&lt;/figcaption&gt;
   
 &lt;/figure&gt;
 
@@ -122,6 +129,7 @@ essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;
 &lt;/figure&gt;
 
 &lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
+&lt;p&gt;Using the Pen Tool. We are going to run through a quick and dirty pen tool exercise. &lt;a href=&quot;/files/week2/Pen_Tool_The_Exercise.ai&quot;&gt;Download This File&lt;/a&gt;, open it up in illustrator, and we should be good to go.&lt;/p&gt;
 
 &lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
 &lt;ul&gt;
@@ -132,10 +140,16 @@ essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;
   &lt;li&gt;Watch: Illustrator Tutorials&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;assignments/assignment-01&quot;&gt;Digital Sketches - Click for assignment&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.thinkingwithtype.com/&quot;&gt;Thinking with Type&lt;/a&gt; – Comprehensive type nerdfest&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://webtypography.net/&quot;&gt;Elements of Typographic Style&lt;/a&gt; – The definitive type manual applied to the web&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 Sep 2014 09:18:46 -0500</pubDate>
-        <link>http://trvr.co/week/week-02</link>
-        <guid isPermaLink="true">http://trvr.co/week/week-02</guid>
+        <link>http://teach.trvr.co/week/week-02</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-02</guid>
         
         
         <category>week</category>
@@ -215,8 +229,8 @@ essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;
 &lt;p&gt;&lt;a href=&quot;http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141&quot;&gt;Comprehensive Pen Tool Guide&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Sep 2014 09:18:46 -0500</pubDate>
-        <link>http://trvr.co/week/week-01</link>
-        <guid isPermaLink="true">http://trvr.co/week/week-01</guid>
+        <link>http://teach.trvr.co/week/week-01</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-01</guid>
         
         
         <category>week</category>

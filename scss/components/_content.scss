@@ -24,8 +24,14 @@ blockquote {
   font-style: italic;
 
   p {
-    font-weight: 100;
-    font-size: 2.25em;
+    font-size: 1.5em;
+  }
+
+  @media (min-width: em-calc(640)) {
+    p {
+      font-weight: 100;
+      font-size: 2.25em;
+    }
   }
 }
 
