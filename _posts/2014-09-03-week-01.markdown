@@ -10,7 +10,7 @@ color: olive
 ### Agenda
 - [Introductions](http://slides.com/trevormcnaughton/hi/live#/)
 - [Review Syllabus](/files/DID-36-1300-03-fa14.pdf) – Subject to change!
-- [First Day Quiz](https://docs.google.com/forms/d/15oZegSzd82MabpNdfJdHLbSLTadkHdjCUbBb8Bx-Xo4/viewform?usp=send_form)
+- [First Day Survey](https://docs.google.com/forms/d/15oZegSzd82MabpNdfJdHLbSLTadkHdjCUbBb8Bx-Xo4/viewform?usp=send_form)
 - Introduction to Illustrator
 
 ### Introduction to Illustrator
