@@ -5,165 +5,18 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 Sep 2014 20:34:52 -0500</pubDate>
-    <lastBuildDate>Tue, 02 Sep 2014 20:34:52 -0500</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2014 21:03:26 -0500</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2014 21:03:26 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
-    
-      <item>
-        <title>Color &amp; Type</title>
-        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Homework Review&lt;/li&gt;
-  &lt;li&gt;Gestalt Theory&lt;/li&gt;
-  &lt;li&gt;Gestalt Principles&lt;/li&gt;
-  &lt;li&gt;Start class portfolios&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;gestalt-theory&quot;&gt;Gestalt Theory&lt;/h3&gt;
-
-&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
-
-&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Practice Class Activities&lt;/li&gt;
-  &lt;li&gt;Read: Color (pg 70-83)&lt;/li&gt;
-  &lt;li&gt;Read: &lt;a href=&quot;http://freelancefolder.com/typography-
-essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Watch: Illustrator Tutorials&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;assignments/assignment-01&quot;&gt;Digital Sketches - Click for assignment&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://shape.method.ac/&quot;&gt;http://shape.method.ac/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://type.method.ac/&quot;&gt;http://type.method.ac/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://thinkingwithtype.com/&quot;&gt;http://thinkingwithtype.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 17 Sep 2014 00:00:00 -0500</pubDate>
-        <link>http://teach.trvr.co/week/week-03</link>
-        <guid isPermaLink="true">http://teach.trvr.co/week/week-03</guid>
-        
-        
-        <category>week</category>
-        
-      </item>
-    
-      <item>
-        <title>Building Blocks</title>
-        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Homework Review&lt;/li&gt;
-  &lt;li&gt;Gestalt Theory&lt;/li&gt;
-  &lt;li&gt;Gestalt Principles&lt;/li&gt;
-  &lt;li&gt;Start class portfolios&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;gestalt-theory&quot;&gt;Gestalt Theory&lt;/h3&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“The whole is other than the sum of the parts” - Kurt Koffka&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Gestalt theory is the basis of how we visually perceive objects. In essence, when we see a group of objects, we perceive the whole before we consider it’s parts. And even when we look at the parts we want to group them as a whole.&lt;/p&gt;
-
-&lt;h4 id=&quot;key-properties&quot;&gt;Key Properties&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Emergence&lt;/strong&gt; – Is basically pattern recognition. We see the outline of a shape, identify that shape, then we begin to recognize the parts that make up the whole.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week2/emergence.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;What shape emerges?&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Reification&lt;/strong&gt; – Is filling in the gaps. If there isn’t enough visual data present we will make up the missing information in our minds to create something meaningful.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week2/reification.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Shapes without a definitive shape&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Multi-stability&lt;/strong&gt; – Describes what our mind does when it sees two things within one image. We cannot focus on both images, so we only see one at a time.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week2/multistability.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;One or two images?&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Invariance&lt;/strong&gt; – The ability to recognize shapes at various angles. This is due to our seeing things in three dimensions. We’ve adapted to recognizing in different contexts.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week2/invariance.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;It's always a box with a hole in it&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Dang, those are some crazy words.&lt;/p&gt;
-
-&lt;h3 id=&quot;gestalt-principles&quot;&gt;Gestalt Principles&lt;/h3&gt;
-&lt;p&gt;Almost everything we do in graphic design is summarized in these theories and principles. Understanding all of the principles below will make you an ultimate design badass.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“People will perceive and interpret ambiguous or complex images as the simplest form(s) possible.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Law of Prägnanz&lt;/li&gt;
-  &lt;li&gt;Closure&lt;/li&gt;
-  &lt;li&gt;Symmetry &amp;amp; Order&lt;/li&gt;
-  &lt;li&gt;Figure/Ground&lt;/li&gt;
-  &lt;li&gt;Uniform Connectedness&lt;/li&gt;
-  &lt;li&gt;Common Regions&lt;/li&gt;
-  &lt;li&gt;Proximity&lt;/li&gt;
-  &lt;li&gt;Continuation&lt;/li&gt;
-  &lt;li&gt;Common Fate&lt;/li&gt;
-  &lt;li&gt;Parallelism&lt;/li&gt;
-  &lt;li&gt;Similarity&lt;/li&gt;
-  &lt;li&gt;Focal Points&lt;/li&gt;
-  &lt;li&gt;Past Experiences&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;the-pen-tool&quot;&gt;The Pen Tool&lt;/h3&gt;
-&lt;p&gt;That’s enough concepts for now. Let’s dig into one of Illustrators most powerful features. The Pen tool.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week2/pen-tool.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;This should probably be a t-shirt&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
-&lt;p&gt;Using the Pen Tool. We are going to run through a quick and dirty pen tool exercise. &lt;a href=&quot;/files/week2/Pen_Tool_The_Exercise.ai&quot;&gt;Download This File&lt;/a&gt;, open it up in illustrator, and we should be good to go.&lt;/p&gt;
-
-&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Practice Class Activities&lt;/li&gt;
-  &lt;li&gt;Read: Color (pg 70-83)&lt;/li&gt;
-  &lt;li&gt;Read: &lt;a href=&quot;http://freelancefolder.com/typography-
-essentials-a-getting-started-guide/&quot;&gt;Typography Essentials&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Watch: Illustrator Tutorials&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;assignments/assignment-01&quot;&gt;Digital Sketches - Click for assignment&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.thinkingwithtype.com/&quot;&gt;Thinking with Type&lt;/a&gt; – Comprehensive type nerdfest&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://webtypography.net/&quot;&gt;Elements of Typographic Style&lt;/a&gt; – The definitive type manual applied to the web&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 10 Sep 2014 09:18:46 -0500</pubDate>
-        <link>http://teach.trvr.co/week/week-02</link>
-        <guid isPermaLink="true">http://teach.trvr.co/week/week-02</guid>
-        
-        
-        <category>week</category>
-        
-      </item>
     
       <item>
         <title>Welcome!!</title>
         <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://slides.com/trevormcnaughton/hi/live#/&quot;&gt;Introductions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/files/syllabus.pdf&quot;&gt;Review Syllabus&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#google-survey&quot;&gt;First Day Quiz&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#intro-to-illustrator&quot;&gt;Introduction to Illustrator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/DID-36-1300-03-fa14.pdf&quot;&gt;Review Syllabus&lt;/a&gt; – Subject to change!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/15oZegSzd82MabpNdfJdHLbSLTadkHdjCUbBb8Bx-Xo4/viewform?usp=send_form&quot;&gt;First Day Quiz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introduction to Illustrator&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;introduction-to-illustrator&quot;&gt;Introduction to Illustrator&lt;/h3&gt;

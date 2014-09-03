@@ -9,9 +9,9 @@ color: olive
 
 ### Agenda
 - [Introductions](http://slides.com/trevormcnaughton/hi/live#/)
-- [Review Syllabus](/files/syllabus.pdf)
-- [First Day Quiz](#google-survey)
-- [Introduction to Illustrator](#intro-to-illustrator)
+- [Review Syllabus](/files/DID-36-1300-03-fa14.pdf) – Subject to change!
+- [First Day Quiz](https://docs.google.com/forms/d/15oZegSzd82MabpNdfJdHLbSLTadkHdjCUbBb8Bx-Xo4/viewform?usp=send_form)
+- Introduction to Illustrator
 
 ### Introduction to Illustrator
 Illustrator is a super powerful drawing program. It is part of the Adobe Creative Cloud, and will be the first application we learn to use. It is mostly used to draw illustrations, cartoons, logos, and interfaces. It uses mathematical equations to draw lines, shapes, and colors. Meaning anything you make with illustrator is scalable without any loss of resolution.
