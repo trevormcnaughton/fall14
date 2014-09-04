@@ -13,6 +13,7 @@ color: olive
 - All images in same document, use separate artboards
 - 9 Different Images
 - Color is not a requirement since we haven't talked about color theory yet
+- File name format should be the assignment name - assignment number ie `digital-sketches-a1.ai`
 - Line and shape tools only!
 
 ### Description
