@@ -18,55 +18,98 @@ color: teal
 
 The Gestalt theory is the basis of how we visually perceive objects. In essence, when we see a group of objects, we perceive the whole before we consider it’s parts. And even when we look at the parts we want to group them as a whole.
 
-#### Key Properties
-**Emergence** – Is basically pattern recognition. We see the outline of a shape, identify that shape, then we begin to recognize the parts that make up the whole.
-<figure>
-  <img src="/images/week2/emergence.png" alt="">
-  <figcaption>What shape emerges?</figcaption>
-  </img>
-</figure>
+### Key Properties - AKA The list of crazy words
 
-**Reification** – Is filling in the gaps. If there isn’t enough visual data present we will make up the missing information in our minds to create something meaningful.
-<figure>
-  <img src="/images/week2/reification.png" alt="">
-  <figcaption>Shapes without a definitive shape</figcaption>
-  </img>
-</figure>
+<ul class="large-block-grid-2 small-block-grid-1">
 
-**Multi-stability** – Describes what our mind does when it sees two things within one image. We cannot focus on both images, so we only see one at a time.
-<figure>
-  <img src="/images/week2/multistability.png" alt="">
-  <figcaption>One or two images?</figcaption>
-  </img>
-</figure>
+  <li>
+    <h4>Emergence</h4>
+    <p>Is basically pattern recognition. We see the outline of a shape, identify that shape, then we begin to recognize the parts that make up the whole.</p>
+    <figure>
+      <img src="/images/week2/emergence.png" alt="">
+      <figcaption>What shape emerges?</figcaption>
+      </img>
+    </figure>
+  </li>
 
-**Invariance** – The ability to recognize shapes at various angles. This is due to our seeing things in three dimensions. We’ve adapted to recognizing in different contexts.
-<figure>
-  <img src="/images/week2/invariance.png" alt="">
-  <figcaption>It's always a box with a hole in it</figcaption>
-  </img>
-</figure>
+  <li>
+    <h4>Reification</h4>
+    <p>Is filling in the gaps. If there isn’t enough visual data present we will make up the missing information in our minds to create something meaningful.</p>
+    <figure>
+      <img src="/images/week2/reification.png" alt="">
+      <figcaption>Shapes without a definitive shape</figcaption>
+      </img>
+    </figure>
+  </li>
 
-Dang, those are some crazy words.
+  <li>
+    <h4>Multi-stability</h4>
+    <p>Describes what our mind does when it sees two things within one image. We cannot focus on both images, so we only see one at a time.</p>
+    <figure>
+      <img src="/images/week2/multistability.png" alt="">
+      <figcaption>One or two images?</figcaption>
+      </img>
+    </figure>
+  </li>
+
+  <li>
+    <h4>Invariance</h4>
+    <p>The ability to recognize shapes at various angles. This is due to our seeing things in three dimensions. We’ve adapted to recognizing in different contexts.</p>
+    <figure>
+      <img src="/images/week2/invariance.png" alt="">
+      <figcaption>It's always a box with a hole in it</figcaption>
+      </img>
+    </figure>
+  </li>
+</ul>
 
 ### Gestalt Principles
 Almost everything we do in graphic design is summarized in these theories and principles. Understanding all of the principles below will make you an ultimate design badass.
 
 > “People will perceive and interpret ambiguous or complex images as the simplest form(s) possible.”
 
-- Law of Prägnanz
-- Closure
-- Symmetry & Order
-- Figure/Ground
-- Uniform Connectedness
-- Common Regions
-- Proximity
-- Continuation
-- Common Fate
-- Parallelism
-- Similarity
-- Focal Points
-- Past Experiences
+<ul class="large-block-grid-4 small-block-grid-1">
+  <li>
+    <h4>Law of Prägnanz</h4>
+    <img src="/images/week2/law-of-pragnanz.png" />
+    <p>The fundamental principle, we prefer simple, clear, and ordered images. They take less time to recognize and are easier to interperet.</p>
+  </li>
+  <li>
+    <h4>Closure</h4>
+    <img src="/images/week2/closure.png" />
+    <p>We generally look for a single recognizable pattern in images. Often completing images where there may be missing information.</p>
+  </li>
+  <li>
+    <h4>Figure / Ground</h4>
+    <img src="/images/week2/figure-ground.png" />
+    <p>Elements are perceived as either in focus (the foreground of the images) or resting (the background).</p>
+  </li>
+  <li>
+    <h4>Uniform Connectedness</h4>
+    <img src="/images/week2/uniform-connectedness.png" />
+    <p>Similar elements, line, shape, and color grouped together can be visually connected as a whole.</p>
+  </li>
+  <li>
+    <h4>Good Continuation</h4>
+    <img src="/images/week2/good-continuation.png" />
+    <p>Elements appearing in a line or a curve are percieved to be more related than elements not on the line or curve.</p>
+  </li>
+  <li>
+    <h4>Common Fate</h4>
+    <img src="/images/week2/common-fate.gif" />
+    <p>We tend to percieve images moving in the same direction as being more related. </p>
+  </li>
+  <li>
+    <h4>Proximity</h4>
+    <img src="/images/week2/proximity.png" />
+    <p>Things that are close to each other are more easily relatable than things that are not close.</p>
+  </li>
+  <li>
+    <h4>Similarity</h4>
+    <img src="/images/week2/similarity.png" />
+    <p>Things that are similar to each other are more easily relatable than things that are not similar.</p>
+  </li>
+</ul>
 
 ### The Pen Tool
 That's enough concepts for now. Let's dig into one of Illustrators most powerful features. The Pen tool.
@@ -86,7 +129,7 @@ Using the Pen Tool. We are going to run through a quick and dirty pen tool exerc
 - Read: [Typography Essentials](http://freelancefolder.com/typography-
 essentials-a-getting-started-guide/)
 - Watch: Illustrator Tutorials
-- [Digital Sketches - Click for assignment](assignments/assignment-01)
+- [Selfies - Click for assignment](assignments/assignment-02)
 
 ### Additional Resources
 - [Thinking with Type](http://www.thinkingwithtype.com/) – Comprehensive type nerdfest
