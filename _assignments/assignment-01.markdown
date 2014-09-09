@@ -7,6 +7,9 @@ week: Assignment 1
 color: olive
 ---
 
+### Description
+Using the techniques we discussed in class, and concepts from the Point, Line, and Plane readings. Create 9 digital sketches that express 9 different emotions, or design concepts. They can be abstract, but should only use simple shapes and lines to express.
+
 ### Requirements
 - 8.5 x 11 file size
 - .AI file format (Illustrators native format)
@@ -15,9 +18,6 @@ color: olive
 - Color is not a requirement since we haven't talked about color theory yet
 - File name format should be the your firstname - last name - assignment name - assignment number ie `firstname-lastname-digital-sketches-a1.ai`
 - Line and shape tools only!
-
-### Description
-Using the techniques we discussed in class, and concepts from the Point, Line, and Plane readings. Create 9 digital sketches that express 9 different emotions, or design concepts. They can be abstract, but should only use simple shapes and lines to express.
 
 ### Inspiration
 Here are some ideas to get the gears turning.

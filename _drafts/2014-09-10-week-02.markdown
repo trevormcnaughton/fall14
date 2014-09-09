@@ -8,10 +8,10 @@ color: teal
 ---
 
 ### Agenda
-- Homework Review
+- Homework Review / Critique 
 - Gestalt Theory
 - Gestalt Principles
-- Start class portfolios
+- Pen tool activity
 
 ### Gestalt Theory
 > "The whole is other than the sum of the parts” - Kurt Koffka
@@ -119,6 +119,21 @@ That's enough concepts for now. Let's dig into one of Illustrators most powerful
   </img>
 </figure>
 
+#### Breaking down the pen tool
+It's a funny thing. It's simultaneously one of the most powerful tools in Illustrator and it starts out kind of complex, but then becomes really simple and intuitive. The first thing to understand is the Bezier Curve!
+<figure>
+  <img src="/images/week2/bezier-curve.png" alt="">
+  <figcaption>All them curves</figcaption>
+  </img>
+</figure>
+
+The Bezier Curve is the main reason the pen tool was so innovative when Illustrator first came out. It allowed artists to create accurate, curvy, organic lines in a pretty easy way. Let's talk really quick about some of the different options within the pen tool.
+<figure>
+  <img src="/images/week2/pen-tool-options.png" alt="">
+  <figcaption>Some of the options we are going to cover.</figcaption>
+  </img>
+</figure>
+
 ### ACTIVITY TIME
 Using the Pen Tool. We are going to run through a quick and dirty pen tool exercise. [Download This File](/files/week2/Pen_Tool_The_Exercise.ai), open it up in illustrator, and we should be good to go.
 
@@ -126,11 +141,11 @@ Using the Pen Tool. We are going to run through a quick and dirty pen tool exerc
 ### Homework
 - Practice Class Activities
 - Read: Color (pg 70-83)
-- Read: [Typography Essentials](http://freelancefolder.com/typography-
-essentials-a-getting-started-guide/)
+- Read: [Intro to Typography](http://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326)
 - Watch: Illustrator Tutorials
 - [Selfies - Click for assignment](assignments/assignment-02)
 
 ### Additional Resources
+- [Comprehensive Pen Tool](http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141)
 - [Thinking with Type](http://www.thinkingwithtype.com/) – Comprehensive type nerdfest
 - [Elements of Typographic Style](http://webtypography.net/) – The definitive type manual applied to the web
