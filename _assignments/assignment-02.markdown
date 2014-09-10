@@ -13,7 +13,7 @@ You know, #selfies. You will be the subject of this weeks homework. Using your c
 ### Requirements
 - 4" x 4" file size (In illustrator)
 - At least one complete image, you can do more if you really want.
-- File name format for Illustrator file should stick with the firstname - last name - assignment name - assignment number pattern. I.E. `firstname-lastname-digital-sketches-a1.ai`
+- File name format for Illustrator file should stick with the firstname - last name - assignment name - assignment number pattern. I.E. `firstname-lastname-selfies-a2.ai`
 - No tool restrictions this time
 - Think about gestalt! And work the principles into these assignments!
 
