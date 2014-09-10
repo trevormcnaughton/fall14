@@ -8,7 +8,7 @@ color: teal
 ---
 
 ### Agenda
-- Homework Review / Critique 
+- Homework Review / Critique
 - Gestalt Theory
 - Gestalt Principles
 - Pen tool activity
@@ -143,7 +143,7 @@ Using the Pen Tool. We are going to run through a quick and dirty pen tool exerc
 - Read: Color (pg 70-83)
 - Read: [Intro to Typography](http://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326)
 - Watch: Illustrator Tutorials
-- [Selfies - Click for assignment](assignments/assignment-02)
+- [Selfies - Click for assignment](/assignments/assignment-02.html)
 
 ### Additional Resources
 - [Comprehensive Pen Tool](http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141)
