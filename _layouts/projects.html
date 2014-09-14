@@ -8,20 +8,14 @@ layout: default
   <div class="large-12 columns">
     {{ content }}
     <ul class="large-block-grid-2 small-block-grid-1 list-grid">
-      <!-- {% for post in site.projects %}
+    {% for post in site.projects %}
       <li class="list-block-wrapper">
         <a href="{{ post.url | prepend: site.baseurl }}" class="list-block-inner list--{{ post.color }}">
           <h3>{{ post.title }}</h3>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </a>
       </li>
-      {% endfor %} -->
-      <li class="list-block-wrapper">
-        <a href="#" class="list-block-inner">
-          <h3>Project 1</h3>
-          <span class="post-meta">Coming Soon...</span>
-        </a>
-      </li>
+      {% endfor %}
     </ul>
   </div>
 </div>

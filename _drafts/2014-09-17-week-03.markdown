@@ -9,25 +9,81 @@ bgimage: '/images/week2/typecolor-bg.png'
 ---
 
 ### Agenda
-- Homework Review
-- Gestalt Theory
-- Gestalt Principles
+- Homework Review / Critique
+- Basic Color Theory
+- Understanding Type
 - Start class portfolios
 
-### Gestalt Theory
+### Basic Color Theory
+The color wheel
+
+### The Anatomy of Type
+- Difference between font and typeface.
+
+- [http://shape.method.ac/](http://shape.method.ac/)
+- [http://type.method.ac/](http://type.method.ac/)
+
+#### Type has personality
+Every typeface has a personality, and an opnion. Sometimes, just like with real people, different faces will have stronger personality traits. Eitheway any typeface will be able to tell a story about itself.
+
+<figure>
+  <img src="/images/week3/type-regal.png" alt="">
+  <figcaption>Lust Didone is super regal</figcaption>
+  </img>
+</figure>
+
+<figure>
+  <img src="/images/week3/type-sturdy.png" alt="">
+  <figcaption>Merriweather is a solid typeface</figcaption>
+  </img>
+</figure>
+
+<figure>
+  <img src="/images/week3/type-overt.png" alt="">
+  <figcaption>Some are very unique</figcaption>
+  </img>
+</figure>
+
+<figure>
+  <img src="/images/week3/type-stylized.png" alt="">
+  <figcaption>Duke is very unique, and strong</figcaption>
+  </img>
+</figure>
+
+<figure>
+  <img src="/images/week3/type-comical.png" alt="">
+  <figcaption>I had to...</figcaption>
+  </img>
+</figure>
+
+When choosing a typeface you really need to think about the message you want to get across. You aren't going to write going to make a metal show poster in comic sans. Unless you are a super troll.
+
+#### Pairing
+Just like a good friend is a perfect pair, or your favorite shoes fit just right. Many typefaces are able to pair in very beautifulways. Check out [Just my type](http://justmytype.co/) for some good examples of typefaces being paired.
 
 ### ACTIVITY TIME
+Eff yes ______. I love that shit.
+Eff yes ______. I would go to battle for that.
+
+- Font
+- Size
+- Weight
+- Tracking
+- Leading
+- Kerning
 
 
 ### Homework
 - Practice Class Activities
-- Read: Color (pg 70-83)
-- Read: [Typography Essentials](http://freelancefolder.com/typography-
-essentials-a-getting-started-guide/)
+- Read:
 - Watch: Illustrator Tutorials
-- [Digital Sketches - Click for assignment](assignments/assignment-01)
+- [PROJECT 01 - Click for assignment](projects/project-01.html) – Minimal Movie or Game Poster
+- 10 Examples of good typography – in the wild (Extra Credit)
 
 ### Additional Resources
-- [http://shape.method.ac/](http://shape.method.ac/)
-- [http://type.method.ac/](http://type.method.ac/)
+- [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) - Create color palettes, schemes. Integrates with adobe apps
+- [Lost Type Co](http://losttype.com) - A co-op type foundry on the nannernet
+- [Avondale type Co](http://avondaletypeco.com/) - An awesome local type foundry located in Avondale (not free, but good type isn't free)
+- [Typekit](http://typekict.com) - If you have an Adobe CC account you get one of these with it
+- [Just my type](http://justmytype.co/) - Good resource for pairing fonts
 - [http://thinkingwithtype.com/](http://thinkingwithtype.com/)
