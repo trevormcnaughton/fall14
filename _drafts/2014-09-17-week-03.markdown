@@ -20,9 +20,6 @@ The color wheel
 ### The Anatomy of Type
 - Difference between font and typeface.
 
-- [http://shape.method.ac/](http://shape.method.ac/)
-- [http://type.method.ac/](http://type.method.ac/)
-
 #### Type has personality
 Every typeface has a personality, and an opnion. Sometimes, just like with real people, different faces will have stronger personality traits. Eitheway any typeface will be able to tell a story about itself.
 
@@ -71,6 +68,7 @@ Eff yes ______. I would go to battle for that.
 - Tracking
 - Leading
 - Kerning
+- [http://type.method.ac/](http://type.method.ac/)
 
 
 ### Homework
@@ -82,6 +80,7 @@ Eff yes ______. I would go to battle for that.
 
 ### Additional Resources
 - [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) - Create color palettes, schemes. Integrates with adobe apps
+- [http://shape.method.ac/](http://shape.method.ac/) – Letterform shape game
 - [Lost Type Co](http://losttype.com) - A co-op type foundry on the nannernet
 - [Avondale type Co](http://avondaletypeco.com/) - An awesome local type foundry located in Avondale (not free, but good type isn't free)
 - [Typekit](http://typekict.com) - If you have an Adobe CC account you get one of these with it

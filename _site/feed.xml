@@ -5,8 +5,8 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Sep 2014 11:29:45 -0500</pubDate>
-    <lastBuildDate>Sun, 14 Sep 2014 11:29:45 -0500</lastBuildDate>
+    <pubDate>Sun, 14 Sep 2014 11:49:06 -0500</pubDate>
+    <lastBuildDate>Sun, 14 Sep 2014 11:49:06 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -24,11 +24,7 @@
 
 &lt;h3 id=&quot;the-anatomy-of-type&quot;&gt;The Anatomy of Type&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Difference between font and typeface.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://shape.method.ac/&quot;&gt;http://shape.method.ac/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://type.method.ac/&quot;&gt;http://type.method.ac/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Difference between font and typeface.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;type-has-personality&quot;&gt;Type has personality&lt;/h4&gt;
@@ -80,6 +76,7 @@ Eff yes &lt;strong&gt;__&lt;/strong&gt;. I would go to battle for that.&lt;/p&gt
   &lt;li&gt;Tracking&lt;/li&gt;
   &lt;li&gt;Leading&lt;/li&gt;
   &lt;li&gt;Kerning&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://type.method.ac/&quot;&gt;http://type.method.ac/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
@@ -94,6 +91,7 @@ Eff yes &lt;strong&gt;__&lt;/strong&gt;. I would go to battle for that.&lt;/p&gt
 &lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://kuler.adobe.com/create/color-wheel/&quot;&gt;Adobe Kuler&lt;/a&gt; - Create color palettes, schemes. Integrates with adobe apps&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://shape.method.ac/&quot;&gt;http://shape.method.ac/&lt;/a&gt; – Letterform shape game&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://losttype.com&quot;&gt;Lost Type Co&lt;/a&gt; - A co-op type foundry on the nannernet&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://avondaletypeco.com/&quot;&gt;Avondale type Co&lt;/a&gt; - An awesome local type foundry located in Avondale (not free, but good type isn’t free)&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://typekict.com&quot;&gt;Typekit&lt;/a&gt; - If you have an Adobe CC account you get one of these with it&lt;/li&gt;
