@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DID Fall 2014</title>
+    <description>Class website for DID Fall 2014</description>
+    <link>http://teach.trvr.co/</link>
+    <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 16 Sep 2014 22:26:01 -0500</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2014 22:26:01 -0500</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Color &amp; Type</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Homework Review / Critique&lt;/li&gt;
+  &lt;li&gt;Basic Color Theory&lt;/li&gt;
+  &lt;li&gt;Understanding Type&lt;/li&gt;
+  &lt;li&gt;Activity&lt;/li&gt;
+  &lt;li&gt;Start Project 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;first-color-theory&quot;&gt;First, Color Theory&lt;/h1&gt;
+&lt;p&gt;Color. Color is a HUGE huge huge concept. Actually both color and type are huge huge huge concepts. But, we are gonna tackle them both since &lt;strong&gt;YOU DEFINITELY ALL READ THE COLOR CHAPTER SO I DON’T EVEN REALLY NEED TO COVER THIS VERY MUCH RIGHT?&lt;/strong&gt; And because we are awesome.&lt;/p&gt;
+
+&lt;ul class=&quot;large-block-grid-3 small-block-grid-1&quot;&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Color Wheel&lt;/h4&gt;
+    &lt;p&gt;Shows relationships between colors. All dem colors.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/hue.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Primary Colors&lt;/h4&gt;
+    &lt;p&gt;These are mixed to make all other colors. Can’t be made from other colors.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/primary.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Secondary Colors&lt;/h4&gt;
+    &lt;p&gt;Two primary colors mixed together create secondary colors.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/secondary.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Tertiary Colors&lt;/h4&gt;
+    &lt;p&gt;Created with one primary and one secondary color mixed together.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/tertiary.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Complementary&lt;/h4&gt;
+    &lt;p&gt;Opposite each other on the color wheel. Think Christmas, Da Bears, or The Lakers&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/complimentary.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Analogous Colors&lt;/h4&gt;
+    &lt;p&gt;In the same section, or very near each other, on the color wheel.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/analogous.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;color-attributes&quot;&gt;Color Attributes&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Hue:&lt;/strong&gt; An element of the color wheel (ROYGBV)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Intensity:&lt;/strong&gt; How bright or dull a color is. Intensity changes with a change in saturation, shading, and/or tinting.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Saturation:&lt;/strong&gt; Purity of a color when neutralizing to grey.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Value:&lt;/strong&gt; How light or dark the color is.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Shade:&lt;/strong&gt; hue + black&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tint:&lt;/strong&gt; hue + white&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;color-models-aka-color-space&quot;&gt;Color Models (aka Color Space)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;CMYK:&lt;/strong&gt; Cyan, magenta, yellow, and black. Printing/pigments. Subtractive (pigments absorb light, subtracting certain wavelengths of light from our visible spectrum)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;RGB:&lt;/strong&gt; Red, green, blue. On screen. Additive. All three colors at full strength creates white light, while black is the absence of light.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;color-effects&quot;&gt;Color Effects&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bezold Effect:&lt;/strong&gt; Optical mixing, an optical illusion wherein a color appears lighter or darker based on what color it is adjacent to.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Vibration and Value:&lt;/strong&gt; A color placed on another color close in value can appear to “glow”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;and-now-type&quot;&gt;And now: Type&lt;/h1&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/anatomy.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Memorize this. If I ever quiz you on things, this will be on that quiz&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul class=&quot;large-block-grid-2 small-block-grid-1&quot;&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Typeface&lt;/h4&gt;
+    &lt;p&gt;A family of fonts. AKA All of Avenir is the Typeface, a font is Avenir Light&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/typeface.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Size&lt;/h4&gt;
+    &lt;p&gt;Size refers to how big the font is in a unit of measure. &lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/font-size.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Weight&lt;/h4&gt;
+    &lt;p&gt;The weight of the font, usually defined as light, regular, or bold.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/font-weight.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Tracking&lt;/h4&gt;
+    &lt;p&gt;Defines the space between characters in a word. This is not the same as Kerning.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/tracking.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Leading&lt;/h4&gt;
+    &lt;p&gt;Is the space between lines of text. Imagine a strip of lead resting between the lines&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/leading.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Kerning&lt;/h4&gt;
+    &lt;p&gt;The space between individual characters. &lt;a href=&quot;http://www.fastcodesign.com/3035334/fast-feed/esurance-learns-an-expensive-lesson-on-why-kerning-matters&quot;&gt;This is why kerning matters&lt;/a&gt;&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/kerning.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;game-time&quot;&gt;Game Time&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://shape.method.ac/&quot;&gt;http://shape.method.ac/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://type.method.ac/&quot;&gt;http://type.method.ac/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;type-has-personality&quot;&gt;Type has personality&lt;/h3&gt;
+&lt;p&gt;Every typeface has a personality, and an opnion. Sometimes, just like with real people, different faces will have stronger personality traits. Eitheway any typeface will be able to tell a story about itself.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/type-regal.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Lust Didone is super regal&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/type-sturdy.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Merriweather is a solid typeface&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/type-overt.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Some are very unique&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/type-stylized.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Duke is very unique, and strong&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/type-comical.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;I had to...&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;When choosing a typeface you really need to think about the message you want to get across. You aren’t going to write going to make a metal show poster in comic sans. Unless you are a super troll.&lt;/p&gt;
+
+&lt;h3 id=&quot;type-in-illustrator&quot;&gt;Type in Illustrator&lt;/h3&gt;
+&lt;p&gt;Typograpy in Illustrator is another strong use-case for it’s popularity, and power. Here is a breakdown of the Type Tool Palette&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/type-tool.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;The elusive Illustrator type tool&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
+&lt;p&gt;Type out your favorite movie / game / whatever quote and we will set (set is the fancymans word for making type look good) it in illustrator.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Goonies never say die. / Do the truffle shuffle.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Two quotes from my favorite movie. Someone else in this room better love this movie…&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/chunk.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Proof of my goonie-wisdom&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Practice Class Activities&lt;/li&gt;
+  &lt;li&gt;Read: Rhythm &amp;amp; Balance and Scale (pg 28 - 51)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/projects/project-01.html&quot;&gt;PROJECT 01 PROGRESS - Click for assignment&lt;/a&gt; – Minimal Movie or Game Poster, show me sketches &amp;amp; concept&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/extra-credit/extra-credit-01.html&quot;&gt;10 Examples of good typography in the wild (Extra Credit)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kuler.adobe.com/create/color-wheel/&quot;&gt;Adobe Kuler&lt;/a&gt; - Create color palettes, schemes. Integrates with adobe apps&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://losttype.com&quot;&gt;Lost Type Co&lt;/a&gt; - A co-op type foundry on the nannernet&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://avondaletypeco.com/&quot;&gt;Avondale type Co&lt;/a&gt; - An awesome local type foundry located in Avondale (not free, but good type isn’t free)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://typekict.com&quot;&gt;Typekit&lt;/a&gt; - If you have an Adobe CC account you get one of these with it&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://justmytype.co/&quot;&gt;Just my type&lt;/a&gt; - Good resource for pairing fonts&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thinkingwithtype.com/&quot;&gt;http://thinkingwithtype.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Sep 2014 00:00:00 -0500</pubDate>
+        <link>http://teach.trvr.co/week/week-03</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-03</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
+    
+      <item>
+        <title>Building Blocks</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Homework Review / Critique&lt;/li&gt;
+  &lt;li&gt;Gestalt Theory&lt;/li&gt;
+  &lt;li&gt;Gestalt Principles&lt;/li&gt;
+  &lt;li&gt;Pen tool activity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;gestalt-theory&quot;&gt;Gestalt Theory&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“The whole is other than the sum of the parts” - Kurt Koffka&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Gestalt theory is the basis of how we visually perceive objects. In essence, when we see a group of objects, we perceive the whole before we consider it’s parts. And even when we look at the parts we want to group them as a whole.&lt;/p&gt;
+
+&lt;h3 id=&quot;key-properties---aka-the-list-of-crazy-words&quot;&gt;Key Properties - AKA The list of crazy words&lt;/h3&gt;
+
+&lt;ul class=&quot;large-block-grid-2 small-block-grid-1&quot;&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Emergence&lt;/h4&gt;
+    &lt;p&gt;Is basically pattern recognition. We see the outline of a shape, identify that shape, then we begin to recognize the parts that make up the whole.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week2/emergence.png&quot; alt=&quot;&quot; /&gt;
+      &lt;figcaption&gt;What shape emerges?&lt;/figcaption&gt;
+      
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Reification&lt;/h4&gt;
+    &lt;p&gt;Is filling in the gaps. If there isn’t enough visual data present we will make up the missing information in our minds to create something meaningful.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week2/reification.png&quot; alt=&quot;&quot; /&gt;
+      &lt;figcaption&gt;Shapes without a definitive shape&lt;/figcaption&gt;
+      
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Multi-stability&lt;/h4&gt;
+    &lt;p&gt;Describes what our mind does when it sees two things within one image. We cannot focus on both images, so we only see one at a time.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week2/multistability.png&quot; alt=&quot;&quot; /&gt;
+      &lt;figcaption&gt;One or two images?&lt;/figcaption&gt;
+      
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Invariance&lt;/h4&gt;
+    &lt;p&gt;The ability to recognize shapes at various angles. This is due to our seeing things in three dimensions. We’ve adapted to recognizing in different contexts.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week2/invariance.png&quot; alt=&quot;&quot; /&gt;
+      &lt;figcaption&gt;It's always a box with a hole in it&lt;/figcaption&gt;
+      
+    &lt;/figure&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;gestalt-principles&quot;&gt;Gestalt Principles&lt;/h3&gt;
+&lt;p&gt;Almost everything we do in graphic design is summarized in these theories and principles. Understanding all of the principles below will make you an ultimate design badass.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“People will perceive and interpret ambiguous or complex images as the simplest form(s) possible.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul class=&quot;large-block-grid-4 small-block-grid-1&quot;&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Law of Prägnanz&lt;/h4&gt;
+    &lt;img src=&quot;/images/week2/law-of-pragnanz.png&quot; /&gt;
+    &lt;p&gt;The fundamental principle, we prefer simple, clear, and ordered images. They take less time to recognize and are easier to interperet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Closure&lt;/h4&gt;
+    &lt;img src=&quot;/images/week2/closure.png&quot; /&gt;
+    &lt;p&gt;We generally look for a single recognizable pattern in images. Often completing images where there may be missing information.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Figure / Ground&lt;/h4&gt;
+    &lt;img src=&quot;/images/week2/figure-ground.png&quot; /&gt;
+    &lt;p&gt;Elements are perceived as either in focus (the foreground of the images) or resting (the background).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Uniform Connectedness&lt;/h4&gt;
+    &lt;img src=&quot;/images/week2/uniform-connectedness.png&quot; /&gt;
+    &lt;p&gt;Similar elements, line, shape, and color grouped together can be visually connected as a whole.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Good Continuation&lt;/h4&gt;
+    &lt;img src=&quot;/images/week2/good-continuation.png&quot; /&gt;
+    &lt;p&gt;Elements appearing in a line or a curve are percieved to be more related than elements not on the line or curve.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Common Fate&lt;/h4&gt;
+    &lt;img src=&quot;/images/week2/common-fate.gif&quot; /&gt;
+    &lt;p&gt;We tend to percieve images moving in the same direction as being more related. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Proximity&lt;/h4&gt;
+    &lt;img src=&quot;/images/week2/proximity.png&quot; /&gt;
+    &lt;p&gt;Things that are close to each other are more easily relatable than things that are not close.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Similarity&lt;/h4&gt;
+    &lt;img src=&quot;/images/week2/similarity.png&quot; /&gt;
+    &lt;p&gt;Things that are similar to each other are more easily relatable than things that are not similar.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-pen-tool&quot;&gt;The Pen Tool&lt;/h3&gt;
+&lt;p&gt;That’s enough concepts for now. Let’s dig into one of Illustrators most powerful features. The Pen tool.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week2/pen-tool.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;This should probably be a t-shirt&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;breaking-down-the-pen-tool&quot;&gt;Breaking down the pen tool&lt;/h4&gt;
+&lt;p&gt;It’s a funny thing. It’s simultaneously one of the most powerful tools in Illustrator and it starts out kind of complex, but then becomes really simple and intuitive. The first thing to understand is the Bezier Curve!&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week2/bezier-curve.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;All them curves&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;The Bezier Curve is the main reason the pen tool was so innovative when Illustrator first came out. It allowed artists to create accurate, curvy, organic lines in a pretty easy way. Let’s talk really quick about some of the different options within the pen tool.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week2/pen-tool-options.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Some of the options we are going to cover.&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
+&lt;p&gt;Using the Pen Tool. We are going to run through a quick and dirty pen tool exercise. &lt;a href=&quot;/files/week2/Pen_Tool_The_Exercise.ai&quot;&gt;Download This File&lt;/a&gt;, open it up in illustrator, and we should be good to go.&lt;/p&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Practice Class Activities&lt;/li&gt;
+  &lt;li&gt;Read: Color (pg 70-83)&lt;/li&gt;
+  &lt;li&gt;Read: &lt;a href=&quot;http://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326&quot;&gt;Intro to Typography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Watch: &lt;a href=&quot;http://www.lynda.com/Illustrator-tutorials/tool-can-draw-anything/124100/142940-4.html&quot;&gt;These Lynda Illustrator Tutorials&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assignments/assignment-02.html&quot;&gt;Selfies - Click for assignment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141&quot;&gt;Comprehensive Pen Tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.thinkingwithtype.com/&quot;&gt;Thinking with Type&lt;/a&gt; – Comprehensive type nerdfest&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://webtypography.net/&quot;&gt;Elements of Typographic Style&lt;/a&gt; – The definitive type manual applied to the web&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 10 Sep 2014 09:18:46 -0500</pubDate>
+        <link>http://teach.trvr.co/week/week-02</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-02</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome!!</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://slides.com/trevormcnaughton/hi/live#/&quot;&gt;Introductions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/DID-36-1300-03-fa14.pdf&quot;&gt;Review Syllabus&lt;/a&gt; – Subject to change!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/15oZegSzd82MabpNdfJdHLbSLTadkHdjCUbBb8Bx-Xo4/viewform?usp=send_form&quot;&gt;First Day Survey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introduction to Illustrator&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;introduction-to-illustrator&quot;&gt;Introduction to Illustrator&lt;/h3&gt;
+&lt;p&gt;Illustrator is a super powerful drawing program. It is part of the Adobe Creative Cloud, and will be the first application we learn to use. It is mostly used to draw illustrations, cartoons, logos, and interfaces. It uses mathematical equations to draw lines, shapes, and colors. Meaning anything you make with illustrator is scalable without any loss of resolution.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week1/logo-examples.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Vector logo examples&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week1/character-examples.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Some vector characters&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week1/interface-examples.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;A couple rad interfaces&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;Hopefully this gives you an idea of some of the things we are capable of building with illustrator. It’s a very powerful tool, and has a whole lot of nuances. Don’t get overwhelmed, we will tackle it piece by piece. Starting from the very beginning. Creating a new file. Below is the basic rundown of what we will cover first. Don’t worry, things will get more exciting&lt;/p&gt;
+
+&lt;p&gt;First we will create a new document. &lt;code&gt;File&lt;/code&gt; &amp;gt; &lt;code&gt;New&lt;/code&gt; and make a new Letter Document (8.5x11 inches). We will just use the default settings for now.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week1/ai-new-doc.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;The new file interface&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Alternatively, you can open an image file within Illustrator via &lt;code&gt;File&lt;/code&gt; &amp;gt; &lt;code&gt;Open&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s take a look at some of the User Interface (UI). There’s a lot here and you won’t be expected to memorize all of it right away. This toolbar is going to be one of your best friends over the next few weeks. Get to know it, and love it.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week1/ai-toolbar.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Illustrator Toolbar&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
+&lt;p&gt;Lets make some faces with the basic Illustrator tools. Using only the line tool, and shape tools, lets put together a few quick faces. Try playing with different stroke thicknesses, and different shape sizes.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week1/activity-shapes.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;What can we make using just these shapes?&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;shape-faces&quot;&gt;Shape Faces&lt;/h3&gt;
+&lt;p&gt;What was difficult about it? Were the rules helpful or too much of a constraint?&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week1/activity-shape-faces.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;You don't always need to render detailed images to get an idea across&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Practice Class Activities&lt;/li&gt;
+  &lt;li&gt;Read: Point, Line, and Plane (pg 12-27)&lt;/li&gt;
+  &lt;li&gt;Watch: Illustrator tutorials on Lynda.com&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assignments/assignment-01.html&quot;&gt;Assignment 1 – Digital Sketches&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;notes--extra-stuff&quot;&gt;Notes &amp;amp; Extra stuff&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141&quot;&gt;Comprehensive Pen Tool Guide&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Sep 2014 09:18:46 -0500</pubDate>
+        <link>http://teach.trvr.co/week/week-01</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-01</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
+    
+  </channel>
+</rss>

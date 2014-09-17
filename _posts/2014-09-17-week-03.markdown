@@ -97,8 +97,6 @@ Color. Color is a HUGE huge huge concept. Actually both color and type are huge 
 - **Vibration and Value:** A color placed on another color close in value can appear to “glow”
 
 # And now: Type
-
-### The Anatomy of Type
 <figure>
   <img src="/images/week3/anatomy.png" alt="" />
   <figcaption>Memorize this. If I ever quiz you on things, this will be on that quiz</figcaption>
