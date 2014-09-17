@@ -9,6 +9,7 @@ bgimage: '/images/week2/typecolor-bg.png'
 ---
 
 ### Agenda
+- [LOOK AT THIS](http://bezier.method.ac/)
 - Homework Review / Critique
 - Basic Color Theory
 - Understanding Type
