@@ -5,15 +5,14 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 16 Sep 2014 22:26:01 -0500</pubDate>
-    <lastBuildDate>Tue, 16 Sep 2014 22:26:01 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Sep 2014 18:02:35 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Sep 2014 18:02:35 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
         <title>Color &amp; Type</title>
         <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Homework Review / Critique&lt;/li&gt;
   &lt;li&gt;Basic Color Theory&lt;/li&gt;
   &lt;li&gt;Understanding Type&lt;/li&gt;
   &lt;li&gt;Activity&lt;/li&gt;
@@ -76,46 +75,26 @@
 &lt;h3 id=&quot;color-attributes&quot;&gt;Color Attributes&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Hue:&lt;/strong&gt; An element of the color wheel (ROYGBV)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Intensity:&lt;/strong&gt; How bright or dull a color is. Intensity changes with a change in saturation, shading, and/or tinting.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Saturation:&lt;/strong&gt; Purity of a color when neutralizing to grey.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Value:&lt;/strong&gt; How light or dark the color is.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Shade:&lt;/strong&gt; hue + black&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Tint:&lt;/strong&gt; hue + white&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hue:&lt;/strong&gt; An element of the color wheel (ROYGBV)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Intensity:&lt;/strong&gt; How bright or dull a color is. Intensity changes with a change in saturation, shading, and/or tinting.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Saturation:&lt;/strong&gt; Purity of a color when neutralizing to grey.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Value:&lt;/strong&gt; How light or dark the color is.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shade:&lt;/strong&gt; hue + black&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tint:&lt;/strong&gt; hue + white&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;color-models-aka-color-space&quot;&gt;Color Models (aka Color Space)&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;CMYK:&lt;/strong&gt; Cyan, magenta, yellow, and black. Printing/pigments. Subtractive (pigments absorb light, subtracting certain wavelengths of light from our visible spectrum)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;RGB:&lt;/strong&gt; Red, green, blue. On screen. Additive. All three colors at full strength creates white light, while black is the absence of light.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CMYK:&lt;/strong&gt; Cyan, magenta, yellow, and black. Printing/pigments. Subtractive (pigments absorb light, subtracting certain wavelengths of light from our visible spectrum)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RGB:&lt;/strong&gt; Red, green, blue. On screen. Additive. All three colors at full strength creates white light, while black is the absence of light.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;color-effects&quot;&gt;Color Effects&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Bezold Effect:&lt;/strong&gt; Optical mixing, an optical illusion wherein a color appears lighter or darker based on what color it is adjacent to.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Vibration and Value:&lt;/strong&gt; A color placed on another color close in value can appear to “glow”&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bezold Effect:&lt;/strong&gt; Optical mixing, an optical illusion wherein a color appears lighter or darker based on what color it is adjacent to.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vibration and Value:&lt;/strong&gt; A color placed on another color close in value can appear to “glow”&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;and-now-type&quot;&gt;And now: Type&lt;/h1&gt;
@@ -174,12 +153,13 @@
 
 &lt;h3 id=&quot;game-time&quot;&gt;Game Time&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://shape.method.ac/&quot;&gt;http://shape.method.ac/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://type.method.ac/&quot;&gt;http://type.method.ac/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://shape.method.ac/&quot;&gt;http://shape.method.ac/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bezier.method.ac/&quot;&gt;http://bezier.method.ac/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;type-has-personality&quot;&gt;Type has personality&lt;/h3&gt;
-&lt;p&gt;Every typeface has a personality, and an opnion. Sometimes, just like with real people, different faces will have stronger personality traits. Eitheway any typeface will be able to tell a story about itself.&lt;/p&gt;
+&lt;p&gt;Every font has a personality, and an opnion. Sometimes, just like with real people, different fonts will have stronger personality traits. Every font will be able to tell a story about itself.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;/images/week3/type-regal.png&quot; alt=&quot;&quot; /&gt;
@@ -222,7 +202,7 @@
 &lt;/figure&gt;
 
 &lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
-&lt;p&gt;Type out your favorite movie / game / whatever quote and we will set (set is the fancymans word for making type look good) it in illustrator.&lt;/p&gt;
+&lt;p&gt;Type out your favorite movie / game / whatever quote and we will set (set is the fancymans word for making type look good) it in illustrator using all the type tool has to offer.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Goonies never say die. / Do the truffle shuffle.&lt;/p&gt;
@@ -240,7 +220,7 @@
 &lt;ul&gt;
   &lt;li&gt;Practice Class Activities&lt;/li&gt;
   &lt;li&gt;Read: Rhythm &amp;amp; Balance and Scale (pg 28 - 51)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/projects/project-01.html&quot;&gt;PROJECT 01 PROGRESS - Click for assignment&lt;/a&gt; – Minimal Movie or Game Poster, show me sketches &amp;amp; concept&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/projects/project-01.html&quot;&gt;PROJECT 01 (PROGRESS)&lt;/a&gt; – Minimal movie poster, game cover, or book cover. Show me sketches &amp;amp; concept&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/extra-credit/extra-credit-01.html&quot;&gt;10 Examples of good typography in the wild (Extra Credit)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 

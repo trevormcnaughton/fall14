@@ -9,7 +9,6 @@ bgimage: '/images/week2/typecolor-bg.png'
 ---
 
 ### Agenda
-- Homework Review / Critique
 - Basic Color Theory
 - Understanding Type
 - Activity
@@ -71,29 +70,22 @@ Color. Color is a HUGE huge huge concept. Actually both color and type are huge 
 ### Color Attributes
 
 - **Hue:** An element of the color wheel (ROYGBV)
-
 - **Intensity:** How bright or dull a color is. Intensity changes with a change in saturation, shading, and/or tinting.
-
 - **Saturation:** Purity of a color when neutralizing to grey.
-
 - **Value:** How light or dark the color is.
-
 - **Shade:** hue + black
-
 - **Tint:** hue + white
 
 
 ### Color Models (aka Color Space)
 
 - **CMYK:** Cyan, magenta, yellow, and black. Printing/pigments. Subtractive (pigments absorb light, subtracting certain wavelengths of light from our visible spectrum)
-
 - **RGB:** Red, green, blue. On screen. Additive. All three colors at full strength creates white light, while black is the absence of light.
 
 
 ### Color Effects
 
 - **Bezold Effect:** Optical mixing, an optical illusion wherein a color appears lighter or darker based on what color it is adjacent to.
-
 - **Vibration and Value:** A color placed on another color close in value can appear to “glow”
 
 # And now: Type
@@ -152,11 +144,12 @@ Color. Color is a HUGE huge huge concept. Actually both color and type are huge 
 </ul>
 
 ### Game Time
-- [http://shape.method.ac/](http://shape.method.ac/)
 - [http://type.method.ac/](http://type.method.ac/)
+- [http://shape.method.ac/](http://shape.method.ac/)
+- [http://bezier.method.ac/](http://bezier.method.ac/)
 
 ### Type has personality
-Every typeface has a personality, and an opnion. Sometimes, just like with real people, different faces will have stronger personality traits. Eitheway any typeface will be able to tell a story about itself.
+Every font has a personality, and an opnion. Sometimes, just like with real people, different fonts will have stronger personality traits. Every font will be able to tell a story about itself.
 
 <figure>
   <img src="/images/week3/type-regal.png" alt="">
@@ -199,7 +192,7 @@ Typograpy in Illustrator is another strong use-case for it's popularity, and pow
 </figure>
 
 ### ACTIVITY TIME
-Type out your favorite movie / game / whatever quote and we will set (set is the fancymans word for making type look good) it in illustrator.
+Type out your favorite movie / game / whatever quote and we will set (set is the fancymans word for making type look good) it in illustrator using all the type tool has to offer.
 
 >Goonies never say die. / Do the truffle shuffle.
 
@@ -214,7 +207,7 @@ Two quotes from my favorite movie. Someone else in this room better love this mo
 ### Homework
 - Practice Class Activities
 - Read: Rhythm & Balance and Scale (pg 28 - 51)
-- [PROJECT 01 PROGRESS - Click for assignment](/projects/project-01.html) – Minimal Movie or Game Poster, show me sketches & concept
+- [PROJECT 01 (PROGRESS)](/projects/project-01.html) – Minimal movie poster, game cover, or book cover. Show me sketches & concept
 - [10 Examples of good typography in the wild (Extra Credit)](/extra-credit/extra-credit-01.html)
 
 ### Additional Resources
