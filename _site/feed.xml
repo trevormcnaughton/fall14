@@ -5,8 +5,8 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Sep 2014 11:29:45 -0500</pubDate>
-    <lastBuildDate>Sun, 14 Sep 2014 11:29:45 -0500</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2014 21:55:17 -0500</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2014 21:55:17 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -16,22 +16,171 @@
   &lt;li&gt;Homework Review / Critique&lt;/li&gt;
   &lt;li&gt;Basic Color Theory&lt;/li&gt;
   &lt;li&gt;Understanding Type&lt;/li&gt;
-  &lt;li&gt;Start class portfolios&lt;/li&gt;
+  &lt;li&gt;Activity&lt;/li&gt;
+  &lt;li&gt;Start Project 1&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;basic-color-theory&quot;&gt;Basic Color Theory&lt;/h3&gt;
-&lt;p&gt;The color wheel&lt;/p&gt;
+&lt;h1 id=&quot;first-color-theory&quot;&gt;First, Color Theory&lt;/h1&gt;
+&lt;p&gt;Color. Color is a HUGE huge huge concept. Actually both color and type are huge huge huge concepts. But, we are gonna tackle them both since &lt;strong&gt;YOU DEFINITELY ALL READ THE COLOR CHAPTER SO I DON’T EVEN REALLY NEED TO COVER THIS VERY MUCH RIGHT?&lt;/strong&gt; And because we are awesome.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-anatomy-of-type&quot;&gt;The Anatomy of Type&lt;/h3&gt;
+&lt;ul class=&quot;large-block-grid-3 small-block-grid-1&quot;&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Color Wheel&lt;/h4&gt;
+    &lt;p&gt;Shows relationships between colors. All dem colors.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/hue.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Primary Colors&lt;/h4&gt;
+    &lt;p&gt;These are mixed to make all other colors. Can’t be made from other colors.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/primary.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Secondary Colors&lt;/h4&gt;
+    &lt;p&gt;Two primary colors mixed together create secondary colors.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/secondary.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Tertiary Colors&lt;/h4&gt;
+    &lt;p&gt;Created with one primary and one secondary color mixed together.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/tertiary.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Complementary&lt;/h4&gt;
+    &lt;p&gt;Opposite each other on the color wheel. Think Christmas, Da Bears, or The Lakers&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/complimentary.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Analogous Colors&lt;/h4&gt;
+    &lt;p&gt;In the same section, or very near each other, on the color wheel.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/analogous.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;color-attributes&quot;&gt;Color Attributes&lt;/h3&gt;
+
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Difference between font and typeface.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Hue:&lt;/strong&gt; An element of the color wheel (ROYGBV)&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Intensity:&lt;/strong&gt; How bright or dull a color is. Intensity changes with a change in saturation, shading, and/or tinting.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Saturation:&lt;/strong&gt; Purity of a color when neutralizing to grey.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Value:&lt;/strong&gt; How light or dark the color is.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Shade:&lt;/strong&gt; hue + black&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tint:&lt;/strong&gt; hue + white&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;color-models-aka-color-space&quot;&gt;Color Models (aka Color Space)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;CMYK:&lt;/strong&gt; Cyan, magenta, yellow, and black. Printing/pigments. Subtractive (pigments absorb light, subtracting certain wavelengths of light from our visible spectrum)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;RGB:&lt;/strong&gt; Red, green, blue. On screen. Additive. All three colors at full strength creates white light, while black is the absence of light.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;color-effects&quot;&gt;Color Effects&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bezold Effect:&lt;/strong&gt; Optical mixing, an optical illusion wherein a color appears lighter or darker based on what color it is adjacent to.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Vibration and Value:&lt;/strong&gt; A color placed on another color close in value can appear to “glow”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;and-now-type&quot;&gt;And now: Type&lt;/h1&gt;
+
+&lt;h3 id=&quot;the-anatomy-of-type&quot;&gt;The Anatomy of Type&lt;/h3&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/anatomy.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Memorize this. If I ever quiz you on things, this will be on that quiz&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul class=&quot;large-block-grid-2 small-block-grid-1&quot;&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Typeface&lt;/h4&gt;
+    &lt;p&gt;A family of fonts. AKA All of Avenir is the Typeface, a font is Avenir Light&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/typeface.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Size&lt;/h4&gt;
+    &lt;p&gt;Size refers to how big the font is in a unit of measure. &lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/font-size.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Weight&lt;/h4&gt;
+    &lt;p&gt;The weight of the font, usually defined as light, regular, or bold.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/font-weight.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    &lt;h4&gt;Tracking&lt;/h4&gt;
+    &lt;p&gt;Defines the space between characters in a word. This is not the same as Kerning.&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/tracking.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Leading&lt;/h4&gt;
+    &lt;p&gt;Is the space between lines of text. Imagine a strip of lead resting between the lines&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/leading.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4&gt;Kerning&lt;/h4&gt;
+    &lt;p&gt;The space between individual characters. &lt;a href=&quot;http://www.fastcodesign.com/3035334/fast-feed/esurance-learns-an-expensive-lesson-on-why-kerning-matters&quot;&gt;This is why kerning matters&lt;/a&gt;&lt;/p&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/images/week3/kerning.png&quot; alt=&quot;&quot; /&gt;
+    &lt;/figure&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;game-time&quot;&gt;Game Time&lt;/h3&gt;
+&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://shape.method.ac/&quot;&gt;http://shape.method.ac/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://type.method.ac/&quot;&gt;http://type.method.ac/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;type-has-personality&quot;&gt;Type has personality&lt;/h4&gt;
+&lt;h3 id=&quot;type-has-personality&quot;&gt;Type has personality&lt;/h3&gt;
 &lt;p&gt;Every typeface has a personality, and an opnion. Sometimes, just like with real people, different faces will have stronger personality traits. Eitheway any typeface will be able to tell a story about itself.&lt;/p&gt;
 
 &lt;figure&gt;
@@ -66,29 +215,35 @@
 
 &lt;p&gt;When choosing a typeface you really need to think about the message you want to get across. You aren’t going to write going to make a metal show poster in comic sans. Unless you are a super troll.&lt;/p&gt;
 
-&lt;h4 id=&quot;pairing&quot;&gt;Pairing&lt;/h4&gt;
-&lt;p&gt;Just like a good friend is a perfect pair, or your favorite shoes fit just right. Many typefaces are able to pair in very beautifulways. Check out &lt;a href=&quot;http://justmytype.co/&quot;&gt;Just my type&lt;/a&gt; for some good examples of typefaces being paired.&lt;/p&gt;
+&lt;h3 id=&quot;type-in-illustrator&quot;&gt;Type in Illustrator&lt;/h3&gt;
+&lt;p&gt;Typograpy in Illustrator is another strong use-case for it’s popularity, and power. Here is a breakdown of the Type Tool Palette&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/type-tool.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;The elusive Illustrator type tool&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
-&lt;p&gt;Eff yes &lt;strong&gt;__&lt;/strong&gt;. I love that shit.
-Eff yes &lt;strong&gt;__&lt;/strong&gt;. I would go to battle for that.&lt;/p&gt;
+&lt;p&gt;Type out your favorite movie / game / whatever quote and we will set (set is the fancymans word for making type look good) it in illustrator.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Font&lt;/li&gt;
-  &lt;li&gt;Size&lt;/li&gt;
-  &lt;li&gt;Weight&lt;/li&gt;
-  &lt;li&gt;Tracking&lt;/li&gt;
-  &lt;li&gt;Leading&lt;/li&gt;
-  &lt;li&gt;Kerning&lt;/li&gt;
-&lt;/ul&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Goonies never say die. / Do the truffle shuffle.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Two quotes from my favorite movie. Someone else in this room better love this movie…&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week3/chunk.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Proof of my goonie-wisdom&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
 &lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Practice Class Activities&lt;/li&gt;
-  &lt;li&gt;Read:&lt;/li&gt;
-  &lt;li&gt;Watch: Illustrator Tutorials&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;projects/project-01.html&quot;&gt;PROJECT 01 - Click for assignment&lt;/a&gt; – Minimal Movie or Game Poster&lt;/li&gt;
-  &lt;li&gt;10 Examples of good typography – in the wild (Extra Credit)&lt;/li&gt;
+  &lt;li&gt;Read: Rhythm &amp;amp; Balance and Scale (pg 28 - 51)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/projects/project-01.html&quot;&gt;PROJECT 01 PROGRESS - Click for assignment&lt;/a&gt; – Minimal Movie or Game Poster, show me sketches &amp;amp; concept&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/extra-credit/extra-credit-01.html&quot;&gt;10 Examples of good typography in the wild (Extra Credit)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
@@ -102,8 +257,8 @@ Eff yes &lt;strong&gt;__&lt;/strong&gt;. I would go to battle for that.&lt;/p&gt
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 17 Sep 2014 00:00:00 -0500</pubDate>
-        <link>http://teach.trvr.co/week/2014-09-17-week-03</link>
-        <guid isPermaLink="true">http://teach.trvr.co/week/2014-09-17-week-03</guid>
+        <link>http://teach.trvr.co/week/week-03</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-03</guid>
         
         
         <category>week</category>
@@ -270,58 +425,6 @@ Eff yes &lt;strong&gt;__&lt;/strong&gt;. I would go to battle for that.&lt;/p&gt
         
         
         <category>week</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 1</title>
-        <description>&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt;
-&lt;p&gt;Using the techniques we discussed in class, and concepts from the Point, Line, and Plane readings. Create 9 digital sketches that express 9 different emotions, or design concepts. They can be abstract, but should only use simple shapes and lines to express.&lt;/p&gt;
-
-&lt;h3 id=&quot;requirements&quot;&gt;Requirements&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;8.5 x 11 file size&lt;/li&gt;
-  &lt;li&gt;.AI file format (Illustrators native format)&lt;/li&gt;
-  &lt;li&gt;All images in same document, use separate artboards&lt;/li&gt;
-  &lt;li&gt;No colors. just black, white, grey&lt;/li&gt;
-  &lt;li&gt;Line and shape tools only!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h3&gt;
-&lt;p&gt;Here are some ideas to get the gears turning.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/assignment-order.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Order&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/assignment-chaos.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Chaos&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/assignment-depth.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Depth&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;submitting-homework&quot;&gt;Submitting Homework&lt;/h3&gt;
-&lt;p&gt;Using any FTP client, upload your assignments to the class folder. The instructions below will help you get started with FTP. &lt;a href=&quot;https://filezilla-project.org/download.php?type=client&quot;&gt;FileZilla&lt;/a&gt; is a decent free FTP client, I use &lt;a href=&quot;http://panic.com/transmit/&quot;&gt;Transmit&lt;/a&gt;. It’s not free but it’s super well designed, and awesome.&lt;/p&gt;
-
-&lt;h4 id=&quot;steps-to-ftp&quot;&gt;Steps to FTP&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Open FTP application of choice&lt;/li&gt;
-  &lt;li&gt;Enter &lt;code&gt;iam.colum.edu&lt;/code&gt; into the &lt;code&gt;host&lt;/code&gt; field&lt;/li&gt;
-  &lt;li&gt;Put your IAM username into &lt;code&gt;username&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;And your IAM password into &lt;code&gt;password&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 10 Sep 2014 00:00:00 -0500</pubDate>
-        <link>http://teach.trvr.co/assignment/project-01</link>
-        <guid isPermaLink="true">http://teach.trvr.co/assignment/project-01</guid>
-        
-        
-        <category>assignment</category>
         
       </item>
     

@@ -1,0 +1,228 @@
+---
+layout: post
+title:  "Color & Type"
+date:   2014-09-17
+categories: week
+week: Week 3
+color: red
+bgimage: '/images/week2/typecolor-bg.png'
+---
+
+### Agenda
+- Homework Review / Critique
+- Basic Color Theory
+- Understanding Type
+- Activity
+- Start Project 1
+
+# First, Color Theory
+Color. Color is a HUGE huge huge concept. Actually both color and type are huge huge huge concepts. But, we are gonna tackle them both since **YOU DEFINITELY ALL READ THE COLOR CHAPTER SO I DON'T EVEN REALLY NEED TO COVER THIS VERY MUCH RIGHT?** And because we are awesome.
+
+<ul class="large-block-grid-3 small-block-grid-1">
+  <li>
+    <h4>Color Wheel</h4>
+    <p>Shows relationships between colors. All dem colors.</p>
+    <figure>
+      <img src="/images/week3/hue.png" alt="" />
+    </figure>
+  </li>
+
+  <li>
+    <h4>Primary Colors</h4>
+    <p>These are mixed to make all other colors. Can’t be made from other colors.</p>
+    <figure>
+      <img src="/images/week3/primary.png" alt="" />
+    </figure>
+  </li>
+
+  <li>
+    <h4>Secondary Colors</h4>
+    <p>Two primary colors mixed together create secondary colors.</p>
+    <figure>
+      <img src="/images/week3/secondary.png" alt="" />
+    </figure>
+  </li>
+
+  <li>
+    <h4>Tertiary Colors</h4>
+    <p>Created with one primary and one secondary color mixed together.</p>
+    <figure>
+      <img src="/images/week3/tertiary.png" alt="" />
+    </figure>
+  </li>
+
+  <li>
+    <h4>Complementary</h4>
+    <p>Opposite each other on the color wheel. Think Christmas, Da Bears, or The Lakers</p>
+    <figure>
+      <img src="/images/week3/complimentary.png" alt="" />
+    </figure>
+  </li>
+
+  <li>
+    <h4>Analogous Colors</h4>
+    <p>In the same section, or very near each other, on the color wheel.</p>
+    <figure>
+      <img src="/images/week3/analogous.png" alt="" />
+    </figure>
+  </li>
+</ul>
+
+### Color Attributes
+
+- **Hue:** An element of the color wheel (ROYGBV)
+
+- **Intensity:** How bright or dull a color is. Intensity changes with a change in saturation, shading, and/or tinting.
+
+- **Saturation:** Purity of a color when neutralizing to grey.
+
+- **Value:** How light or dark the color is.
+
+- **Shade:** hue + black
+
+- **Tint:** hue + white
+
+
+### Color Models (aka Color Space)
+
+- **CMYK:** Cyan, magenta, yellow, and black. Printing/pigments. Subtractive (pigments absorb light, subtracting certain wavelengths of light from our visible spectrum)
+
+- **RGB:** Red, green, blue. On screen. Additive. All three colors at full strength creates white light, while black is the absence of light.
+
+
+### Color Effects
+
+- **Bezold Effect:** Optical mixing, an optical illusion wherein a color appears lighter or darker based on what color it is adjacent to.
+
+- **Vibration and Value:** A color placed on another color close in value can appear to “glow”
+
+# And now: Type
+
+### The Anatomy of Type
+<figure>
+  <img src="/images/week3/anatomy.png" alt="" />
+  <figcaption>Memorize this. If I ever quiz you on things, this will be on that quiz</figcaption>
+</figure>
+
+
+<ul class="large-block-grid-2 small-block-grid-1">
+  <li>
+    <h4>Typeface</h4>
+    <p>A family of fonts. AKA All of Avenir is the Typeface, a font is Avenir Light</p>
+    <figure>
+      <img src="/images/week3/typeface.png" alt="" />
+    </figure>
+  </li>
+
+  <li>
+    <h4>Size</h4>
+    <p>Size refers to how big the font is in a unit of measure. </p>
+    <figure>
+      <img src="/images/week3/font-size.png" alt="" />
+    </figure>
+  </li>
+
+  <li>
+    <h4>Weight</h4>
+    <p>The weight of the font, usually defined as light, regular, or bold.</p>
+    <figure>
+      <img src="/images/week3/font-weight.png" alt="" />
+    </figure>
+  </li>
+
+  <li>
+    <h4>Tracking</h4>
+    <p>Defines the space between characters in a word. This is not the same as Kerning.</p>
+    <figure>
+      <img src="/images/week3/tracking.png" alt="" />
+    </figure>
+  </li>
+  <li>
+    <h4>Leading</h4>
+    <p>Is the space between lines of text. Imagine a strip of lead resting between the lines</p>
+    <figure>
+      <img src="/images/week3/leading.png" alt="" />
+    </figure>
+  </li>
+  <li>
+    <h4>Kerning</h4>
+    <p>The space between individual characters. <a href="http://www.fastcodesign.com/3035334/fast-feed/esurance-learns-an-expensive-lesson-on-why-kerning-matters">This is why kerning matters</a></p>
+    <figure>
+      <img src="/images/week3/kerning.png" alt="" />
+    </figure>
+  </li>
+</ul>
+
+### Game Time
+- [http://shape.method.ac/](http://shape.method.ac/)
+- [http://type.method.ac/](http://type.method.ac/)
+
+### Type has personality
+Every typeface has a personality, and an opnion. Sometimes, just like with real people, different faces will have stronger personality traits. Eitheway any typeface will be able to tell a story about itself.
+
+<figure>
+  <img src="/images/week3/type-regal.png" alt="">
+  <figcaption>Lust Didone is super regal</figcaption>
+  </img>
+</figure>
+
+<figure>
+  <img src="/images/week3/type-sturdy.png" alt="">
+  <figcaption>Merriweather is a solid typeface</figcaption>
+  </img>
+</figure>
+
+<figure>
+  <img src="/images/week3/type-overt.png" alt="">
+  <figcaption>Some are very unique</figcaption>
+  </img>
+</figure>
+
+<figure>
+  <img src="/images/week3/type-stylized.png" alt="">
+  <figcaption>Duke is very unique, and strong</figcaption>
+  </img>
+</figure>
+
+<figure>
+  <img src="/images/week3/type-comical.png" alt="">
+  <figcaption>I had to...</figcaption>
+  </img>
+</figure>
+
+When choosing a typeface you really need to think about the message you want to get across. You aren't going to write going to make a metal show poster in comic sans. Unless you are a super troll.
+
+### Type in Illustrator
+Typograpy in Illustrator is another strong use-case for it's popularity, and power. Here is a breakdown of the Type Tool Palette
+
+<figure>
+  <img src="/images/week3/type-tool.png" alt="" />
+  <figcaption>The elusive Illustrator type tool</figcaption>
+</figure>
+
+### ACTIVITY TIME
+Type out your favorite movie / game / whatever quote and we will set (set is the fancymans word for making type look good) it in illustrator.
+
+>Goonies never say die. / Do the truffle shuffle.
+
+Two quotes from my favorite movie. Someone else in this room better love this movie...
+
+<figure>
+  <img src="/images/week3/chunk.png" alt="">
+  <figcaption>Proof of my goonie-wisdom</figcaption>
+  </img>
+</figure>
+
+### Homework
+- Practice Class Activities
+- Read: Rhythm & Balance and Scale (pg 28 - 51)
+- [PROJECT 01 PROGRESS - Click for assignment](/projects/project-01.html) – Minimal Movie or Game Poster, show me sketches & concept
+- [10 Examples of good typography in the wild (Extra Credit)](/extra-credit/extra-credit-01.html)
+
+### Additional Resources
+- [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) - Create color palettes, schemes. Integrates with adobe apps
+- [Lost Type Co](http://losttype.com) - A co-op type foundry on the nannernet
+- [Avondale type Co](http://avondaletypeco.com/) - An awesome local type foundry located in Avondale (not free, but good type isn't free)
+- [Typekit](http://typekict.com) - If you have an Adobe CC account you get one of these with it
+- [Just my type](http://justmytype.co/) - Good resource for pairing fonts
+- [http://thinkingwithtype.com/](http://thinkingwithtype.com/)

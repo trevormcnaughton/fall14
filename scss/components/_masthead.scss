@@ -64,9 +64,26 @@ $steps: 10;
 .masthead--teal {
   background: $teal;
   color: lighten($teal, 25%);
+
+  h1 {
+    text-shadow: drawsteps(lighten($teal, 5%));
+  }
 }
 
 .masthead--navy {
   background: $navy;
   color: lighten($navy, 25%);
+
+  h1 {
+    text-shadow: drawsteps(lighten($navy, 5%));
+  }
+}
+
+.masthead--red {
+  background: $red;
+  color: lighten($red, 25%);
+
+  h1 {
+    text-shadow: drawsteps(lighten($red, 5%));
+  }
 }
