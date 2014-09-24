@@ -5,7 +5,11 @@
 //-----------------------------------------------------------------------------
 
 header {
-
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.15);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
 }
 
 .logo {
@@ -41,7 +45,8 @@ header {
   a{
     font-weight: 600;
     text-transform: uppercase;
-    color: $steel;
+    text-decoration: none;
+    color: #FFF;
     font-size: em-calc(16)
   }
 }

@@ -1,0 +1,106 @@
+---
+layout: post
+title:  "< H T M L >"
+date:   2014-09-24
+categories: week
+week: Week 4
+color: peach
+---
+
+### Agenda
+- H T M L
+- C S S
+- Start Class portfolios / Show me some Project 1 stuff
+
+# H Y P E R T E X T M A R K U P P R O T O C O L
+
+### The Basix
+HTML (Hyper Text Markup Protocol) is a markup language for the web. All websites you visit are built with HTML, and it is nothing more than a dumbed down word processor. Srsly, that's how HTML was created, to share scientific documents between labs that were around the world.
+
+<figure>
+  <img src="http://www.isoc-ny.org/p2/wp-content/uploads/2010/10/timbernerslee.jpg" alt="" />
+  <figcaption>This dude invented what you know as the World Wide Web (does anyone call it that?)</figcaption>
+</figure>
+
+let's watch a quick video that will dive into ta bit of the history of HTML and the web. [Video Time](http://vimeo.com/12020260).
+
+### HTML Breakdown
+The specific version of HTML we are learning is 5. And HTML5 is actually pretty simple and HTML elements are pretty basica and easy to remember. Say you have a big block of text, a paragraph!, you would wrap that block of text in tags that look like this `<p>BIG BLOCK OF TEXT</p>`. The `p` in this example is an HTML tag. All HTML tags start with `<TAG>` and close with `</TAG>`. Let's take a look at some `CODE`
+
+{% highlight html %}
+<!DOCTYPE html>
+</html>
+{% endhighlight %}
+
+This is literally all you need to have create an HTML document. This is the start of every single website on the internet. What's your favorite website? I'll bet it uses this format. And there are all kinds of tags. `<h1>`, `<section>`, `<header>`, `<nav>`, `<img>`, `<video>`, and that's just a few. I bet you could guess what some of those do.
+
+That example above won't display anything when we put it into the browser because there's no content. So lets a few other things. How about an image and some paragraph text.
+
+{% highlight html %}
+<!DOCTYPE html>
+  <body>
+    <p> Here's some paragraph text. Such compelling. So paragraph. Wow.</p>
+    <img src="http://placekitten.com/600/350" />
+  </body>
+</html>
+{% endhighlight %}
+
+
+### C A S C A D I N G S T Y L E S H E E T S
+Sweet, we've made a dope HTML Document! But, man, it's friggen ugly right? Well that's where CSS comes in. CSS allows you to attach some nice styles to your HTML elements. If you think about a house, HTML is the walls and CSS is the paint. Say you want the background to be hot pink, because hot pink. And we want the text to be blue, since it will make our brains melt. But how does it look? CSS can attach itself to specific HTML elements to make them look different.
+
+`SELECTOR { DECLARATION – PROPERTY : VALUE }`
+
+{% highlight css %}
+body {
+  background: pink;
+}
+
+p {
+  color: blue;
+}
+{% endhighlight %}
+
+
+### Getting specific
+While styling tags is all cool and stuff, the real power of CSS comes in with Classes and IDs. These are semantic identifiers for HTML tags. For example. If I had a block of text that we wanted to be purple but we didn't want every single `<p>` tag to be purple we could give that tag a class of purple. And it would look like this `<p class="purple-text">THIS IS PURPLE TEXT</p>`. Then go into your CSS file and add this.
+
+{% highlight css %}
+.purple-text {
+  color: pink;
+}
+{% endhighlight %}
+
+So the one weird thing about this is there is a `.` before the words `purple-text`. That `.` defines a CSS class. Try and keep you classes semantic and easy to understand. When you see purple text in a CSS file it's pretty clear what that does.
+
+### ACTIVITY TIME
+
+ Let's do this next section together. Download [this file](/files/week4/class-site-template.zip), and open up the `index.html` file in any text editor. We will start creating our class portfolios. WOOP.
+
+### Choose your path. To deploy or not deploy.
+
+So, since we aren't going to get a whole lot deeper with HTML I don't think it's 100% necessary for all of you to create your own HTML pages. However, I will support your decision to do so. I'll also give you the option to create a [tumblr](http://tumblr.com) for yourself / this class. So if you are making a new tumblr account go [sign up](https://www.tumblr.com/register). If you have a tumblr account already, create a new blog for this class in the dashboard. If you plan to create your own HTML site KEEP ON READIN'.
+
+- [Re-learn to FTP](http://imamp.colum.edu/mediawiki/index.php/FTP#IAM_tech_staff_recommends_connecting_to_our_server_with_FTPs_please_see_the_FTPs_tutorial_IAM_FTPS_Tutorial)
+
+- If you are on the network, and on a PC, go to your Z drive. This is your space on IAM servers.
+
+- In your pub folder, create a subfolder called DID.
+
+- Upload all the files we worked on to that folder.
+
+- Go to your URL
+
+- Upload or add your work to your portfolio! This is a graded piece of the class and will be required to upload your work your portfolios. Add the assignments you've already done with a **title** and a **short description**.
+
+
+### Homework
+- [Do this Codecadmy activity to upgrade your HTML](http://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b)
+- Read: Figure / Ground (pg 84 - 99)
+- [PROJECT 01](/projects/project-01.html) – Next week we will present your first Projects
+
+### Additional Resources
+- [Code Cademy](http://www.codecademy.com/)
+- [Treehouse](http://www.teamtreehouse.com/)
+- [CodeSchool](https://www.codeschool.com/)
+- [HTML5 Boilerplate](http://html5boilerplate.com/)

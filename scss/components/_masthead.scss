@@ -42,6 +42,12 @@ $steps: 10;
   }
 }
 
+//
+//
+// Masthead Colors
+//
+//
+
 .masthead--blue {
   background: $blue;
   color: lighten($blue, 20%);
@@ -85,5 +91,23 @@ $steps: 10;
 
   h1 {
     text-shadow: drawsteps(lighten($red, 5%));
+  }
+}
+
+.masthead--peach {
+  background: $peach;
+  color: lighten($peach, 25%);
+
+  h1 {
+    text-shadow: drawsteps(lighten($peach, 5%));
+  }
+}
+
+.masthead--maroon {
+  background: $maroon;
+  color: lighten($maroon, 25%);
+
+  h1 {
+    text-shadow: drawsteps(lighten($maroon, 5%));
   }
 }

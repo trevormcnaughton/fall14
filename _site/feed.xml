@@ -5,9 +5,122 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Sep 2014 18:02:35 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Sep 2014 18:02:35 -0500</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2014 14:18:32 -0500</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2014 14:18:32 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>&lt; H T M L &gt;</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;H T M L&lt;/li&gt;
+  &lt;li&gt;C S S&lt;/li&gt;
+  &lt;li&gt;Start Class portfolios / Show me some Project 1 stuff&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;h-y-p-e-r-t-e-x-t-m-a-r-k-u-p-p-r-o-t-o-c-o-l&quot;&gt;H Y P E R T E X T M A R K U P P R O T O C O L&lt;/h1&gt;
+
+&lt;h3 id=&quot;the-basix&quot;&gt;The Basix&lt;/h3&gt;
+&lt;p&gt;HTML (Hyper Text Markup Protocol) is a markup language for the web. All websites you visit are built with HTML, and it is nothing more than a dumbed down word processor. Srsly, that’s how HTML was created, to share scientific documents between labs that were around the world.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://www.isoc-ny.org/p2/wp-content/uploads/2010/10/timbernerslee.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;This dude invented what you know as the World Wide Web (does anyone call it that?)&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;let’s watch a quick video that will dive into ta bit of the history of HTML and the web. &lt;a href=&quot;http://vimeo.com/12020260&quot;&gt;Video Time&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;html-breakdown&quot;&gt;HTML Breakdown&lt;/h3&gt;
+&lt;p&gt;The specific version of HTML we are learning is 5. And HTML5 is actually pretty simple and HTML elements are pretty basica and easy to remember. Say you have a big block of text, a paragraph!, you would wrap that block of text in tags that look like this &lt;code&gt;&amp;lt;p&amp;gt;BIG BLOCK OF TEXT&amp;lt;/p&amp;gt;&lt;/code&gt;. The &lt;code&gt;p&lt;/code&gt; in this example is an HTML tag. All HTML tags start with &lt;code&gt;&amp;lt;TAG&amp;gt;&lt;/code&gt; and close with &lt;code&gt;&amp;lt;/TAG&amp;gt;&lt;/code&gt;. Let’s take a look at some &lt;code&gt;CODE&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This is literally all you need to have create an HTML document. This is the start of every single website on the internet. What’s your favorite website? I’ll bet it uses this format. And there are all kinds of tags. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;section&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;header&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;nav&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;video&amp;gt;&lt;/code&gt;, and that’s just a few. I bet you could guess what some of those do.&lt;/p&gt;
+
+&lt;p&gt;That example above won’t display anything when we put it into the browser because there’s no content. So lets a few other things. How about an image and some paragraph text.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt; Here&amp;#39;s some paragraph text. Such compelling. So paragraph. Wow.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placekitten.com/600/350&amp;quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;c-a-s-c-a-d-i-n-g-s-t-y-l-e-s-h-e-e-t-s&quot;&gt;C A S C A D I N G S T Y L E S H E E T S&lt;/h3&gt;
+&lt;p&gt;Sweet, we’ve made a dope HTML Document! But, man, it’s friggen ugly right? Well that’s where CSS comes in. CSS allows you to attach some nice styles to your HTML elements. If you think about a house, HTML is the walls and CSS is the paint. Say you want the background to be hot pink, because hot pink. And we want the text to be blue, since it will make our brains melt. But how does it look? CSS can attach itself to specific HTML elements to make them look different.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;SELECTOR { DECLARATION – PROPERTY : VALUE }&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;pink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;getting-specific&quot;&gt;Getting specific&lt;/h3&gt;
+&lt;p&gt;While styling tags is all cool and stuff, the real power of CSS comes in with Classes and IDs. These are semantic identifiers for HTML tags. For example. If I had a block of text that we wanted to be purple but we didn’t want every single &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt; tag to be purple we could give that tag a class of purple. And it would look like this &lt;code&gt;&amp;lt;p class=&quot;purple-text&quot;&amp;gt;THIS IS PURPLE TEXT&amp;lt;/p&amp;gt;&lt;/code&gt;. Then go into your CSS file and add this.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.purple-text&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;pink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;So the one weird thing about this is there is a &lt;code&gt;.&lt;/code&gt; before the words &lt;code&gt;purple-text&lt;/code&gt;. That &lt;code&gt;.&lt;/code&gt; defines a CSS class. Try and keep you classes semantic and easy to understand. When you see purple text in a CSS file it’s pretty clear what that does.&lt;/p&gt;
+
+&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
+
+&lt;p&gt;Let’s do this next section together. Download &lt;a href=&quot;/files/week4/class-site-template.zip&quot;&gt;this file&lt;/a&gt;, and open up the &lt;code&gt;index.html&lt;/code&gt; file in any text editor. We will start creating our class portfolios. WOOP.&lt;/p&gt;
+
+&lt;h3 id=&quot;choose-your-path-to-deploy-or-not-deploy&quot;&gt;Choose your path. To deploy or not deploy.&lt;/h3&gt;
+
+&lt;p&gt;So, since we aren’t going to get a whole lot deeper with HTML I don’t think it’s 100% necessary for all of you to create your own HTML pages. However, I will support your decision to do so. I’ll also give you the option to create a &lt;a href=&quot;http://tumblr.com&quot;&gt;tumblr&lt;/a&gt; for yourself / this class. So if you are making a new tumblr account go &lt;a href=&quot;https://www.tumblr.com/register&quot;&gt;sign up&lt;/a&gt;. If you have a tumblr account already, create a new blog for this class in the dashboard. If you plan to create your own HTML site KEEP ON READIN’.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://imamp.colum.edu/mediawiki/index.php/FTP#IAM_tech_staff_recommends_connecting_to_our_server_with_FTPs_please_see_the_FTPs_tutorial_IAM_FTPS_Tutorial&quot;&gt;Re-learn to FTP&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you are on the network, and on a PC, go to your Z drive. This is your space on IAM servers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In your pub folder, create a subfolder called DID.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Upload all the files we worked on to that folder.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to your URL&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Upload or add your work to your portfolio! This is a graded piece of the class and will be required to upload your work your portfolios. Add the assignments you’ve already done with a &lt;strong&gt;title&lt;/strong&gt; and a &lt;strong&gt;short description&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b&quot;&gt;Do this Codecadmy activity to upgrade your HTML&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read: Figure / Ground (pg 84 - 99)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/projects/project-01.html&quot;&gt;PROJECT 01&lt;/a&gt; – Next week we will present your first Projects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codecademy.com/&quot;&gt;Code Cademy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.teamtreehouse.com/&quot;&gt;Treehouse&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codeschool.com/&quot;&gt;CodeSchool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://html5boilerplate.com/&quot;&gt;HTML5 Boilerplate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 24 Sep 2014 00:00:00 -0500</pubDate>
+        <link>http://teach.trvr.co/week/week-04</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-04</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
     
       <item>
         <title>Color &amp; Type</title>

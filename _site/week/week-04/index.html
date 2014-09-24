@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>< H T M L ></title>
+    <meta name="description" content="Class website for DID Fall 2014">
+
+    <link rel="stylesheet" href="/css/app.css">
+    <link rel="canonical" href="http://teach.trvr.co/week/week-04">
+    <script type="text/javascript" src="//use.typekit.net/fou4cox.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper row">
+    <a href="/" class="logo"></a>
+    <nav class="site-nav">
+      <!-- <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a> -->
+
+      <div class="header-nav">
+        <ul>
+          <li><a class="site-title" href="/">Home</a></li>
+          <li><a class="site-title" href="/assignments">Assignments</a></li>
+          <li><a class="site-title" href="/projects">Projects</a></li>
+      </ul>
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    
+
+    <div class="main-content">
+      <div class="masthead masthead--peach" >
+  <div class="row">
+    <div class="large-12 columns">
+      
+      <h4>Week 4</h4>
+      <h1>< H T M L ></h1>
+      <h4>September 24, 2014</h4>
+      
+    </div>
+  </div>
+</div>
+
+
+<div class="post row">
+  <article class="post-content large-12 columns">
+    <h3 id="agenda">Agenda</h3>
+<ul>
+  <li>H T M L</li>
+  <li>C S S</li>
+  <li>Start Class portfolios / Show me some Project 1 stuff</li>
+</ul>
+
+<h1 id="h-y-p-e-r-t-e-x-t-m-a-r-k-u-p-p-r-o-t-o-c-o-l">H Y P E R T E X T M A R K U P P R O T O C O L</h1>
+
+<h3 id="the-basix">The Basix</h3>
+<p>HTML (Hyper Text Markup Protocol) is a markup language for the web. All websites you visit are built with HTML, and it is nothing more than a dumbed down word processor. Srsly, that’s how HTML was created, to share scientific documents between labs that were around the world.</p>
+
+<figure>
+  <img src="http://www.isoc-ny.org/p2/wp-content/uploads/2010/10/timbernerslee.jpg" alt="" />
+  <figcaption>This dude invented what you know as the World Wide Web (does anyone call it that?)</figcaption>
+</figure>
+
+<p>let’s watch a quick video that will dive into ta bit of the history of HTML and the web. <a href="http://vimeo.com/12020260">Video Time</a>.</p>
+
+<h3 id="html-breakdown">HTML Breakdown</h3>
+<p>The specific version of HTML we are learning is 5. And HTML5 is actually pretty simple and HTML elements are pretty basica and easy to remember. Say you have a big block of text, a paragraph!, you would wrap that block of text in tags that look like this <code>&lt;p&gt;BIG BLOCK OF TEXT&lt;/p&gt;</code>. The <code>p</code> in this example is an HTML tag. All HTML tags start with <code>&lt;TAG&gt;</code> and close with <code>&lt;/TAG&gt;</code>. Let’s take a look at some <code>CODE</code></p>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="nt">&lt;/html&gt;</span></code></pre></div>
+
+<p>This is literally all you need to have create an HTML document. This is the start of every single website on the internet. What’s your favorite website? I’ll bet it uses this format. And there are all kinds of tags. <code>&lt;h1&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;img&gt;</code>, <code>&lt;video&gt;</code>, and that’s just a few. I bet you could guess what some of those do.</p>
+
+<p>That example above won’t display anything when we put it into the browser because there’s no content. So lets a few other things. How about an image and some paragraph text.</p>
+
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="cp">&lt;!DOCTYPE html&gt;</span>
+  <span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;p&gt;</span> Here&#39;s some paragraph text. Such compelling. So paragraph. Wow.<span class="nt">&lt;/p&gt;</span>
+    <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">&quot;http://placekitten.com/600/350&quot;</span> <span class="nt">/&gt;</span>
+  <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span></code></pre></div>
+
+<h3 id="c-a-s-c-a-d-i-n-g-s-t-y-l-e-s-h-e-e-t-s">C A S C A D I N G S T Y L E S H E E T S</h3>
+<p>Sweet, we’ve made a dope HTML Document! But, man, it’s friggen ugly right? Well that’s where CSS comes in. CSS allows you to attach some nice styles to your HTML elements. If you think about a house, HTML is the walls and CSS is the paint. Say you want the background to be hot pink, because hot pink. And we want the text to be blue, since it will make our brains melt. But how does it look? CSS can attach itself to specific HTML elements to make them look different.</p>
+
+<p><code>SELECTOR { DECLARATION – PROPERTY : VALUE }</code></p>
+
+<div class="highlight"><pre><code class="language-css" data-lang="css"><span class="nt">body</span> <span class="p">{</span>
+  <span class="k">background</span><span class="o">:</span> <span class="nb">pink</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">p</span> <span class="p">{</span>
+  <span class="k">color</span><span class="o">:</span> <span class="nb">blue</span><span class="p">;</span>
+<span class="p">}</span></code></pre></div>
+
+<h3 id="getting-specific">Getting specific</h3>
+<p>While styling tags is all cool and stuff, the real power of CSS comes in with Classes and IDs. These are semantic identifiers for HTML tags. For example. If I had a block of text that we wanted to be purple but we didn’t want every single <code>&lt;p&gt;</code> tag to be purple we could give that tag a class of purple. And it would look like this <code>&lt;p class="purple-text"&gt;THIS IS PURPLE TEXT&lt;/p&gt;</code>. Then go into your CSS file and add this.</p>
+
+<div class="highlight"><pre><code class="language-css" data-lang="css"><span class="nc">.purple-text</span> <span class="p">{</span>
+  <span class="k">color</span><span class="o">:</span> <span class="nb">pink</span><span class="p">;</span>
+<span class="p">}</span></code></pre></div>
+
+<p>So the one weird thing about this is there is a <code>.</code> before the words <code>purple-text</code>. That <code>.</code> defines a CSS class. Try and keep you classes semantic and easy to understand. When you see purple text in a CSS file it’s pretty clear what that does.</p>
+
+<h3 id="activity-time">ACTIVITY TIME</h3>
+
+<p>Let’s do this next section together. Download <a href="/files/week4/class-site-template.zip">this file</a>, and open up the <code>index.html</code> file in any text editor. We will start creating our class portfolios. WOOP.</p>
+
+<h3 id="choose-your-path-to-deploy-or-not-deploy">Choose your path. To deploy or not deploy.</h3>
+
+<p>So, since we aren’t going to get a whole lot deeper with HTML I don’t think it’s 100% necessary for all of you to create your own HTML pages. However, I will support your decision to do so. I’ll also give you the option to create a <a href="http://tumblr.com">tumblr</a> for yourself / this class. So if you are making a new tumblr account go <a href="https://www.tumblr.com/register">sign up</a>. If you have a tumblr account already, create a new blog for this class in the dashboard. If you plan to create your own HTML site KEEP ON READIN’.</p>
+
+<ul>
+  <li>
+    <p><a href="http://imamp.colum.edu/mediawiki/index.php/FTP#IAM_tech_staff_recommends_connecting_to_our_server_with_FTPs_please_see_the_FTPs_tutorial_IAM_FTPS_Tutorial">Re-learn to FTP</a></p>
+  </li>
+  <li>
+    <p>If you are on the network, and on a PC, go to your Z drive. This is your space on IAM servers.</p>
+  </li>
+  <li>
+    <p>In your pub folder, create a subfolder called DID.</p>
+  </li>
+  <li>
+    <p>Upload all the files we worked on to that folder.</p>
+  </li>
+  <li>
+    <p>Go to your URL</p>
+  </li>
+  <li>
+    <p>Upload or add your work to your portfolio! This is a graded piece of the class and will be required to upload your work your portfolios. Add the assignments you’ve already done with a <strong>title</strong> and a <strong>short description</strong>.</p>
+  </li>
+</ul>
+
+<h3 id="homework">Homework</h3>
+<ul>
+  <li><a href="http://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b">Do this Codecadmy activity to upgrade your HTML</a></li>
+  <li>Read: Figure / Ground (pg 84 - 99)</li>
+  <li><a href="/projects/project-01.html">PROJECT 01</a> – Next week we will present your first Projects</li>
+</ul>
+
+<h3 id="additional-resources">Additional Resources</h3>
+<ul>
+  <li><a href="http://www.codecademy.com/">Code Cademy</a></li>
+  <li><a href="http://www.teamtreehouse.com/">Treehouse</a></li>
+  <li><a href="https://www.codeschool.com/">CodeSchool</a></li>
+  <li><a href="http://html5boilerplate.com/">HTML5 Boilerplate</a></li>
+</ul>
+
+  </article>
+</div>
+
+    </div>
+
+    <footer class="site-footer">
+  <div class="wrapper row">
+    <div class="large-12 columns">
+      <div class="header-nav">
+        <ul>
+          <li><a class="site-title" href="/">Home</a></li>
+          
+            
+            <li>
+              <a class="page-link" href="/about/">About</a>
+            </li>
+            
+          
+            
+            <li>
+              <a class="page-link" href="/assignments/">Assignments</a>
+            </li>
+            
+          
+            
+          
+            
+          
+            
+            <li>
+              <a class="page-link" href="/projects/">Projects</a>
+            </li>
+            
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  </body>
+
+</html>
