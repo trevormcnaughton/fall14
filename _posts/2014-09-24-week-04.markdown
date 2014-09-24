@@ -25,16 +25,16 @@ HTML (Hyper Text Markup Protocol) is a markup language for the web. All websites
 let's watch a quick video that will dive into ta bit of the history of HTML and the web. [Video Time](http://vimeo.com/12020260).
 
 ### HTML Breakdown
-The specific version of HTML we are learning is 5. And HTML5 is actually pretty simple and HTML elements are pretty basica and easy to remember. Say you have a big block of text, a paragraph!, you would wrap that block of text in tags that look like this `<p>BIG BLOCK OF TEXT</p>`. The `p` in this example is an HTML tag. All HTML tags start with `<TAG>` and close with `</TAG>`. Let's take a look at some `CODE`
+The specific version of HTML we are learning is 5. And HTML5 is actually pretty simple and HTML elements are pretty basic and easy to remember. Say you have a big block of text, a paragraph!, you would wrap that block of text in tags that look like this `<p>BIG BLOCK OF TEXT</p>`. The `p` in this example is an HTML tag. All HTML tags start with `<TAG>` and close with `</TAG>`. Let's take a look at some `CODE`
 
 {% highlight html %}
 <!DOCTYPE html>
 </html>
 {% endhighlight %}
 
-This is literally all you need to have create an HTML document. This is the start of every single website on the internet. What's your favorite website? I'll bet it uses this format. And there are all kinds of tags. `<h1>`, `<section>`, `<header>`, `<nav>`, `<img>`, `<video>`, and that's just a few. I bet you could guess what some of those do.
+This is literally all you need to create an HTML document. This is the start of every single website on the internet. What's your favorite website? I'll bet it uses this format. And there are all kinds of tags. `<h1>`, `<section>`, `<header>`, `<nav>`, `<img>`, `<video>`, and that's just a few. I bet you could guess what some of those do.
 
-That example above won't display anything when we put it into the browser because there's no content. So lets a few other things. How about an image and some paragraph text.
+That example above won't display anything when we put it into the browser because there's no content. So lets add a few other things. How about an image and some paragraph text?
 
 {% highlight html %}
 <!DOCTYPE html>

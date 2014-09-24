@@ -5,8 +5,8 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Sep 2014 14:18:32 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2014 14:18:32 -0500</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2014 15:55:05 -0500</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2014 15:55:05 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -31,14 +31,14 @@
 &lt;p&gt;let’s watch a quick video that will dive into ta bit of the history of HTML and the web. &lt;a href=&quot;http://vimeo.com/12020260&quot;&gt;Video Time&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;html-breakdown&quot;&gt;HTML Breakdown&lt;/h3&gt;
-&lt;p&gt;The specific version of HTML we are learning is 5. And HTML5 is actually pretty simple and HTML elements are pretty basica and easy to remember. Say you have a big block of text, a paragraph!, you would wrap that block of text in tags that look like this &lt;code&gt;&amp;lt;p&amp;gt;BIG BLOCK OF TEXT&amp;lt;/p&amp;gt;&lt;/code&gt;. The &lt;code&gt;p&lt;/code&gt; in this example is an HTML tag. All HTML tags start with &lt;code&gt;&amp;lt;TAG&amp;gt;&lt;/code&gt; and close with &lt;code&gt;&amp;lt;/TAG&amp;gt;&lt;/code&gt;. Let’s take a look at some &lt;code&gt;CODE&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The specific version of HTML we are learning is 5. And HTML5 is actually pretty simple and HTML elements are pretty basic and easy to remember. Say you have a big block of text, a paragraph!, you would wrap that block of text in tags that look like this &lt;code&gt;&amp;lt;p&amp;gt;BIG BLOCK OF TEXT&amp;lt;/p&amp;gt;&lt;/code&gt;. The &lt;code&gt;p&lt;/code&gt; in this example is an HTML tag. All HTML tags start with &lt;code&gt;&amp;lt;TAG&amp;gt;&lt;/code&gt; and close with &lt;code&gt;&amp;lt;/TAG&amp;gt;&lt;/code&gt;. Let’s take a look at some &lt;code&gt;CODE&lt;/code&gt;&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;This is literally all you need to have create an HTML document. This is the start of every single website on the internet. What’s your favorite website? I’ll bet it uses this format. And there are all kinds of tags. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;section&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;header&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;nav&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;video&amp;gt;&lt;/code&gt;, and that’s just a few. I bet you could guess what some of those do.&lt;/p&gt;
+&lt;p&gt;This is literally all you need to create an HTML document. This is the start of every single website on the internet. What’s your favorite website? I’ll bet it uses this format. And there are all kinds of tags. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;section&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;header&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;nav&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;video&amp;gt;&lt;/code&gt;, and that’s just a few. I bet you could guess what some of those do.&lt;/p&gt;
 
-&lt;p&gt;That example above won’t display anything when we put it into the browser because there’s no content. So lets a few other things. How about an image and some paragraph text.&lt;/p&gt;
+&lt;p&gt;That example above won’t display anything when we put it into the browser because there’s no content. So lets add a few other things. How about an image and some paragraph text?&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
