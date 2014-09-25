@@ -12,10 +12,10 @@ color: peach
 - C S S
 - Start Class portfolios / Show me some Project 1 stuff
 
-# H Y P E R T E X T M A R K U P P R O T O C O L
+# H Y P E R T E X T M A R K U P L A N G U A G E
 
 ### The Basix
-HTML (Hyper Text Markup Protocol) is a markup language for the web. All websites you visit are built with HTML, and it is nothing more than a dumbed down word processor. Srsly, that's how HTML was created, to share scientific documents between labs that were around the world.
+HTML (Hyper Text Markup Language) is a markup language for the web. All websites you visit are built with HTML, and it is nothing more than a dumbed down word processor. Srsly, that's how HTML was created, to share scientific documents between labs that were around the world.
 
 <figure>
   <img src="http://www.isoc-ny.org/p2/wp-content/uploads/2010/10/timbernerslee.jpg" alt="" />
@@ -103,4 +103,5 @@ So, since we aren't going to get a whole lot deeper with HTML I don't think it's
 - [Code Cademy](http://www.codecademy.com/)
 - [Treehouse](http://www.teamtreehouse.com/)
 - [CodeSchool](https://www.codeschool.com/)
+- [Great HTML & CSS book](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1/191-9246497-5557808?ie=UTF8&qid=1411606712&sr=8-1&keywords=html+css)
 - [HTML5 Boilerplate](http://html5boilerplate.com/)

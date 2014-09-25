@@ -5,8 +5,8 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Sep 2014 17:40:42 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2014 17:40:42 -0500</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2014 19:59:23 -0500</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2014 19:59:23 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -18,10 +18,10 @@
   &lt;li&gt;Start Class portfolios / Show me some Project 1 stuff&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;h-y-p-e-r-t-e-x-t-m-a-r-k-u-p-p-r-o-t-o-c-o-l&quot;&gt;H Y P E R T E X T M A R K U P P R O T O C O L&lt;/h1&gt;
+&lt;h1 id=&quot;h-y-p-e-r-t-e-x-t-m-a-r-k-u-p-l-a-n-g-u-a-g-e&quot;&gt;H Y P E R T E X T M A R K U P L A N G U A G E&lt;/h1&gt;
 
 &lt;h3 id=&quot;the-basix&quot;&gt;The Basix&lt;/h3&gt;
-&lt;p&gt;HTML (Hyper Text Markup Protocol) is a markup language for the web. All websites you visit are built with HTML, and it is nothing more than a dumbed down word processor. Srsly, that’s how HTML was created, to share scientific documents between labs that were around the world.&lt;/p&gt;
+&lt;p&gt;HTML (Hyper Text Markup Language) is a markup language for the web. All websites you visit are built with HTML, and it is nothing more than a dumbed down word processor. Srsly, that’s how HTML was created, to share scientific documents between labs that were around the world.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;http://www.isoc-ny.org/p2/wp-content/uploads/2010/10/timbernerslee.jpg&quot; alt=&quot;&quot; /&gt;
@@ -110,6 +110,7 @@
   &lt;li&gt;&lt;a href=&quot;http://www.codecademy.com/&quot;&gt;Code Cademy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.teamtreehouse.com/&quot;&gt;Treehouse&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.codeschool.com/&quot;&gt;CodeSchool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1/191-9246497-5557808?ie=UTF8&amp;amp;qid=1411606712&amp;amp;sr=8-1&amp;amp;keywords=html+css&quot;&gt;Great HTML &amp;amp; CSS book&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://html5boilerplate.com/&quot;&gt;HTML5 Boilerplate&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
