@@ -111,3 +111,12 @@ $steps: 10;
     text-shadow: drawsteps(lighten($maroon, 5%));
   }
 }
+
+.masthead--lime {
+  background: $lime;
+  color: lighten($lime, 25%);
+
+  h1 {
+    text-shadow: drawsteps(lighten($lime, 5%));
+  }
+}

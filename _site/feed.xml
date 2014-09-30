@@ -5,9 +5,68 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Sep 2014 19:59:23 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2014 19:59:23 -0500</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2014 20:33:35 -0500</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2014 20:33:35 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Pixels</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://goo.gl/forms/yu4CedbRRV&quot;&gt;Submit Your Class Portfolio Links&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Project 1 Presentations&lt;/li&gt;
+  &lt;li&gt;Intro to Photoshop&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;intro-to-photoshop&quot;&gt;Intro to Photoshop&lt;/h2&gt;
+&lt;p&gt;Photoshop has long been the king of pixel manipulators. It has been man-handling those little digital squares since January of 1998. It is still considered THE premier digital photography application. Now, we also consider Photoshop to be an extremely powerful design tool. In fact many web and graphic designers use Photoshop to layout static comps.&lt;/p&gt;
+
+&lt;h3 id=&quot;benefits-of-photoshop&quot;&gt;Benefits of Photoshop&lt;/h3&gt;
+&lt;p&gt;Some of the major benefits of Photoshop vs Vector programs really comes down to it’s ability to edit raster images. It makes designing photographic layouts much easier since you have the ability to edit the photos and lay them out in the same application. However, on the flip side, images contain a whole lot more data than vector files so your file sizes start to get significantly larger. I’ve had comps that will get well above the 1GB file size range. That’s not always fun when you have a deadline, and it takes 10 minutes to save a file :\&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week5/mailchimp_redesign.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Mailchimps last redesign would have been a pain without something like Photoshop.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;photoshop-workspace&quot;&gt;Photoshop Workspace&lt;/h3&gt;
+&lt;p&gt;Let’s take a look at some of the tools we’ve got in the Photoshop UI.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week5/ps-107.gif&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;The photoshop Toolbar. LOLJKROFLMAO.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For realsies though.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week5/photoshop-tools.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Phew, I found them.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
+&lt;p&gt;Here’s the activity.&lt;/p&gt;
+
+&lt;h3 id=&quot;photoshop-alternatives&quot;&gt;Photoshop Alternatives&lt;/h3&gt;
+&lt;p&gt;Here are some pretty rad alternatives to Photoshop. &lt;strong&gt;HUGE DISCLAIMER: I don’t know these apps so if you want to use them you will be kind of on your own.&lt;/strong&gt;
+&lt;a href=&quot;http://www.pixelmator.com/&quot;&gt;Pixelmator (Mac only)&lt;/a&gt;
+&lt;a href=&quot;http://www.gimp.org/&quot;&gt;GIMP&lt;/a&gt;
+&lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch (Mac Only)&lt;/a&gt; - This is not a photoeditor, but it’s the application that I use for UI design. It’s pretty rad, and is great for webdesign .&lt;/p&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;No Assignments Just reading and tutorials to make you more awesome.&lt;/li&gt;
+  &lt;li&gt;Framing (pg 100 - 113)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lynda.com/Photoshop-tutorials/Navigating-your-image/124096/140551-4.html&quot;&gt;Photoshop Tutorials - Watch all of section 2 starting with this one&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 01 Oct 2014 00:00:00 -0500</pubDate>
+        <link>http://teach.trvr.co/week/week-05</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-05</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
     
       <item>
         <title>&lt; H T M L &gt;</title>

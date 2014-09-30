@@ -77,3 +77,13 @@
     color: lighten($maroon, 25%);
   }
 }
+
+
+.list--lime {
+  background: $lime;
+  color: #fff;
+
+  &:hover {
+    color: lighten($lime, 25%);
+  }
+}

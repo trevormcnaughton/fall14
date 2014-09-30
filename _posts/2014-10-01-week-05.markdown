@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Pixels"
+date:   2014-10-01
+categories: week
+week: Week 5
+color: lime
+---
+
+### Agenda
+- [Submit Your Class Portfolio Links](http://goo.gl/forms/yu4CedbRRV)
+- Project 1 Presentations
+- Intro to Photoshop
+
+## Intro to Photoshop
+Photoshop has long been the king of pixel manipulators. It has been man-handling those little digital squares since January of 1998. It is still considered THE premier digital photography application. Now, we also consider Photoshop to be an extremely powerful design tool. In fact many web and graphic designers use Photoshop to layout static comps.
+
+### Vector vs Raster (Bitmap)
+As we know from Illustrator vector lines are extremely accurate and are drawn by math. With raster all lines, shapes, and images are drawn with little dots on the screen, pixels. On a large image the detail created with these pixels can make up a photographic image. 
+
+### Benefits of Photoshop
+Some of the major benefits of Photoshop vs Vector programs really comes down to it's ability to edit raster images. It makes designing photographic layouts much easier since you have the ability to edit the photos and lay them out in the same application. However, on the flip side, images contain a whole lot more data than vector files so your file sizes start to get significantly larger. I've had comps that will get well above the 1GB file size range. That's not always fun when you have a deadline, and it takes 10 minutes to save a file :\
+
+<figure>
+  <img src="/images/week5/mailchimp_redesign.jpg" alt="" />
+  <figcaption>Mailchimps last redesign would have been a pain without something like Photoshop.</figcaption>
+</figure>
+
+
+### Photoshop Workspace
+Let's take a look at some of the tools we've got in the Photoshop UI.
+<figure>
+  <img src="/images/week5/ps-107.gif" alt="" />
+  <figcaption>The photoshop Toolbar. LOLJKROFLMAO.</figcaption>
+</figure>
+
+For realsies though.
+
+<figure>
+  <img src="/images/week5/photoshop-tools.png" alt="" />
+  <figcaption>Phew, I found them.</figcaption>
+</figure>
+
+### ACTIVITY TIME
+Here's the activity.
+
+
+### Photoshop Alternatives
+Here are some pretty rad alternatives to Photoshop. **HUGE DISCLAIMER: I don't know these apps so if you want to use them you will be kind of on your own.**
+[Pixelmator (Mac only)](http://www.pixelmator.com/)
+[GIMP](http://www.gimp.org/)
+[Sketch (Mac Only)](http://bohemiancoding.com/sketch/) - This is not a photoeditor, but it's the application that I use for UI design. It's pretty rad, and is great for webdesign .
+
+### Homework
+- No Assignments Just reading and tutorials to make you more awesome.
+- Framing (pg 100 - 113)
+- [Photoshop Tutorials - Watch all of section 2 starting with this one](http://www.lynda.com/Photoshop-tutorials/Navigating-your-image/124096/140551-4.html)
