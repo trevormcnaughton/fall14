@@ -5,8 +5,8 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Sep 2014 20:33:35 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Sep 2014 20:33:35 -0500</lastBuildDate>
+    <pubDate>Tue, 30 Sep 2014 22:22:59 -0500</pubDate>
+    <lastBuildDate>Tue, 30 Sep 2014 22:22:59 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -21,36 +21,58 @@
 &lt;h2 id=&quot;intro-to-photoshop&quot;&gt;Intro to Photoshop&lt;/h2&gt;
 &lt;p&gt;Photoshop has long been the king of pixel manipulators. It has been man-handling those little digital squares since January of 1998. It is still considered THE premier digital photography application. Now, we also consider Photoshop to be an extremely powerful design tool. In fact many web and graphic designers use Photoshop to layout static comps.&lt;/p&gt;
 
+&lt;h3 id=&quot;vector-vs-raster-bitmap&quot;&gt;Vector vs Raster (Bitmap)&lt;/h3&gt;
+&lt;p&gt;As we know from Illustrator vector lines are extremely accurate and are drawn by math. With raster all lines, shapes, and images are drawn with little dots on the screen, pixels. On a large image the detail created with these pixels can make up a photographic image.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week5/vector-raster.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;This is what raster and vector look like @ 400% zoom.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;rgb-colorspace&quot;&gt;RGB Colorspace&lt;/h3&gt;
+&lt;p&gt;We talked a little about Illustrator’s colorspace defaults to CMYK (subtractive color). Photoshop is on the other end and defaults to RGB. Primarily because photography deals with light (additive color). You’ll see this if you open up the Channels palette.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week5/cmykrgb.png&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;This is what raster and vector look like @ 400% zoom.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;h3 id=&quot;benefits-of-photoshop&quot;&gt;Benefits of Photoshop&lt;/h3&gt;
-&lt;p&gt;Some of the major benefits of Photoshop vs Vector programs really comes down to it’s ability to edit raster images. It makes designing photographic layouts much easier since you have the ability to edit the photos and lay them out in the same application. However, on the flip side, images contain a whole lot more data than vector files so your file sizes start to get significantly larger. I’ve had comps that will get well above the 1GB file size range. That’s not always fun when you have a deadline, and it takes 10 minutes to save a file :\&lt;/p&gt;
+&lt;p&gt;Some of the major benefits of Photoshop vs Vector programs really comes down to it’s ability to edit raster images. It makes designing photographic layouts much easier since you have the ability to edit the photos and lay them out in the same application.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;/images/week5/mailchimp_redesign.jpg&quot; alt=&quot;&quot; /&gt;
   &lt;figcaption&gt;Mailchimps last redesign would have been a pain without something like Photoshop.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;p&gt;However, on the flip side, images contain a whole lot more data than vector files so your file sizes start to get significantly larger. I’ve had comps that will get well above the 1GB file size range. That’s not always fun when you have a deadline, and it takes 10 minutes to save a file :\&lt;/p&gt;
+
 &lt;h3 id=&quot;photoshop-workspace&quot;&gt;Photoshop Workspace&lt;/h3&gt;
 &lt;p&gt;Let’s take a look at some of the tools we’ve got in the Photoshop UI.&lt;/p&gt;
+
 &lt;figure&gt;
   &lt;img src=&quot;/images/week5/ps-107.gif&quot; alt=&quot;&quot; /&gt;
   &lt;figcaption&gt;The photoshop Toolbar. LOLJKROFLMAO.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;For realsies though.&lt;/p&gt;
+&lt;p&gt;JK, that’s the Photoshop 1.0 UI. It’s changed a lot, for realsies.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;/images/week5/photoshop-tools.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Phew, I found them.&lt;/figcaption&gt;
+  &lt;figcaption&gt;Phew, I found them. This is what PS CC looks like. CS6 will look a little bit different.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
-&lt;p&gt;Here’s the activity.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/week5/ps-activity-01.psd&quot;&gt;Download this file&lt;/a&gt;, we will work from this and learn about some of the more important photoshop tools.&lt;/p&gt;
 
 &lt;h3 id=&quot;photoshop-alternatives&quot;&gt;Photoshop Alternatives&lt;/h3&gt;
-&lt;p&gt;Here are some pretty rad alternatives to Photoshop. &lt;strong&gt;HUGE DISCLAIMER: I don’t know these apps so if you want to use them you will be kind of on your own.&lt;/strong&gt;
-&lt;a href=&quot;http://www.pixelmator.com/&quot;&gt;Pixelmator (Mac only)&lt;/a&gt;
-&lt;a href=&quot;http://www.gimp.org/&quot;&gt;GIMP&lt;/a&gt;
-&lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch (Mac Only)&lt;/a&gt; - This is not a photoeditor, but it’s the application that I use for UI design. It’s pretty rad, and is great for webdesign .&lt;/p&gt;
+&lt;p&gt;Here are some pretty rad alternatives to Photoshop. &lt;strong&gt;HUGE DISCLAIMER: I don’t know all these apps so if you want to use them you will be kind of on your own.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pixelmator.com/&quot;&gt;Pixelmator (Mac only)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gimp.org/&quot;&gt;GIMP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch (Mac Only)&lt;/a&gt; - This is not a photoeditor, but it’s the application that I use for UI design. It’s pretty rad, and is great for webdesign .&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
 &lt;ul&gt;

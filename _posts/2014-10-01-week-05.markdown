@@ -16,40 +16,60 @@ color: lime
 Photoshop has long been the king of pixel manipulators. It has been man-handling those little digital squares since January of 1998. It is still considered THE premier digital photography application. Now, we also consider Photoshop to be an extremely powerful design tool. In fact many web and graphic designers use Photoshop to layout static comps.
 
 ### Vector vs Raster (Bitmap)
-As we know from Illustrator vector lines are extremely accurate and are drawn by math. With raster all lines, shapes, and images are drawn with little dots on the screen, pixels. On a large image the detail created with these pixels can make up a photographic image. 
+As we know from Illustrator vector lines are extremely accurate and are drawn by math. With raster all lines, shapes, and images are drawn with little dots on the screen, pixels. On a large image the detail created with these pixels can make up a photographic image.
+
+<figure>
+  <img src="/images/week5/vector-raster.png" alt="" />
+  <figcaption>This is what raster and vector look like @ 400% zoom.</figcaption>
+</figure>
+
+### RGB Colorspace
+We talked a little about Illustrator's colorspace defaults to CMYK (subtractive color). Photoshop is on the other end and defaults to RGB. Primarily because photography deals with light (additive color). You'll see this if you open up the Channels palette.
+
+<figure>
+  <img src="/images/week5/cmykrgb.png" alt="" />
+  <figcaption>This is what raster and vector look like @ 400% zoom.</figcaption>
+</figure>
+
 
 ### Benefits of Photoshop
-Some of the major benefits of Photoshop vs Vector programs really comes down to it's ability to edit raster images. It makes designing photographic layouts much easier since you have the ability to edit the photos and lay them out in the same application. However, on the flip side, images contain a whole lot more data than vector files so your file sizes start to get significantly larger. I've had comps that will get well above the 1GB file size range. That's not always fun when you have a deadline, and it takes 10 minutes to save a file :\
+Some of the major benefits of Photoshop vs Vector programs really comes down to it's ability to edit raster images. It makes designing photographic layouts much easier since you have the ability to edit the photos and lay them out in the same application.
 
 <figure>
   <img src="/images/week5/mailchimp_redesign.jpg" alt="" />
   <figcaption>Mailchimps last redesign would have been a pain without something like Photoshop.</figcaption>
 </figure>
 
+However, on the flip side, images contain a whole lot more data than vector files so your file sizes start to get significantly larger. I've had comps that will get well above the 1GB file size range. That's not always fun when you have a deadline, and it takes 10 minutes to save a file :\
+
+
+
 
 ### Photoshop Workspace
 Let's take a look at some of the tools we've got in the Photoshop UI.
+
 <figure>
   <img src="/images/week5/ps-107.gif" alt="" />
   <figcaption>The photoshop Toolbar. LOLJKROFLMAO.</figcaption>
 </figure>
 
-For realsies though.
+JK, that's the Photoshop 1.0 UI. It's changed a lot, for realsies.
 
 <figure>
   <img src="/images/week5/photoshop-tools.png" alt="" />
-  <figcaption>Phew, I found them.</figcaption>
+  <figcaption>Phew, I found them. This is what PS CC looks like. CS6 will look a little bit different.</figcaption>
 </figure>
 
 ### ACTIVITY TIME
-Here's the activity.
+[Download this file](/files/week5/ps-activity-01.psd), we will work from this and learn about some of the more important photoshop tools.
 
 
 ### Photoshop Alternatives
-Here are some pretty rad alternatives to Photoshop. **HUGE DISCLAIMER: I don't know these apps so if you want to use them you will be kind of on your own.**
-[Pixelmator (Mac only)](http://www.pixelmator.com/)
-[GIMP](http://www.gimp.org/)
-[Sketch (Mac Only)](http://bohemiancoding.com/sketch/) - This is not a photoeditor, but it's the application that I use for UI design. It's pretty rad, and is great for webdesign .
+Here are some pretty rad alternatives to Photoshop. **HUGE DISCLAIMER: I don't know all these apps so if you want to use them you will be kind of on your own.**
+
+- [Pixelmator (Mac only)](http://www.pixelmator.com/)
+- [GIMP](http://www.gimp.org/)
+- [Sketch (Mac Only)](http://bohemiancoding.com/sketch/) - This is not a photoeditor, but it's the application that I use for UI design. It's pretty rad, and is great for webdesign .
 
 ### Homework
 - No Assignments Just reading and tutorials to make you more awesome.
