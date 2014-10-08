@@ -120,3 +120,21 @@ $steps: 10;
     text-shadow: drawsteps(lighten($lime, 5%));
   }
 }
+
+.masthead--purple {
+  background: $purple;
+  color: lighten($purple, 25%);
+
+  h1 {
+    text-shadow: drawsteps(lighten($purple, 5%));
+  }
+}
+
+.masthead--tomato {
+  background: $tomato;
+  color: lighten($tomato, 25%);
+
+  h1 {
+    text-shadow: drawsteps(lighten($tomato, 5%));
+  }
+}

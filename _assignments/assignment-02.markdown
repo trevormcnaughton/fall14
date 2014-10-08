@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "#selfies"
-date:   2014-09-17 14:18:46
+date:   2014-09-17
 categories: assignment
-week: Week 2
+week: Assignment 2
 color: teal
 ---
 

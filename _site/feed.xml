@@ -5,9 +5,90 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 30 Sep 2014 22:22:59 -0500</pubDate>
-    <lastBuildDate>Tue, 30 Sep 2014 22:22:59 -0500</lastBuildDate>
+    <pubDate>Wed, 08 Oct 2014 18:09:36 -0500</pubDate>
+    <lastBuildDate>Wed, 08 Oct 2014 18:09:36 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Framing</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Composition &amp;amp; Cropping&lt;/li&gt;
+  &lt;li&gt;Image &amp;amp; Canvas&lt;/li&gt;
+  &lt;li&gt;Activity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://www.tumblr.com/photo/1280/sealmaiden/660425083/1/tumblr_l34mioHhbi1qa4s0q&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Certain visual traces are like evidence. The event itself has passed but it has left information - marks, for example - and those marks are held there forever in time, like a photograph holds information as long as it lasts… It’s very mysterious to me to come upon something like that in reality and have it explain itself - to have it give evidence of what occurred then.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figcaption&gt;- Kenneth Josephson&lt;/figcaption&gt;
+
+&lt;h3 id=&quot;composing&quot;&gt;Composing&lt;/h3&gt;
+&lt;p&gt;We’ve already covered on some of this when we talked about fundamental design theories a few weeks ago when we talked about &lt;a href=&quot;/week/week-02/#gestalt-theory&quot;&gt;Gestalt&lt;/a&gt; theories. The great thing about these concepts is that they can be used in any visual, or graphic art. Be that Print, Design, Illustration, or Game. We will focus a little more on these concepts and how they relate to photographs (photoshop eh?) but keep in mind that these are essentially universal.&lt;/p&gt;
+
+&lt;h4 id=&quot;rule-of-thirds&quot;&gt;Rule of thirds&lt;/h4&gt;
+&lt;p&gt;The rule of thirds is a framing concept that splits the frame vertically and horizontally 3 times creating 9 separate blocks. The most interesting part of this concept lies in how you use this grid. Science has proven, well that’s not totally true, that your pictures will be more compositionally pleasing if you align your subject on one of the intersecting points of your grid. Seems like a pretty rad and easy way to get some good snaps.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week6/rot.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;Rule of thirds grid in action&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week6/rotsplit.jpg&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;It can also be used to organize your frame&lt;a href=&quot;http://photography.tutsplus.com/articles/quick-tip-the-rule-of-thirds--photo-7796&quot;&gt;Source&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;crop-tool&quot;&gt;Crop Tool&lt;/h4&gt;
+&lt;p&gt;You don’t always have to align your subjects to the rule of thirds grid in your camera though. The Photoshop crop tool has some great grid overlays that allow you to re-frame any image to be more aligned with a grid.&lt;/p&gt;
+
+&lt;h3 id=&quot;image--canvas&quot;&gt;Image &amp;amp; Canvas&lt;/h3&gt;
+&lt;p&gt;One insanely important piece to all of this is understanding image size constraints (File size, and physical pixel dimensions of images), and how the canvas size plays into all of this.&lt;/p&gt;
+
+&lt;h4 id=&quot;image-size&quot;&gt;Image Size&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Image &amp;gt; Image Size&lt;/code&gt; will bring up the image size window. There are a few more complex things in here that we won’t be covering. But lets turn our attention to the width x height x resolution. Any image in Photoshop is defined by these three characteristics. Just as a room has width x height x depth a photograph is structured in a very similar way. One important thing to note is that images should never be up-sampled (made larger) than they originally were. This will basically make the image look like garbage and you’ll be bummed. The resolution, measured in PPI (Pixels Per Inch), is another critical piece of the images size. The larger the resolution, the more detail the image has.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week6/image-size.png&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;canvas-size&quot;&gt;Canvas Size&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Image &amp;gt; Canvas Size&lt;/code&gt; will open the Canvas Size dialog. Keep in mind that this is totally separate from image size, but can be used to make the area of the image larger or smaller. Imagine it just as it is described, like the canvas around a painting. Except you can grow or shrink this canvas willy nilly. This will never resize your image, but if you make the canvas smaller than your image it will basically crop it. Increasing the canvas size is really great when you want to add space around an image, or if you are creating a layout that needs extra margin.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/week6/canvas-size.png&quot; alt=&quot;&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
+&lt;p&gt;Google image search for some rad space image. Bring that image into photoshop and crop it align with a rule of thirds grid. Then we will add 100px to the canvas size of then image. And change the image size to be 80% of what it was.&lt;/p&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://photography.tutsplus.com/articles/quick-tip-the-rule-of-thirds--photo-7796&quot;&gt;Rule of Thirds Quick Tips&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://vsco.co/vscocam&quot;&gt;VSCOcam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://shootmanual.co/&quot;&gt;ShootManual&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assignments/assignment-03.html&quot;&gt;Assignment 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Read&lt;/strong&gt; Hierarchy (pg 114 - 125)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lynda.com/Photoshop-tutorials/Honing-your-image/124096/140597-4.html&quot;&gt;Photoshop Tutorials - Watch all of section 6 starting with this one&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 08 Oct 2014 00:00:00 -0500</pubDate>
+        <link>http://teach.trvr.co/week/week-06</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-06</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
     
       <item>
         <title>Pixels</title>

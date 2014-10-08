@@ -12,7 +12,7 @@ layout: default
       <li class="list-block-wrapper">
         <a href="{{ post.url | prepend: site.baseurl }}" class="list-block-inner list--{{ post.color }}">
           <h3>{{ post.title }}</h3>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-meta">Due: {{ post.date | date: "%b %-d, %Y" }}</span>
         </a>
       </li>
       {% endfor %}

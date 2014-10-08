@@ -87,3 +87,21 @@
     color: lighten($lime, 25%);
   }
 }
+
+.list--purple {
+  background: $purple;
+  color: #fff;
+
+  &:hover {
+    color: lighten($purple, 25%);
+  }
+}
+
+.list--tomato {
+  background: $tomato;
+  color: #fff;
+
+  &:hover {
+    color: lighten($tomato, 25%);
+  }
+}

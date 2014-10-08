@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Framing"
+date:   2014-10-08
+categories: week
+week: Week 6
+color: purple
+---
+
+### Agenda
+- Composition & Cropping
+- Image & Canvas
+- Activity
+
+<figure>
+  <img src="http://www.tumblr.com/photo/1280/sealmaiden/660425083/1/tumblr_l34mioHhbi1qa4s0q" alt="" />
+</figure>
+
+>Certain visual traces are like evidence. The event itself has passed but it has left information - marks, for example - and those marks are held there forever in time, like a photograph holds information as long as it lasts... It's very mysterious to me to come upon something like that in reality and have it explain itself - to have it give evidence of what occurred then.
+
+<figcaption>- Kenneth Josephson</figcaption>
+
+### Composing
+We’ve already covered on some of this when we talked about fundamental design theories a few weeks ago when we talked about [Gestalt](/week/week-02/#gestalt-theory) theories. The great thing about these concepts is that they can be used in any visual, or graphic art. Be that Print, Design, Illustration, or Game. We will focus a little more on these concepts and how they relate to photographs (photoshop eh?) but keep in mind that these are essentially universal.
+
+#### Rule of thirds
+The rule of thirds is a framing concept that splits the frame vertically and horizontally 3 times creating 9 separate blocks. The most interesting part of this concept lies in how you use this grid. Science has proven, well that's not totally true, that your pictures will be more compositionally pleasing if you align your subject on one of the intersecting points of your grid. Seems like a pretty rad and easy way to get some good snaps.
+
+<figure>
+  <img src="/images/week6/rot.jpg" alt="" />
+  <figcaption>Rule of thirds grid in action</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/week6/rotsplit.jpg" alt="" />
+  <figcaption>It can also be used to organize your frame<a href="http://photography.tutsplus.com/articles/quick-tip-the-rule-of-thirds--photo-7796">Source</a></figcaption>
+</figure>
+
+#### Crop Tool
+You don’t always have to align your subjects to the rule of thirds grid in your camera though. The Photoshop crop tool has some great grid overlays that allow you to re-frame any image to be more aligned with a grid.
+
+### Image & Canvas
+One insanely important piece to all of this is understanding image size constraints (File size, and physical pixel dimensions of images), and how the canvas size plays into all of this.
+
+#### Image Size
+`Image > Image Size` will bring up the image size window. There are a few more complex things in here that we won’t be covering. But lets turn our attention to the width x height x resolution. Any image in Photoshop is defined by these three characteristics. Just as a room has width x height x depth a photograph is structured in a very similar way. One important thing to note is that images should never be up-sampled (made larger) than they originally were. This will basically make the image look like garbage and you’ll be bummed. The resolution, measured in PPI (Pixels Per Inch), is another critical piece of the images size. The larger the resolution, the more detail the image has.
+
+<figure>
+  <img src="/images/week6/image-size.png" alt="" />
+</figure>
+
+#### Canvas Size
+`Image > Canvas Size` will open the Canvas Size dialog. Keep in mind that this is totally separate from image size, but can be used to make the area of the image larger or smaller. Imagine it just as it is described, like the canvas around a painting. Except you can grow or shrink this canvas willy nilly. This will never resize your image, but if you make the canvas smaller than your image it will basically crop it. Increasing the canvas size is really great when you want to add space around an image, or if you are creating a layout that needs extra margin.
+
+<figure>
+  <img src="/images/week6/canvas-size.png" alt="" />
+</figure>
+
+### ACTIVITY TIME
+Google image search for some rad space image. Bring that image into photoshop and crop it align with a rule of thirds grid. Then we will add 100px to the canvas size of then image. And change the image size to be 80% of what it was.
+
+### Resources
+- [Rule of Thirds Quick Tips](http://photography.tutsplus.com/articles/quick-tip-the-rule-of-thirds--photo-7796)
+- [VSCOcam](http://vsco.co/vscocam)
+- [ShootManual](http://shootmanual.co/)
+
+### Homework
+- [Assignment 3](/assignments/assignment-03.html)
+- **Read** Hierarchy (pg 114 - 125)
+- [Photoshop Tutorials - Watch all of section 6 starting with this one](http://www.lynda.com/Photoshop-tutorials/Honing-your-image/124096/140597-4.html)
