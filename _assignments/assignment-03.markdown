@@ -47,7 +47,7 @@ If anyone shoots with their smartphones, there are a plethora of really powerful
 ### Handing In
 As I mentioned above, you’ll be handing this assignment in on google drive. If you don’t have a gmail account, it’s really easy to create one.
 
-- Click this link (and sign in if prompted)
+- [Click this link](https://drive.google.com/folderview?id=0B6eINxI54J2eTUxJUGgtS29Rbk0&usp=sharing) (and sign in if prompted)
 - Click Add to my Drive
 - Navigate to the Assignment 3 Folder
 - Click `Create > Folder`
