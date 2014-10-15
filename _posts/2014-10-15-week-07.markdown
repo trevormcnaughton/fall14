@@ -12,15 +12,15 @@ color: tomato
 - Semiotics
 
 ### Critique
-Today’s critique will be a bit different. We are going to pair up to critique 2 of the 5 sets of images. We will take 15 minutes to analyze and write about the images. After we write about them you will share your feedback with them. _Ready_. _Set_. _Go_.
+Today’s critique will be a bit different. We are going to pair up to critique 2 of the 5 sets of images. We will take 15 minutes to analyze and write about our partner's images. After we write about them you will share your feedback with each other. _Ready_. _Set_. _Go_.
 
 ### Semiotics
 Generally speaking semiotics is a fancy word for the study of signs. Well, that's cool... But what's a sign? Signs are actually fairly complex. They are made up of any number of components – words, sounds, body language and context. Combined these create a sweet visual language that help us navigate the world, or read a human being.
 
-<aside>Semioticians, yes there's a job for that, do this for a living. They study signs and how they create meaning. They figure out how meaning can be derived from different cultural, or personal experience.</aside>
+<aside>Semioticians (yes there's a job for that) do this for a living.. They study signs and how they create meaning. They figure out how meaning can be derived from different cultural, or personal experience.</aside>
 
 #### Icon, Index, and Symbols
-Of course, since there are people devoted to studying semiotics, someone was bound to classify, and catigorize this stuff. And [this guy](http://en.wikipedia.org/wiki/Charles_Sanders_Peirce) was that guy back in the early 1900s ![This one guy](http://upload.wikimedia.org/wikipedia/commons/5/58/Charles_Sanders_Peirce.jpg)
+Of course, since there are people devoted to studying semiotics, someone was bound to classify, and categorize this stuff. And [this guy](http://en.wikipedia.org/wiki/Charles_Sanders_Peirce) was that guy back in the early 1900s ![This one guy](http://upload.wikimedia.org/wikipedia/commons/5/58/Charles_Sanders_Peirce.jpg)
 
 >To say, therefore, that thought cannot happen in an instant, but requires a time, is but another way of saying that every thought must be interpreted in another, or that all thought is in signs.
 
@@ -32,12 +32,12 @@ Of course, since there are people devoted to studying semiotics, someone was bou
 
   <li>
     <h4>Index</h4>
-    <p>An Index signs is a sign where there is a direct link between the sign and the object. The majority of traffic signs are Index signs as they represent information which relates to a location (eg, a ‘slippery road surface’ sign placed on a road which is prone to flooding)</p>
+    <p>An Index signs are signs where there is a direct link between the sign and the object. The majority of traffic signs are Index signs as they represent information which relates to a location (eg, a ‘slippery road surface’ sign placed on a road which is prone to flooding)</p>
   </li>
 
   <li>
     <h4>Symbols</h4>
-    <p>A symbol has no logical meaning between it and the object. Unfortunately the web is littered with bad examples of this type of sign, but there are good one’s - a homepage icon which is a house for example. Other off screen symbols which may help explain the difference are flags. Flags are symbols which represent countries or organisations. Again, the crossover to design and branding is very evident in these signs.</p>
+    <p>A symbol has no logical meaning between it and the object. Unfortunately the web is littered with bad examples of this type of sign, but there are good ones - a homepage icon which is a house for example. Other off screen symbols which may help explain the difference are flags. Flags are symbols which represent countries or organisations. Again, the crossover to design and branding is very evident in these signs.</p>
   </li>
 </ul>
 
@@ -64,9 +64,12 @@ We are going to split up into 4 groups and research one of these 4 symbols / ico
 - It's Signifier (What form does it take)
 - It's Signified (What concept does it represent)
 
+### Quick Tip!
+The Blend tool! This powerful tool allows us to merge different shapes and styles together either on a smooth path, or with a specified amount of steps.
+
 ### Midterm (╯°□°）╯︵ ┻━┻
 ![Aww Shit](http://media.giphy.com/media/2FazfWOd7WPJuYqHe/giphy.gif)
-Im so into reaction gifs this week. And yes, we have a midterm. It's going to be really really awesome and fun. I've even got a sweet study guide for you to use too.
+Im so into reaction gifs this week. And yes, we have a midterm. It's going to be really really awesome and fun. I've even got a sweet study guide for you to use too. [You can find that sweet guide right here.](/study-guides/midterm-guide/)
 
 ### Resources
 - [The Noun Project](http://thenounproject.com)

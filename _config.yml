@@ -21,6 +21,8 @@ collections:
     output: true
   extra-credit:
     output: true
+  study-guides:
+    output: true
 
 # Build settings
 markdown: kramdown
