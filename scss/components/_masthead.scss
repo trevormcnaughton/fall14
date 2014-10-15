@@ -138,3 +138,12 @@ $steps: 10;
     text-shadow: drawsteps(lighten($tomato, 5%));
   }
 }
+
+.masthead--yellow {
+  background: $yellow;
+  color: lighten($yellow, 25%);
+
+  h1 {
+    text-shadow: drawsteps(lighten($yellow, 5%));
+  }
+}

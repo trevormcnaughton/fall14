@@ -4,6 +4,23 @@
 //
 //-----------------------------------------------------------------------------
 
+.post-content {
+  padding: 0 em-calc(30);
+
+  @media (min-width: em-calc(640)) {
+    padding: 0 em-calc(90);
+  }
+}
+
+aside {
+  background: #f6f6f6;
+  margin: 0 em-calc(-30);
+  padding: em-calc(30);
+  margin-bottom: em-calc(18);
+  border: 1px solid darken($smoke, 10%);
+  border-radius: 6px;
+}
+
 img {
   display: block;
   margin: 1em auto;
@@ -38,11 +55,16 @@ blockquote {
 
 a {
   font-weight: 600;
-  text-decoration: underline;  
+  text-decoration: underline;
 }
 
 %fancy-images {
   border-radius: 3px;
   box-shadow: 0 1px 3px rgba(#000, 0.25);
   overflow: none;
+}
+
+ol,
+ul {
+  margin-left: 0;
 }

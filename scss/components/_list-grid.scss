@@ -105,3 +105,12 @@
     color: lighten($tomato, 25%);
   }
 }
+
+.list--yellow {
+  background: $yellow;
+  color: #fff;
+
+  &:hover {
+    color: lighten($yellow, 25%);
+  }
+}
