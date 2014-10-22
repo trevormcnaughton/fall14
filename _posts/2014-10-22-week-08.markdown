@@ -77,4 +77,3 @@ We are going to change the rules a little bit to make it better suited for our c
 ### Homework
 - **DO** [Start Project 2 - Mashup](/projects/project-02/) – Due November 5th!
 - **READ** Transparency (pg 146 - 157) and Texture (pg 52 - 69)
-- **STUDY** Work on Project 2
