@@ -11,8 +11,6 @@ permalink: /projects/project-02/
 ### Description
 In keeping with the remix theme, we are going to remix a game about remixing. We will be re-mixing each others works in the ultimate collaborative showdown. The basic idea is that one person starts the collaboration, then they hand it off to their partner. The partner then takes what is already there and changes it a bit by adding more elements, removing elements, changing the colors, editing the message. Anything goes. It's kind of like a digital exquisite corpse. Here's how it will work.
 
-I'll assign you a partner with the [create-a-partner-tron](/create-a-partner/)
-
 1. Swap contact information with your partner **COMMUNICATION IS KEY**
 2. Choose a broad theme to base the concept (Space, Cereal, Music, Games, TV, Philosophy)
 3. Flip a coin to determine who goes first
