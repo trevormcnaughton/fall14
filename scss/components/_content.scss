@@ -68,3 +68,34 @@ ol,
 ul {
   margin-left: 0;
 }
+
+
+.partner-list {
+  @include clearfix();
+  margin-bottom: em-calc(48);
+}
+
+@for $i from 1 through 10 {
+  .partner-group:nth-of-type(#{$i}) {
+    color: adjust-hue($tomato, -24deg * $i);
+  }
+}
+
+.partner-group {
+  h3 {
+    float: left;
+    font-weight: bold;
+    width: 48%;
+    margin-left: 2%;
+    color: inherit;
+
+    &:first-child {
+      text-align: right;
+
+      &:after {
+        content: '&';
+        margin-left: 12px;
+      }
+    }
+  }
+}

@@ -23,6 +23,9 @@ collections:
     output: true
   study-guides:
     output: true
+  create-a-partner:
+    output: true
+
 
 # Build settings
 markdown: kramdown

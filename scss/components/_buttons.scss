@@ -1,0 +1,30 @@
+//------------------------------------------------------------------------------
+//
+// Buttons
+//
+//-----------------------------------------------------------------------------
+
+.button {
+  outline: none;
+  border: inherit;
+  font-family: $body-font-family;
+  font-weight: bold;
+  background: lighten($blue, 10%);
+  color: #FFF;
+  padding: 1em 2em;
+  border-radius: em-calc(6);
+
+  &:hover {
+    background: lighten($blue, 20%);
+  }
+}
+
+.fucking-huge {
+  font-size: em-calc(36);
+}
+
+.button--full {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
