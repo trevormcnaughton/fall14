@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "DATA"
+date:   2014-10-29
+categories: week
+week: Week 9
+color: crimson
+canvas: true
+---
+
+### Agenda
+- Data Visualization
+- Quick Tip
+- Work Time
+
+### Data Visualization
+Data visualzation is a descriptive term that just means taking data, in the form of numbers usually, and turning it into something visual. While, hopefully, making it easy to understand as a visual metaphor. A lot of data is poorly visualized and therefore extremely hard to understand.
+<figure>
+	<img src="/images/week9/badgraph-01.jpg" alt="" />
+	<figcaption>I... I just don't...</figcaption>
+</figure>
+
+Alas! All is not lost, there are a lot of smart people using data for good. They understand that data is a powerful tool! And as we all know...
+
+![Uncle Ben](http://static.comicvine.com/uploads/original/5/54400/1320070-cliff_robertson.gif)
+
+>With great power (er, data), comes great responsibility.
+
+Here are a few examples of people using data for good and making it easy to understand / comprehend!
+
+- [Good.is](http://magazine.good.is/infographics)
+- [Dataveyes](http://dataveyes.com/)
+
+#### Infographics
+Each of these websites have great examples of two types of data, infographics, and interactive data stories. You've all seen infographics before. They are big poster-like images that have a lot of pretty colors and numbers, and are the core of data vizualization. They are meant to to present complex sets of data quickly and with great ease, and have roots dating back to the early 1600s when astronomers first started cataloging the suns rotational patterns. As people started to grow the study of data visualization we start to get more complicated graphics. This one tracks 4 variables in a very elegant way showing Napoleons march on Moscow. It captured the direction the army traveled, the locations the troops passed through, the dwindling size of the army as they died, and the freezing tempuratures they experienced.
+
+![Charles Minard Shows Napoleon](http://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
+
+More modern data scientists (this is what data visualizers often refer to themselves as) have started advancing the thinking and techniques that go into these visualizations. [Edward Tufte](http://en.wikipedia.org/wiki/Edward_Tufte) is a modern statistician (data guy) that has done a lot of great things for the field, and speaks often about information design.
+
+- [All kinds of spaceships](http://thumbnails-visually.netdna-ssl.com/all-scifi-spaceships-known-to-man_52448ad9767ff.jpg)
+- [Relative size of the planets](http://thumbnails-visually.netdna-ssl.com/ThePlanets_5282a6d2111c5.jpg)
+
+#### Interactive Data Stories
+One of the most interesting things baout data design / visualization is how great it can be at telling stories. You might not look at a set of numbers in a spreadsheet and say. "Man, this looks like a great story" but really, that's all it is. And if it isn't telling a unique story, it's helping advance or evolve storyline. It is the evidence needed to make you believe something, or put great weight on something.
+
+#### Politics
+
+- [Guns](http://guns.periscopic.com/?year=2013)
+- [Drones](http://drones.pitchinteractive.com/)
+- [The Refugee Project](http://www.therefugeeproject.org/)
+
+#### Social Commentary
+
+- [Selfie City](http://selfiecity.net/selfiexploratory/)
+
+#### Musical
+
+- [Mta.me](http://www.mta.me/)
+- [Baroque.me](http://www.baroque.me/)
+
+### Data Driven Design
+Recently data has had a huge impact on design. It has taken the form of collecting analytics with services like Google Analytics and Mixpanel. These metrics are collected and used to make more informed design decisions about everything from what color a button should be to an entire architectural do-over, to complete website redesigns. Data allows us to have more confidence in the decisions we are making about pieces of our designs.
+
+- [Google Analytics](http://www.google.com/analytics/)
+- [Mixpanel](https://mixpanel.com/report/475085/events/)
+- [Optimizely](https://www.optimizely.com/)
+
+### Quick Tip!
+Clipping Masks
+
+### Work Time
+Let's work on project 2 for the rest of class. If you dont' have to volley then you should use this time to gather resources for your next volley. Start planning ahead (even if you don't know what it's going to be).
+
+### Resources
+- [Visual Display of Quantitative Information](http://www.amazon.com/The-Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?ie=UTF8&qid=1414551305&sr=8-1&keywords=visual+display+of+quantitative)
+
+### Homework
+- **DO** [COMPLETE Project 2 - Ping Pong](/projects/project-02/) – Due November 5th!
+- **READ** Modularity (pg 158 - 173)
+- **STUDY** [Google Material Design](www.google.com/design/spec/material-design/)

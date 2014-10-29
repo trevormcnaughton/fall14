@@ -5,9 +5,112 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Oct 2014 18:21:11 -0500</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2014 18:21:11 -0500</lastBuildDate>
+    <pubDate>Wed, 29 Oct 2014 15:00:25 -0500</pubDate>
+    <lastBuildDate>Wed, 29 Oct 2014 15:00:25 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>DATA</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Data Visualization&lt;/li&gt;
+  &lt;li&gt;Quick Tip&lt;/li&gt;
+  &lt;li&gt;Work Time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;data-visualization&quot;&gt;Data Visualization&lt;/h3&gt;
+&lt;p&gt;Data visualzation is a descriptive term that just means taking data, in the form of numbers usually, and turning it into something visual. While, hopefully, making it easy to understand as a visual metaphor. A lot of data is poorly visualized and therefore extremely hard to understand.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;img src=&quot;/images/week9/badgraph-01.jpg&quot; alt=&quot;&quot; /&gt;
+	&lt;figcaption&gt;I... I just don't...&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Alas! All is not lost, there are a lot of smart people using data for good. They understand that data is a powerful tool! And as we all know…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.comicvine.com/uploads/original/5/54400/1320070-cliff_robertson.gif&quot; alt=&quot;Uncle Ben&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With great power (er, data), comes great responsibility.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here are a few examples of people using data for good and making it easy to understand / comprehend!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://magazine.good.is/infographics&quot;&gt;Good.is&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dataveyes.com/&quot;&gt;Dataveyes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;infographics&quot;&gt;Infographics&lt;/h4&gt;
+&lt;p&gt;Each of these websites have great examples of two types of data, infographics, and interactive data stories. You’ve all seen infographics before. They are big poster-like images that have a lot of pretty colors and numbers, and are the core of data vizualization. They are meant to to present complex sets of data quickly and with great ease, and have roots dating back to the early 1600s when astronomers first started cataloging the suns rotational patterns. As people started to grow the study of data visualization we start to get more complicated graphics. This one tracks 4 variables in a very elegant way showing Napoleons march on Moscow. It captured the direction the army traveled, the locations the troops passed through, the dwindling size of the army as they died, and the freezing tempuratures they experienced.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png&quot; alt=&quot;Charles Minard Shows Napoleon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More modern data scientists (this is what data visualizers often refer to themselves as) have started advancing the thinking and techniques that go into these visualizations. &lt;a href=&quot;http://en.wikipedia.org/wiki/Edward_Tufte&quot;&gt;Edward Tufte&lt;/a&gt; is a modern statistician (data guy) that has done a lot of great things for the field, and speaks often about information design.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thumbnails-visually.netdna-ssl.com/all-scifi-spaceships-known-to-man_52448ad9767ff.jpg&quot;&gt;All kinds of spaceships&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thumbnails-visually.netdna-ssl.com/ThePlanets_5282a6d2111c5.jpg&quot;&gt;Relative size of the planets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;interactive-data-stories&quot;&gt;Interactive Data Stories&lt;/h4&gt;
+&lt;p&gt;One of the most interesting things baout data design / visualization is how great it can be at telling stories. You might not look at a set of numbers in a spreadsheet and say. “Man, this looks like a great story” but really, that’s all it is. And if it isn’t telling a unique story, it’s helping advance or evolve storyline. It is the evidence needed to make you believe something, or put great weight on something.&lt;/p&gt;
+
+&lt;h4 id=&quot;politics&quot;&gt;Politics&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://guns.periscopic.com/?year=2013&quot;&gt;Guns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://drones.pitchinteractive.com/&quot;&gt;Drones&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.therefugeeproject.org/&quot;&gt;The Refugee Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;social-commentary&quot;&gt;Social Commentary&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://selfiecity.net/selfiexploratory/&quot;&gt;Selfie City&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;musical&quot;&gt;Musical&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mta.me/&quot;&gt;Mta.me&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.baroque.me/&quot;&gt;Baroque.me&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;data-driven-design&quot;&gt;Data Driven Design&lt;/h3&gt;
+&lt;p&gt;Recently data has had a huge impact on design. It has taken the form of collecting analytics with services like Google Analytics and Mixpanel. These metrics are collected and used to make more informed design decisions about everything from what color a button should be to an entire architectural do-over, to complete website redesigns. Data allows us to have more confidence in the decisions we are making about pieces of our designs.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.google.com/analytics/&quot;&gt;Google Analytics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mixpanel.com/report/475085/events/&quot;&gt;Mixpanel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.optimizely.com/&quot;&gt;Optimizely&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;quick-tip&quot;&gt;Quick Tip!&lt;/h3&gt;
+&lt;p&gt;Clipping Masks&lt;/p&gt;
+
+&lt;h3 id=&quot;work-time&quot;&gt;Work Time&lt;/h3&gt;
+&lt;p&gt;Let’s work on project 2 for the rest of class. If you dont’ have to volley then you should use this time to gather resources for your next volley. Start planning ahead (even if you don’t know what it’s going to be).&lt;/p&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/The-Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?ie=UTF8&amp;amp;qid=1414551305&amp;amp;sr=8-1&amp;amp;keywords=visual+display+of+quantitative&quot;&gt;Visual Display of Quantitative Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;DO&lt;/strong&gt; &lt;a href=&quot;/projects/project-02/&quot;&gt;COMPLETE Project 2 - Ping Pong&lt;/a&gt; – Due November 5th!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;READ&lt;/strong&gt; Modularity (pg 158 - 173)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;STUDY&lt;/strong&gt; &lt;a href=&quot;www.google.com/design/spec/material-design/&quot;&gt;Google Material Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 29 Oct 2014 00:00:00 -0500</pubDate>
+        <link>http://teach.trvr.co/week/week-09</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-09</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
     
       <item>
         <title>R-R-R-Remix</title>

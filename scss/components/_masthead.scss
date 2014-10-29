@@ -7,43 +7,56 @@
 $steps: 10;
 
 @mixin masthead($color) {
-  background: $color;
-  color: lighten($color, 20%);
+	background: $color;
+	color: lighten($color, 20%);
 
-  h1 { text-shadow: drawsteps(darken($color, 8%)); }
+	h1 { text-shadow: drawsteps(darken($color, 8%)); }
 }
 
 @function drawsteps($color) {
-  $val: 0px 0px $color;
-  @for $i from 1 through $steps {
-    $val: #{$val}, #{($i+2)*-1}px #{$i+2}px #{saturate($color,$i*1%)};
-  }
-  @return $val;
+	$val: 0px 0px $color;
+	@for $i from 1 through $steps {
+		$val: #{$val}, #{($i+2)*-1}px #{$i+2}px #{saturate($color,$i*1%)};
+	}
+	@return $val;
 }
 
 .masthead {
-  padding: 3.5em 0;
-  margin-bottom: 3em;
-  text-align: center;
+	padding: 3.5em 0;
+	margin-bottom: 3em;
+	text-align: center;
 
-  h1,
-  h2,
-  h3,
-  h4 {
-    color: inherit;
-  }
+	.row { z-index: 9999; }
 
-  h1 {
-    font-size: 3em;
-    font-weight: bold;
-  }
+	h1,
+	h2,
+	h3,
+	h4 {
+		color: inherit;
+	}
 
-  @media (min-width: em-calc(640)) {
-    min-height: 360px;
-    padding: 7em 0;
+	h1 {
+		font-size: 3em;
+		font-weight: bold;
+	}
 
-    h1 { font-size: 6em; }
-  }
+	canvas {
+		position: absolute;
+		z-index: -1;
+		top: 0;
+		left: 0;
+		width: 100%;
+		margin: 0;
+	}
+
+	&.has-canvas { background: transparent; }
+
+	@media (min-width: em-calc(640)) {
+		min-height: 360px;
+		padding: 7em 0;
+
+		h1 { font-size: 6em; }
+	}
 }
 
 //
@@ -63,3 +76,4 @@ $steps: 10;
 .masthead--purple  { @include masthead($purple); }
 .masthead--tomato  { @include masthead($tomato); }
 .masthead--yellow  { @include masthead($yellow); }
+.masthead--crimson { @include masthead($crimson); }
