@@ -78,4 +78,4 @@ Let's work on project 2 for the rest of class. If you dont' have to volley then 
 ### Homework
 - **DO** [COMPLETE Project 2 - Ping Pong](/projects/project-02/) – Due November 5th!
 - **READ** Modularity (pg 158 - 173)
-- **STUDY** [Google Material Design](www.google.com/design/spec/material-design/)
+- **STUDY** [Google Material Design](http://google.com/design/spec/material-design/)
