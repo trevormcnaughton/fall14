@@ -5,9 +5,69 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Oct 2014 19:53:14 -0500</pubDate>
-    <lastBuildDate>Wed, 29 Oct 2014 19:53:14 -0500</lastBuildDate>
+    <pubDate>Wed, 05 Nov 2014 18:09:18 -0600</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2014 18:09:18 -0600</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Interface</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Project 2 Critique&lt;/li&gt;
+  &lt;li&gt;Interface&lt;/li&gt;
+  &lt;li&gt;Activity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;interface&quot;&gt;Interface&lt;/h3&gt;
+&lt;p&gt;An interface is literally described as a point where two systems interact. An axe is an interface between your arms and chopping wood. A controller is an interface between your hands and pwning n00bz on your console. A button on your screen is an interface between your cursor (you) and an action you wish to complete. Buttons are an extremely important piece in a GUI (Graphical User Interface, or just User Interface for short), and you probably use them several times a day. &lt;strong&gt;Can you name any other important pieces of a User Interface?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;apple-vs-xerox&quot;&gt;Apple vs Xerox&lt;/h4&gt;
+&lt;p&gt;One of the first UIs was created in 1982, by none other than… Wait for it… Xerox. Yes the company that makes scanners, and printers. They invented the concept of the Desktop, and the mouse to interact with this new graphical interface. They were ahead of their time and inspired Steve Jobs to essentially rip it off. Jobs then designed the first Apple desktop interface and made it sound like something completely new and innovative. Sound familiar? Xerox sued Apple for &lt;a href=&quot;http://www.nytimes.com/1989/12/15/business/company-news-xerox-sues-apple-computer-over-macintosh-copyright.html&quot;&gt;$150 Million back in 1989&lt;/a&gt;, but was eventually dismissed because the courts did not seem to think you could copyright something like an interface. The concepts that Xerox created in this first iteration are still visible in the modern desktop interface, even down to how they’ve named the pieces of UI and good deal of icons. Some might say that it was timeless.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.logodesignlove.com/images/classic/xerox-logo-tom-geismar.gif&quot; alt=&quot;Xerox&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Cn4vC80Pv6Q&quot;&gt;Xerox Star UI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;but-what-makes-an-interface-good&quot;&gt;But What Makes an Interface Good?&lt;/h4&gt;
+&lt;p&gt;This is the eternal question. &lt;strong&gt;What are some good interfaces? What makes them good? What elements make you feel attached to them?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ui-patterns-in-modern-interface-design&quot;&gt;UI Patterns in Modern Interface Design&lt;/h4&gt;
+&lt;p&gt;Patterns, in User Experience (UX) and User Interface design, are defined as formal ways to document a solution to a common design problem. There have been a few patterns in app and website design recently that have surpassed many other solutions. The Hamburger Menu (or off canvas menu) is one example of a UI pattern that has had so much traction that it is all but ubiquitous in mobile apps and websites.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png&quot; alt=&quot;The Hamburger&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You’ve seen it, you’ve used it. But how do you feel about it? It has been a great solution for many designers because of the problem it solves. But what exactly is that problem? Some say that it majorily been used as a crutch… And many a designer think that the Hamburger is synonymous with simplistic, or minimal design. But often minimal (at least with this example) can border on the edge of bad usablity.&lt;/p&gt;
+
+&lt;h3 id=&quot;quick-tip&quot;&gt;Quick Tip!&lt;/h3&gt;
+&lt;p&gt;Tasteful drop shadows!&lt;/p&gt;
+
+&lt;h3 id=&quot;activity-time&quot;&gt;Activity Time&lt;/h3&gt;
+&lt;p&gt;Let’s make a quick interface. Let’s design a minimal music player app with just the bare essentials. Make a 800x600px @ 72ppi document in Photoshop or Illustrator. Make sure it includes the following elements.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Artist Name&lt;/li&gt;
+  &lt;li&gt;Song Title&lt;/li&gt;
+  &lt;li&gt;Play Button&lt;/li&gt;
+  &lt;li&gt;Next &amp;amp; Last buttons&lt;/li&gt;
+  &lt;li&gt;Time&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;DO&lt;/strong&gt; &lt;a href=&quot;/projects/final-project&quot;&gt;Final Project Proposals&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;READ&lt;/strong&gt; Grid &amp;amp; Pattern (pg 174 - 197)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 05 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://teach.trvr.co/week/week-10</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-10</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
     
       <item>
         <title>DATA</title>

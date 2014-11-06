@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Interface"
+date:   2014-11-05
+categories: week
+week: Week 10
+color: aqua
+---
+
+### Agenda
+- Project 2 Critique
+- Interface
+- Activity
+
+### Interface
+An interface is literally described as a point where two systems interact. An axe is an interface between your arms and chopping wood. A controller is an interface between your hands and pwning n00bz on your console. A button on your screen is an interface between your cursor (you) and an action you wish to complete. Buttons are an extremely important piece in a GUI (Graphical User Interface, or just User Interface for short), and you probably use them several times a day. **Can you name any other important pieces of a User Interface?**
+
+#### Apple vs Xerox
+One of the first UIs was created in 1982, by none other than... Wait for it... Xerox. Yes the company that makes scanners, and printers. They invented the concept of the Desktop, and the mouse to interact with this new graphical interface. They were ahead of their time and inspired Steve Jobs to essentially rip it off. Jobs then designed the first Apple desktop interface and made it sound like something completely new and innovative. Sound familiar? Xerox sued Apple for [$150 Million back in 1989](http://www.nytimes.com/1989/12/15/business/company-news-xerox-sues-apple-computer-over-macintosh-copyright.html), but was eventually dismissed because the courts did not seem to think you could copyright something like an interface. The concepts that Xerox created in this first iteration are still visible in the modern desktop interface, even down to how they've named the pieces of UI and good deal of icons. Some might say that it was timeless.
+
+![Xerox](http://www.logodesignlove.com/images/classic/xerox-logo-tom-geismar.gif)
+
+- [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
+
+#### But What Makes an Interface Good?
+This is the eternal question. **What are some good interfaces? What makes them good? What elements make you feel attached to them?**
+
+#### UI Patterns in Modern Interface Design
+Patterns, in User Experience (UX) and User Interface design, are defined as formal ways to document a solution to a common design problem. There have been a few patterns in app and website design recently that have surpassed many other solutions. The Hamburger Menu (or off canvas menu) is one example of a UI pattern that has had so much traction that it is all but ubiquitous in mobile apps and websites.
+
+![The Hamburger](https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png)
+
+You've seen it, you've used it. But how do you feel about it? It has been a great solution for many designers because of the problem it solves. But what exactly is that problem? Some say that it majorily been used as a crutch... And many a designer think that the Hamburger is synonymous with simplistic, or minimal design. But often minimal (at least with this example) can border on the edge of bad usablity.
+
+### Quick Tip!
+Tasteful drop shadows!
+
+### Activity Time
+Let's make a quick interface. Let's design a minimal music player app with just the bare essentials. Make a 800x600px @ 72ppi document in Photoshop or Illustrator. Make sure it includes the following elements.
+
+1. Artist Name
+2. Song Title
+3. Play Button
+4. Next & Last buttons
+5. Time
+
+### Homework
+- **DO** [Final Project Proposals](/projects/final-project)
+- **READ** Grid & Pattern (pg 174 - 197)
