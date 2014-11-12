@@ -24,4 +24,4 @@ Sorry I couldn't come up with a more clever title ¯\\_(ツ)_/¯  Create a grid 
 ### Resources
 - [Designing Grid Systems](http://www.markboulton.co.uk/journal/five-simple-steps-to-designing-grid-systems-part-1)
 
-<a href="/week/week-06/"> ‹ Back to week 6 content</a>
+<a href="/week/week-11/"> ‹ Back to week 11 content</a>
