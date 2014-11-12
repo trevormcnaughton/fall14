@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Animation & Interface"
+date:   2014-12-03
+categories: week
+week: Week 14
+color: aqua
+---
+
+### Agenda
+- ¯\_(ツ)_/¯
+
+### Inspiration
+- [Pasquale D'Silva](http://psql.carbonmade.com/#_=_)
+
+### Homework
+- **DO** [FINISH FINAL PROJECTS](/projects/final-project)

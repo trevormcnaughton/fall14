@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "DIDzaparty"
+date:   2014-12-10
+categories: week
+week: Week 14
+color: aqua
+---
+
+### Agenda
+- Pizza
+- Final Projects

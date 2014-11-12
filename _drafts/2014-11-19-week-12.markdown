@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Production"
+date:   2014-11-19
+categories: week
+week: Week 10
+color: aqua
+---
+
+### Agenda
+- Assignment 4 Critique
+
+### Production
+
+### Quick Tip!
+Exporting like a boss
+
+### Work Time
+Lets just work on our finals. Hit me up with any questions, I'll help out.
+
+### Homework
+- **DO** [Work on Final Project](/projects/final-project)
+- **READ** Time & Motion (pg 214 - 231)

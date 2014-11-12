@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "The Grid"
+date:   2014-11-13
+categories: week
+week: Week 10
+color: orange
+---
+
+### Agenda
+- Grids n Things
+- Activity / Start Assignment / Final Project 1:1
+
+### Grids
+![The Grid](https://33.media.tumblr.com/tumblr_m96evkFN6Q1rtbmngo1_500.gif)
+
+> I tried to picture clusters of information as they moved through the computer. What did they look like? Ships? motorcycles? Were the circuits like freeways? I kept dreaming of a world I thought I'd never see.
+
+So, this class has nothing to do with Tron. Whenever I hear or say "The Grid" I think of that quote. I know. **#COOLSTORYBRO**. Like most of these topics, grids have been around for a super long time. And they are defined as a two-dimensional structure made up of intersecting lines. It is a powerful tool for a designer because it lets us organize content in a meaningful, and rational manner.
+
+#### A Lil History
+
+Layouts date back to the first introduction of [Movable Type](http://en.wikipedia.org/wiki/Movable_type), because it allowed type to be reproduced accurately and basically infinitely (this was also the reason books were being printed and published en-masse). Since type could be re-created type setters could be a bit more mathematical, and systematic about their layouts.
+
+![First Layouts](/images/week11/first-layouts.jpg)
+_Some of the first book layouts_
+
+##### The Bauhaus
+
+But typographic layouts had pretty much stayed the same from then until around World War 1 and the Bauhaus School. We aren't going to talk a lot about this specific school and movement. But just know that it shook the design world up in a really good way. Especially for graphic and typographic design.
+
+![Bauhaus Movement](/images/week11/bauhaus.jpg)
+_Then came The Bauhaus_
+
+Bauhaus basically wanted to take all of these old, rigid rules of design and creating and dismantle them, break them down, and re-assemble them in a new way. It was totally avant-garde and super refreshing ( or controversial ) for it's time.
+
+##### Swiss (International) Design
+
+A few years after the Bauhaus was making waves in art and design a group of constructivist modernist designers emerged with a great call to action and definition for this new style of design. The Swiss style was an authentic pursuit of simplicity. This spanned across a multitude of mediums including graphic design, and architecture. It wanted to focus more on the simplistic shapes and forms, and less on texture and illustration (in terms of graphic design).
+
+![Swiss Design](/images/week11/swiss.jpg)
+_One of my favorite design movements. [Here's a good visual overview of early Swiss Design](https://www.flickr.com/photos/20745656@N00/sets/72157594296535170/)_
+
+You can see that it's very pragmatic, and clear. There is a very defined structure and it almost completely relies on typography and a rigid grid. Let's look at one of those images with a grid overlay.
+
+![Swiss Design](/images/week11/swiss-grid.jpg)
+_See how nicely everything sit on something?_
+
+Look how this grid works. It's super simple, consistent gutters, fixed width columns. Everything feels study and supported even though the grid is essentially negative space. And keep in mind this is all being done without computers :O
+
+![Swiss Design](/images/week11/swiss-grid-2.jpg)
+_And here's another good example. See how they all sit on a perpendicular grid? and how the large letterform defines the base of the grid?_
+
+#### In Web Design
+
+As you can imagine grids are an amazing and powerful tool for web designers as well. Most websites you visit are build upon some type of grid system. Back in my day the most popular grid system for web designers was the [960 grid](http://960.gs/). Which is a 12 or 16  column pixel based grid system. It became so popular because it was really easy to use, and it was extremely powerful. And as screens got bigger so did browser windows, so we opened our minds to a larger default, the (1140px grid)[http://www.1140px.com/]. But this also became limited, because at the same time that screens were getting larger. They were also getting smaller. Cue, [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design). This threw a number of new problems at designers. And we are nothing if not problem solvers. So all of the grid we had previously build had to become flexible to accomodate not just computer screens but all kinds of mobile screens and devices.
+
+#### Sacred Grids
+
+And the last stop on this grid train is a different kind of grid. They are grids that i've mentioned before and have been around longer than most of these layouts. The first one is Metatrons Cube, mah favorite. It consists of 13 circles each with a line originating from the center to the other 12 circles. And it creates this badass grid.
+
+![Metatrons Cubes](http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Metatron_solids.svg/1920px-Metatron_solids.svg.png)
+_Various grids based of similar platonic solids_
+
+A more commonly used grid, is one based of the devine number Phi. This golden rectangle has been used in fine art and design for centures. And will continue to be used as it creates pleasing compositions, and is very dynamic.
+
+![Golden Rectangle](http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Whirling_squares.svg/915px-Whirling_squares.svg.png)
+_The Golden Rectangle_
+
+### Quick Tip!
+Creating a grid in Photoshop / Illustrator
+
+### Resources
+- [History of Art in 100 Words](http://historyofart.mijlo.com/)
+- [NPR Colors](http://apps.npr.org/lookatthis/posts/colors/)
+- [Zurb Foundation](http://foundation.zurb.com/)
+- [1140px grid PSD](https://github.com/aosmialowski/1140px-Responsive-CSS-Grid/raw/master/psd/1140px_12Col_10Gutter.psd)
+
+### Homework
+- **DO** [Assignment 4](/assignments/assignment-04)
+- **DO** [Work on Final Project](/projects/final-project)
+- **READ** Diagram (pg 198 - 213)

@@ -5,9 +5,102 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Nov 2014 18:09:18 -0600</pubDate>
-    <lastBuildDate>Wed, 05 Nov 2014 18:09:18 -0600</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2014 17:57:02 -0600</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2014 17:57:02 -0600</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>The Grid</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grids n Things&lt;/li&gt;
+  &lt;li&gt;Activity / Start Assignment / Final Project 1:1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;grids&quot;&gt;Grids&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://33.media.tumblr.com/tumblr_m96evkFN6Q1rtbmngo1_500.gif&quot; alt=&quot;The Grid&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I tried to picture clusters of information as they moved through the computer. What did they look like? Ships? motorcycles? Were the circuits like freeways? I kept dreaming of a world I thought I’d never see.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, this class has nothing to do with Tron. Whenever I hear or say “The Grid” I think of that quote. I know. &lt;strong&gt;#COOLSTORYBRO&lt;/strong&gt;. Like most of these topics, grids have been around for a super long time. And they are defined as a two-dimensional structure made up of intersecting lines. It is a powerful tool for a designer because it lets us organize content in a meaningful, and rational manner.&lt;/p&gt;
+
+&lt;h4 id=&quot;a-lil-history&quot;&gt;A Lil History&lt;/h4&gt;
+
+&lt;p&gt;Layouts date back to the first introduction of &lt;a href=&quot;http://en.wikipedia.org/wiki/Movable_type&quot;&gt;Movable Type&lt;/a&gt;, because it allowed type to be reproduced accurately and basically infinitely (this was also the reason books were being printed and published en-masse). Since type could be re-created type setters could be a bit more mathematical, and systematic about their layouts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/week11/first-layouts.jpg&quot; alt=&quot;First Layouts&quot; /&gt;
+&lt;em&gt;Some of the first book layouts&lt;/em&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;the-bauhaus&quot;&gt;The Bauhaus&lt;/h5&gt;
+
+&lt;p&gt;But typographic layouts had pretty much stayed the same from then until around World War 1 and the Bauhaus School. We aren’t going to talk a lot about this specific school and movement. But just know that it shook the design world up in a really good way. Especially for graphic and typographic design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/week11/bauhaus.jpg&quot; alt=&quot;Bauhaus Movement&quot; /&gt;
+&lt;em&gt;Then came The Bauhaus&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Bauhaus basically wanted to take all of these old, rigid rules of design and creating and dismantle them, break them down, and re-assemble them in a new way. It was totally avant-garde and super refreshing ( or controversial ) for it’s time.&lt;/p&gt;
+
+&lt;h5 id=&quot;swiss-international-design&quot;&gt;Swiss (International) Design&lt;/h5&gt;
+
+&lt;p&gt;A few years after the Bauhaus was making waves in art and design a group of constructivist modernist designers emerged with a great call to action and definition for this new style of design. The Swiss style was an authentic pursuit of simplicity. This spanned across a multitude of mediums including graphic design, and architecture. It wanted to focus more on the simplistic shapes and forms, and less on texture and illustration (in terms of graphic design).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/week11/swiss.jpg&quot; alt=&quot;Swiss Design&quot; /&gt;
+&lt;em&gt;One of my favorite design movements. &lt;a href=&quot;https://www.flickr.com/photos/20745656@N00/sets/72157594296535170/&quot;&gt;Here’s a good visual overview of early Swiss Design&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You can see that it’s very pragmatic, and clear. There is a very defined structure and it almost completely relies on typography and a rigid grid. Let’s look at one of those images with a grid overlay.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/week11/swiss-grid.jpg&quot; alt=&quot;Swiss Design&quot; /&gt;
+&lt;em&gt;See how nicely everything sit on something?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Look how this grid works. It’s super simple, consistent gutters, fixed width columns. Everything feels study and supported even though the grid is essentially negative space. And keep in mind this is all being done without computers :O&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/week11/swiss-grid-2.jpg&quot; alt=&quot;Swiss Design&quot; /&gt;
+&lt;em&gt;And here’s another good example. See how they all sit on a perpendicular grid? and how the large letterform defines the base of the grid?&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;in-web-design&quot;&gt;In Web Design&lt;/h4&gt;
+
+&lt;p&gt;As you can imagine grids are an amazing and powerful tool for web designers as well. Most websites you visit are build upon some type of grid system. Back in my day the most popular grid system for web designers was the &lt;a href=&quot;http://960.gs/&quot;&gt;960 grid&lt;/a&gt;. Which is a 12 or 16  column pixel based grid system. It became so popular because it was really easy to use, and it was extremely powerful. And as screens got bigger so did browser windows, so we opened our minds to a larger default, the (1140px grid)[http://www.1140px.com/]. But this also became limited, because at the same time that screens were getting larger. They were also getting smaller. Cue, &lt;a href=&quot;http://www.abookapart.com/products/responsive-web-design&quot;&gt;Responsive Web Design&lt;/a&gt;. This threw a number of new problems at designers. And we are nothing if not problem solvers. So all of the grid we had previously build had to become flexible to accomodate not just computer screens but all kinds of mobile screens and devices.&lt;/p&gt;
+
+&lt;h4 id=&quot;sacred-grids&quot;&gt;Sacred Grids&lt;/h4&gt;
+
+&lt;p&gt;And the last stop on this grid train is a different kind of grid. They are grids that i’ve mentioned before and have been around longer than most of these layouts. The first one is Metatrons Cube, mah favorite. It consists of 13 circles each with a line originating from the center to the other 12 circles. And it creates this badass grid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Metatron_solids.svg/1920px-Metatron_solids.svg.png&quot; alt=&quot;Metatrons Cubes&quot; /&gt;
+&lt;em&gt;Various grids based of similar platonic solids&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A more commonly used grid, is one based of the devine number Phi. This golden rectangle has been used in fine art and design for centures. And will continue to be used as it creates pleasing compositions, and is very dynamic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Whirling_squares.svg/915px-Whirling_squares.svg.png&quot; alt=&quot;Golden Rectangle&quot; /&gt;
+&lt;em&gt;The Golden Rectangle&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;quick-tip&quot;&gt;Quick Tip!&lt;/h3&gt;
+&lt;p&gt;Creating a grid in Photoshop / Illustrator&lt;/p&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://historyofart.mijlo.com/&quot;&gt;History of Art in 100 Words&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://apps.npr.org/lookatthis/posts/colors/&quot;&gt;NPR Colors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;Zurb Foundation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/aosmialowski/1140px-Responsive-CSS-Grid/raw/master/psd/1140px_12Col_10Gutter.psd&quot;&gt;1140px grid PSD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;DO&lt;/strong&gt; &lt;a href=&quot;/assignments/assignment-04&quot;&gt;Assignment 4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;DO&lt;/strong&gt; &lt;a href=&quot;/projects/final-project&quot;&gt;Work on Final Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;READ&lt;/strong&gt; Diagram (pg 198 - 213)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 13 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://teach.trvr.co/week/week-11</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-11</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
     
       <item>
         <title>Interface</title>
@@ -1023,87 +1116,6 @@ Im so into reaction gifs this week. And yes, we have a midterm. It’s going to 
         <pubDate>Wed, 10 Sep 2014 09:18:46 -0500</pubDate>
         <link>http://teach.trvr.co/week/week-02</link>
         <guid isPermaLink="true">http://teach.trvr.co/week/week-02</guid>
-        
-        
-        <category>week</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome!!</title>
-        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://slides.com/trevormcnaughton/hi/live#/&quot;&gt;Introductions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/files/DID-36-1300-03-fa14.pdf&quot;&gt;Review Syllabus&lt;/a&gt; – Subject to change!&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/forms/d/15oZegSzd82MabpNdfJdHLbSLTadkHdjCUbBb8Bx-Xo4/viewform?usp=send_form&quot;&gt;First Day Survey&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Introduction to Illustrator&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;introduction-to-illustrator&quot;&gt;Introduction to Illustrator&lt;/h3&gt;
-&lt;p&gt;Illustrator is a super powerful drawing program. It is part of the Adobe Creative Cloud, and will be the first application we learn to use. It is mostly used to draw illustrations, cartoons, logos, and interfaces. It uses mathematical equations to draw lines, shapes, and colors. Meaning anything you make with illustrator is scalable without any loss of resolution.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/logo-examples.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Vector logo examples&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/character-examples.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Some vector characters&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/interface-examples.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;A couple rad interfaces&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Hopefully this gives you an idea of some of the things we are capable of building with illustrator. It’s a very powerful tool, and has a whole lot of nuances. Don’t get overwhelmed, we will tackle it piece by piece. Starting from the very beginning. Creating a new file. Below is the basic rundown of what we will cover first. Don’t worry, things will get more exciting&lt;/p&gt;
-
-&lt;p&gt;First we will create a new document. &lt;code&gt;File&lt;/code&gt; &amp;gt; &lt;code&gt;New&lt;/code&gt; and make a new Letter Document (8.5x11 inches). We will just use the default settings for now.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/ai-new-doc.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;The new file interface&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Alternatively, you can open an image file within Illustrator via &lt;code&gt;File&lt;/code&gt; &amp;gt; &lt;code&gt;Open&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Let’s take a look at some of the User Interface (UI). There’s a lot here and you won’t be expected to memorize all of it right away. This toolbar is going to be one of your best friends over the next few weeks. Get to know it, and love it.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/ai-toolbar.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Illustrator Toolbar&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
-&lt;p&gt;Lets make some faces with the basic Illustrator tools. Using only the line tool, and shape tools, lets put together a few quick faces. Try playing with different stroke thicknesses, and different shape sizes.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/activity-shapes.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;What can we make using just these shapes?&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;shape-faces&quot;&gt;Shape Faces&lt;/h3&gt;
-&lt;p&gt;What was difficult about it? Were the rules helpful or too much of a constraint?&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week1/activity-shape-faces.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;You don't always need to render detailed images to get an idea across&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Practice Class Activities&lt;/li&gt;
-  &lt;li&gt;Read: Point, Line, and Plane (pg 12-27)&lt;/li&gt;
-  &lt;li&gt;Watch: Illustrator tutorials on Lynda.com&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/assignments/assignment-01.html&quot;&gt;Assignment 1 – Digital Sketches&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;notes--extra-stuff&quot;&gt;Notes &amp;amp; Extra stuff&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141&quot;&gt;Comprehensive Pen Tool Guide&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Sep 2014 09:18:46 -0500</pubDate>
-        <link>http://teach.trvr.co/week/week-01</link>
-        <guid isPermaLink="true">http://teach.trvr.co/week/week-01</guid>
         
         
         <category>week</category>

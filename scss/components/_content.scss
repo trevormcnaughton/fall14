@@ -5,97 +5,99 @@
 //-----------------------------------------------------------------------------
 
 .post-content {
-  padding: 0 em-calc(30);
+	padding: 0 em-calc(30);
 
-  @media (min-width: em-calc(640)) {
-    padding: 0 em-calc(90);
-  }
+	@media (min-width: em-calc(640)) {
+		padding: 0 em-calc(90);
+	}
 }
 
 aside {
-  background: #f6f6f6;
-  margin: 0 em-calc(-30);
-  padding: em-calc(30);
-  margin-bottom: em-calc(18);
-  border: 1px solid darken($smoke, 10%);
-  border-radius: 6px;
+	background: #f6f6f6;
+	margin: 0 em-calc(-30);
+	padding: em-calc(30);
+	margin-bottom: em-calc(18);
+	border: 1px solid darken($smoke, 10%);
+	border-radius: 6px;
 }
 
 img {
-  display: block;
-  margin: 1em auto;
+	display: block;
+	margin: 1em auto;
 }
 
 figure {
-  margin: 2em 0;
+	margin: 2em 0;
 }
 
-figcaption {
-  text-align: center;
-  font-style: italic;
+figcaption,
+img + em {
+	text-align: center;
+	font-style: italic;
+	display: block;
 }
 
 
 blockquote {
-  font-family: $serif;
-  font-style: italic;
-  text-align: center;
+	font-family: $serif;
+	font-style: italic;
+	text-align: center;
 
-  p {
-    font-size: 1.5em;
-  }
+	p {
+		font-size: 1.5em;
+	}
 
-  @media (min-width: em-calc(640)) {
-    p {
-      font-weight: 100;
-      font-size: 2.25em;
-    }
-  }
+	@media (min-width: em-calc(640)) {
+		p {
+			font-weight: 100;
+			font-size: 2.25em;
+		}
+	}
 }
 
 a {
-  font-weight: 600;
-  text-decoration: underline;
+	font-weight: 600;
+	text-decoration: underline;
 }
 
 %fancy-images {
-  border-radius: 3px;
-  box-shadow: 0 1px 3px rgba(#000, 0.25);
-  overflow: none;
+	border-radius: 3px;
+	box-shadow: 0 1px 3px rgba(#000, 0.25);
+	overflow: none;
 }
 
 ol,
 ul {
-  margin-left: 0;
+	margin-left: 0;
 }
 
 
 .partner-list {
-  @include clearfix();
-  margin-bottom: em-calc(48);
+	@include clearfix();
+	margin-bottom: em-calc(48);
 }
 
 @for $i from 1 through 10 {
-  .partner-group:nth-of-type(#{$i}) {
-    color: adjust-hue($tomato, -24deg * $i);
-  }
+	.partner-group:nth-of-type(#{$i}) {
+		color: adjust-hue($tomato, -24deg * $i);
+	}
 }
 
 .partner-group {
-  h3 {
-    float: left;
-    font-weight: bold;
-    width: 48%;
-    margin-left: 2%;
-    color: inherit;
+	h3 {
+		float: left;
+		font-weight: bold;
+		width: 48%;
+		margin-left: 2%;
+		color: inherit;
 
-    &:first-child {
-      text-align: right;
+		&:first-child {
+			text-align: right;
 
-      &:after {
-        content: '&';
-        margin-left: 12px;
-      }
-    }
-  }
+			&:after {
+				content: '&';
+				margin-left: 12px;
+			}
+		}
+	}
 }
