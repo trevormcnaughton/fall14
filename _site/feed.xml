@@ -5,9 +5,98 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Nov 2014 18:17:01 -0600</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2014 18:17:01 -0600</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2014 20:38:06 -0600</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2014 20:38:06 -0600</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Animation</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Animation&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;quick-tip&quot;&gt;Quick Tip&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;disney&quot;&gt;Disney&lt;/h3&gt;
+&lt;p&gt;Disney was the pioneer of modern animation, and the 12 fundamentals that Disney created still hold true for animators today (both in cartooning, and interface).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Squash and stretch&lt;/li&gt;
+  &lt;li&gt;Anticipation&lt;/li&gt;
+  &lt;li&gt;Staging&lt;/li&gt;
+  &lt;li&gt;Straight ahead action and pose to pose&lt;/li&gt;
+  &lt;li&gt;Follow through and overlapping action&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Slow in and slow out&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Arcs&lt;/li&gt;
+  &lt;li&gt;Secondary action&lt;/li&gt;
+  &lt;li&gt;Timing&lt;/li&gt;
+  &lt;li&gt;Exaggeration&lt;/li&gt;
+  &lt;li&gt;Solid drawing&lt;/li&gt;
+  &lt;li&gt;Appeal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;flex-video widescreen vimeo&quot;&gt;
+&lt;iframe src=&quot;//player.vimeo.com/video/93206523&quot; width=&quot;1000&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/93206523&quot;&gt;The illusion of life&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/centodesign&quot;&gt;cento lodigiani&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;making-things-move&quot;&gt;Making things move&lt;/h3&gt;
+&lt;p&gt;So far we’ve worked mostly in two dimensions and almost exclusively with computer screens. But today, we shall travel straight past the third dimension and &lt;strong&gt;INTO THE FOURTH&lt;/strong&gt;. Time. How do things get from here to there? Or go from this to that?
+&lt;img src=&quot;http://www.gimpbible.com/wp-content/uploads/2010/02/gimpbible-f1901.gif&quot; alt=&quot;Time&quot; /&gt;
+&lt;em&gt;XYZTime&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://38.media.tumblr.com/7c00abe58738a66ce9e37ad46665946f/tumblr_nbt7s4tXG01rf78nfo1_400.gif&quot; alt=&quot;Shapes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Movement creates delight, when done correctly.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.google.com/design/spec/animation/authentic-motion.html&quot;&gt;Google Design – Authentic Motion&lt;/a&gt;
+Google things that animation should feel authentic. That it should be responsive and make the interface feel more alive. They do so in a number of ways, but mostly updating and changing the interface when a user ineteracts with elements.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;video src=&quot;http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B2wX4iIvu8L6aHVOOGxBOW5jZlE/animation-meaningfultransitions-visualcontinuity_music-tablet-01_xhdpi.webm&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
+
+&lt;p&gt;There’s a lot happening in that video, but pay attention to where things are coming from, how elements are responding, and how animation is assisting in the understanding of the interface.&lt;/p&gt;
+
+&lt;h4 id=&quot;animation-in-ui--game&quot;&gt;Animation in UI &amp;amp; Game&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5K4zjNtQ3y8&quot;&gt;Thomas was alone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TYarBbOtlzc&quot;&gt;Dots&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TMe0WnkF1Lc&quot;&gt;Designing with Animation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;easing&quot;&gt;Easing&lt;/h4&gt;
+&lt;p&gt;Easing is a huge part of making animation feel more organic and fluid. Things IRL don’t just move from here to there at the exact same pace. When you drop a ball on the ground it accellerates. It’s animation quickens as it approaches the ground because gravity is pulling on it.&lt;/p&gt;
+
+&lt;h3 id=&quot;activity&quot;&gt;Activity&lt;/h3&gt;
+&lt;p&gt;Simple easing in After Effects&lt;/p&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://markgeyer.com/pres/the-art-of-ui-animations/&quot;&gt;UI Animation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://framerjs.com/&quot;&gt;FramerJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://daneden.github.io/animate.css/&quot;&gt;Animate.css&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.motionaddicts.com/&quot;&gt;Motion Addicts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sixux.com/&quot;&gt;Six UX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://the12principles.tumblr.com/&quot;&gt;The 12 Principles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;DO&lt;/strong&gt; &lt;a href=&quot;/projects/final-project&quot;&gt;FINISH FINAL PROJECTS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 19 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://teach.trvr.co/week/week-12</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-12</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
     
       <item>
         <title>The Grid</title>
@@ -953,169 +1042,6 @@ Im so into reaction gifs this week. And yes, we have a midterm. It’s going to 
         <pubDate>Wed, 17 Sep 2014 00:00:00 -0500</pubDate>
         <link>http://teach.trvr.co/week/week-03</link>
         <guid isPermaLink="true">http://teach.trvr.co/week/week-03</guid>
-        
-        
-        <category>week</category>
-        
-      </item>
-    
-      <item>
-        <title>Building Blocks</title>
-        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Homework Review / Critique&lt;/li&gt;
-  &lt;li&gt;Gestalt Theory&lt;/li&gt;
-  &lt;li&gt;Gestalt Principles&lt;/li&gt;
-  &lt;li&gt;Pen tool activity&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;gestalt-theory&quot;&gt;Gestalt Theory&lt;/h3&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“The whole is other than the sum of the parts” - Kurt Koffka&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Gestalt theory is the basis of how we visually perceive objects. In essence, when we see a group of objects, we perceive the whole before we consider it’s parts. And even when we look at the parts we want to group them as a whole.&lt;/p&gt;
-
-&lt;h3 id=&quot;key-properties---aka-the-list-of-crazy-words&quot;&gt;Key Properties - AKA The list of crazy words&lt;/h3&gt;
-
-&lt;ul class=&quot;large-block-grid-2 small-block-grid-1&quot;&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Emergence&lt;/h4&gt;
-    &lt;p&gt;Is basically pattern recognition. We see the outline of a shape, identify that shape, then we begin to recognize the parts that make up the whole.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week2/emergence.png&quot; alt=&quot;&quot; /&gt;
-      &lt;figcaption&gt;What shape emerges?&lt;/figcaption&gt;
-      
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Reification&lt;/h4&gt;
-    &lt;p&gt;Is filling in the gaps. If there isn’t enough visual data present we will make up the missing information in our minds to create something meaningful.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week2/reification.png&quot; alt=&quot;&quot; /&gt;
-      &lt;figcaption&gt;Shapes without a definitive shape&lt;/figcaption&gt;
-      
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Multi-stability&lt;/h4&gt;
-    &lt;p&gt;Describes what our mind does when it sees two things within one image. We cannot focus on both images, so we only see one at a time.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week2/multistability.png&quot; alt=&quot;&quot; /&gt;
-      &lt;figcaption&gt;One or two images?&lt;/figcaption&gt;
-      
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Invariance&lt;/h4&gt;
-    &lt;p&gt;The ability to recognize shapes at various angles. This is due to our seeing things in three dimensions. We’ve adapted to recognizing in different contexts.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week2/invariance.png&quot; alt=&quot;&quot; /&gt;
-      &lt;figcaption&gt;It's always a box with a hole in it&lt;/figcaption&gt;
-      
-    &lt;/figure&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;gestalt-principles&quot;&gt;Gestalt Principles&lt;/h3&gt;
-&lt;p&gt;Almost everything we do in graphic design is summarized in these theories and principles. Understanding all of the principles below will make you an ultimate design badass.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“People will perceive and interpret ambiguous or complex images as the simplest form(s) possible.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul class=&quot;large-block-grid-4 small-block-grid-1&quot;&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Law of Prägnanz&lt;/h4&gt;
-    &lt;img src=&quot;/images/week2/law-of-pragnanz.png&quot; /&gt;
-    &lt;p&gt;The fundamental principle, we prefer simple, clear, and ordered images. They take less time to recognize and are easier to interperet.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Closure&lt;/h4&gt;
-    &lt;img src=&quot;/images/week2/closure.png&quot; /&gt;
-    &lt;p&gt;We generally look for a single recognizable pattern in images. Often completing images where there may be missing information.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Figure / Ground&lt;/h4&gt;
-    &lt;img src=&quot;/images/week2/figure-ground.png&quot; /&gt;
-    &lt;p&gt;Elements are perceived as either in focus (the foreground of the images) or resting (the background).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Uniform Connectedness&lt;/h4&gt;
-    &lt;img src=&quot;/images/week2/uniform-connectedness.png&quot; /&gt;
-    &lt;p&gt;Similar elements, line, shape, and color grouped together can be visually connected as a whole.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Good Continuation&lt;/h4&gt;
-    &lt;img src=&quot;/images/week2/good-continuation.png&quot; /&gt;
-    &lt;p&gt;Elements appearing in a line or a curve are percieved to be more related than elements not on the line or curve.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Common Fate&lt;/h4&gt;
-    &lt;img src=&quot;/images/week2/common-fate.gif&quot; /&gt;
-    &lt;p&gt;We tend to percieve images moving in the same direction as being more related. &lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Proximity&lt;/h4&gt;
-    &lt;img src=&quot;/images/week2/proximity.png&quot; /&gt;
-    &lt;p&gt;Things that are close to each other are more easily relatable than things that are not close.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Similarity&lt;/h4&gt;
-    &lt;img src=&quot;/images/week2/similarity.png&quot; /&gt;
-    &lt;p&gt;Things that are similar to each other are more easily relatable than things that are not similar.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;the-pen-tool&quot;&gt;The Pen Tool&lt;/h3&gt;
-&lt;p&gt;That’s enough concepts for now. Let’s dig into one of Illustrators most powerful features. The Pen tool.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week2/pen-tool.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;This should probably be a t-shirt&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h4 id=&quot;breaking-down-the-pen-tool&quot;&gt;Breaking down the pen tool&lt;/h4&gt;
-&lt;p&gt;It’s a funny thing. It’s simultaneously one of the most powerful tools in Illustrator and it starts out kind of complex, but then becomes really simple and intuitive. The first thing to understand is the Bezier Curve!&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week2/bezier-curve.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;All them curves&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;The Bezier Curve is the main reason the pen tool was so innovative when Illustrator first came out. It allowed artists to create accurate, curvy, organic lines in a pretty easy way. Let’s talk really quick about some of the different options within the pen tool.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week2/pen-tool-options.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Some of the options we are going to cover.&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
-&lt;p&gt;Using the Pen Tool. We are going to run through a quick and dirty pen tool exercise. &lt;a href=&quot;/files/week2/Pen_Tool_The_Exercise.ai&quot;&gt;Download This File&lt;/a&gt;, open it up in illustrator, and we should be good to go.&lt;/p&gt;
-
-&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Practice Class Activities&lt;/li&gt;
-  &lt;li&gt;Read: Color (pg 70-83)&lt;/li&gt;
-  &lt;li&gt;Read: &lt;a href=&quot;http://design.tutsplus.com/articles/a-20-minute-intro-to-typography-basics--psd-3326&quot;&gt;Intro to Typography&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Watch: &lt;a href=&quot;http://www.lynda.com/Illustrator-tutorials/tool-can-draw-anything/124100/142940-4.html&quot;&gt;These Lynda Illustrator Tutorials&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/assignments/assignment-02.html&quot;&gt;Selfies - Click for assignment&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141&quot;&gt;Comprehensive Pen Tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.thinkingwithtype.com/&quot;&gt;Thinking with Type&lt;/a&gt; – Comprehensive type nerdfest&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://webtypography.net/&quot;&gt;Elements of Typographic Style&lt;/a&gt; – The definitive type manual applied to the web&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 10 Sep 2014 09:18:46 -0500</pubDate>
-        <link>http://teach.trvr.co/week/week-02</link>
-        <guid isPermaLink="true">http://teach.trvr.co/week/week-02</guid>
         
         
         <category>week</category>
