@@ -32,7 +32,7 @@ _[Pasquale D’Silva](https://medium.com/@pasql/transitional-interfaces-926eb80d
 Can you think of an animation either in an app, or a game, or a movie, that made you feel awesome? Or is just straight up awesome?
 
 ### Disney
-Disney was the pioneer of modern animation, and the 12 fundamentals that Disney created still hold true for animators today (both in cartooning, and interface).
+Disney was the pioneer of animation, and the 12 fundamentals that Disney created still hold true for modern animators today (both in cartooning, interface, motion graphics, and game). Those 12 principles are:
 
 1. Squash and stretch
 2. Anticipation
@@ -55,13 +55,15 @@ Disney was the pioneer of modern animation, and the 12 fundamentals that Disney 
 <div class="flex-video widescreen youtube">
 	<iframe width="560" height="315" src="//www.youtube.com/embed/VpZmIiIXuZ0" frameborder="0" allowfullscreen></iframe>
 </div>
+_Apple Advertisement_
 
-The intersection of graphic design, and animation is basically motion graphics. It is very much what the name sounds like. Motion graphics has been popularized by applications like After Effects, and Cinema 4D, which both make it easier for simple minded designers to create pretty moving shapes and things.
+The intersection of graphic design, and animation is basically motion graphics. It is very much what the name sounds like. The popularization of motions graphics has been helped by mainstream applications like After Effects, and Cinema 4D. Both applications make it easier for designers to create pretty moving shapes, and characters.
 
-### Animation in UI & Game
+### Animation in UI
 <div class="flex-video widescreen youtube">
 	<iframe width="560" height="315" src="//www.youtube.com/embed/TMe0WnkF1Lc" frameborder="0" allowfullscreen></iframe>
 </div>
+_Designing With Motion: Pasquale D'Silva_
 
 One of the most important jobs for animation in our interface is to give us important feedback on what is happening to the UI in front of you. What does a button do when you press it? How does the next screen in an interface come in? Does it just appear? Or does it scale in and up from the bottom? Animation reveals information about where things come from, and how they work. It is a very important piece in helping users understand how things work. Animation provides cues.
 
@@ -71,21 +73,21 @@ Google thinks that animation should feel authentic. That it should be responsive
 <div class="flex-video widescreen">
 <video src="http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B2wX4iIvu8L6aHVOOGxBOW5jZlE/animation-meaningfultransitions-visualcontinuity_music-tablet-01_xhdpi.webm" controls></video>
 </div>
+_Google Material Design: Authentic Motion_
 
+There's a lot happening in that video, but pay attention to where things are coming from, how elements are responding, and how animation is assisting in the understanding of the interface.
 
-#### Games!
+#### Oh and Games!
 
 <div class="flex-video widescreen youtube">
 	<iframe width="560" height="315" src="//www.youtube.com/embed/5K4zjNtQ3y8" frameborder="0" allowfullscreen></iframe>
 </div>
+_Thomas Was Alone_
 
 <div class="flex-video widescreen youtube">
 	<iframe width="560" height="315" src="//www.youtube.com/embed/TYarBbOtlzc" frameborder="0" allowfullscreen></iframe>
 </div>
-
-There's a lot happening in that video, but pay attention to where things are coming from, how elements are responding, and how animation is assisting in the understanding of the interface.
-
-
+_Dots: A Game About Connecting_
 
 ### Easing & Cushoning
 Easing is a huge part of making animation feel more organic and fluid. Things IRL don't just move from here to there at the exact same pace. When you drop a ball on the ground it accellerates. It's animation quickens as it approaches the ground because gravity is pulling on it.
@@ -103,8 +105,14 @@ Easing is a huge part of making animation feel more organic and fluid. Things IR
 <iframe src="//player.vimeo.com/video/62998334" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/62998334">demo 2013</a> from <a href="http://vimeo.com/setheckert">Seth Eckert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-### Activity
+### Activity / Tip
 Simple easing in After Effects!!!!! We will do this together, and bear with me. I haven't used AE in a while...
+
+### Work on Finals
+We will use the rest of class as time to work on our finals. Ask me questions, and no you can't leave early because I know you have stuff you can work on.
+
+### Next week
+**NOTE** Next week we will not have class, because Thanksgiving and I'll be travelling. **THIS DOES NOT MEAN** you can slack for a week. You will be expected to complete any work I assign, and to go through what we are covering on your own. I also will need to see progress on what you will be doing for your final projects. You will be expected to turn in your progress on Moodle so I can see how your projects are coming along. Also, don't forget that **these steps are graded towards your final!** If you are late with your check-ins this will affect your grade on your final. If it is unclear what we discussed for your check-in see me and we can get it squared away.
 
 
 ### Resources
@@ -120,4 +128,4 @@ Simple easing in After Effects!!!!! We will do this together, and bear with me. 
 
 ### Homework
 - **READ** Time & Motion (pg 214 - 231)
-- **DO** [FINISH FINAL PROJECTS](/projects/final-project)
+- **DO** [Turn in Final check-in progress (on moodle)](/projects/final-project)
