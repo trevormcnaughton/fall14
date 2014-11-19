@@ -31,7 +31,8 @@ figure {
 }
 
 figcaption,
-img + em {
+img + em,
+blockquote + p {
 	text-align: center;
 	font-style: italic;
 	display: block;
@@ -42,6 +43,7 @@ blockquote {
 	font-family: $serif;
 	font-style: italic;
 	text-align: center;
+	padding: 0;
 
 	p {
 		font-size: 1.5em;

@@ -5,8 +5,8 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Nov 2014 20:38:06 -0600</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2014 20:38:06 -0600</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2014 22:07:11 -0600</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2014 22:07:11 -0600</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -14,65 +14,103 @@
         <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Animation&lt;/li&gt;
-  &lt;li&gt;
-    &lt;h2 id=&quot;quick-tip&quot;&gt;Quick Tip&lt;/h2&gt;
-  &lt;/li&gt;
+  &lt;li&gt;In a UI&lt;/li&gt;
+  &lt;li&gt;Some Cool Stuff&lt;/li&gt;
+  &lt;li&gt;Activity / Quick Tip&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;making-things-move&quot;&gt;Making things move&lt;/h3&gt;
+&lt;p&gt;So far we’ve worked mostly in two dimensions and almost exclusively with computer screens. But today, we shall travel straight past the third dimension and &lt;strong&gt;INTO THE FOURTH&lt;/strong&gt;. Time.
+&lt;img src=&quot;http://www.gimpbible.com/wp-content/uploads/2010/02/gimpbible-f1901.gif&quot; alt=&quot;Time&quot; /&gt;
+&lt;em&gt;XYZTime&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Time is so interesting because it describes how things go from here to there, and change from this to that. It helps our brains think about states, changes, adding, subtracting. It helps us rationalize things happening on the screen by giving our feeble minds feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://38.media.tumblr.com/7c00abe58738a66ce9e37ad46665946f/tumblr_nbt7s4tXG01rf78nfo1_400.gif&quot; alt=&quot;Shapes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Movement also creates delight, when done correctly. When done poorly it makes you cringe. It is souless and gross, and often is because computers interpolate movement in a straight line.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Computers are jerks and love to fill in the gaps linearly because they are lazy sacks of wires.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://medium.com/@pasql/transitional-interfaces-926eb80d64e3&quot;&gt;Pasquale D’Silva&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Can you think of an animation either in an app, or a game, or a movie, that made you feel awesome? Or is just straight up awesome?&lt;/p&gt;
 
 &lt;h3 id=&quot;disney&quot;&gt;Disney&lt;/h3&gt;
 &lt;p&gt;Disney was the pioneer of modern animation, and the 12 fundamentals that Disney created still hold true for animators today (both in cartooning, and interface).&lt;/p&gt;
 
-&lt;ul&gt;
+&lt;ol&gt;
   &lt;li&gt;Squash and stretch&lt;/li&gt;
   &lt;li&gt;Anticipation&lt;/li&gt;
   &lt;li&gt;Staging&lt;/li&gt;
   &lt;li&gt;Straight ahead action and pose to pose&lt;/li&gt;
   &lt;li&gt;Follow through and overlapping action&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Slow in and slow out&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Slow in and slow out&lt;/li&gt;
   &lt;li&gt;Arcs&lt;/li&gt;
   &lt;li&gt;Secondary action&lt;/li&gt;
   &lt;li&gt;Timing&lt;/li&gt;
   &lt;li&gt;Exaggeration&lt;/li&gt;
   &lt;li&gt;Solid drawing&lt;/li&gt;
   &lt;li&gt;Appeal&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 
 &lt;div class=&quot;flex-video widescreen vimeo&quot;&gt;
 &lt;iframe src=&quot;//player.vimeo.com/video/93206523&quot; width=&quot;1000&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/93206523&quot;&gt;The illusion of life&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/centodesign&quot;&gt;cento lodigiani&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;making-things-move&quot;&gt;Making things move&lt;/h3&gt;
-&lt;p&gt;So far we’ve worked mostly in two dimensions and almost exclusively with computer screens. But today, we shall travel straight past the third dimension and &lt;strong&gt;INTO THE FOURTH&lt;/strong&gt;. Time. How do things get from here to there? Or go from this to that?
-&lt;img src=&quot;http://www.gimpbible.com/wp-content/uploads/2010/02/gimpbible-f1901.gif&quot; alt=&quot;Time&quot; /&gt;
-&lt;em&gt;XYZTime&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;motion-graphics&quot;&gt;Motion Graphics&lt;/h3&gt;
+&lt;div class=&quot;flex-video widescreen youtube&quot;&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/VpZmIiIXuZ0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://38.media.tumblr.com/7c00abe58738a66ce9e37ad46665946f/tumblr_nbt7s4tXG01rf78nfo1_400.gif&quot; alt=&quot;Shapes&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The intersection of graphic design, and animation is basically motion graphics. It is very much what the name sounds like. Motion graphics has been popularized by applications like After Effects, and Cinema 4D, which both make it easier for simple minded designers to create pretty moving shapes and things.&lt;/p&gt;
 
-&lt;p&gt;Movement creates delight, when done correctly.&lt;/p&gt;
+&lt;h3 id=&quot;animation-in-ui--game&quot;&gt;Animation in UI &amp;amp; Game&lt;/h3&gt;
+&lt;div class=&quot;flex-video widescreen youtube&quot;&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/TMe0WnkF1Lc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.google.com/design/spec/animation/authentic-motion.html&quot;&gt;Google Design – Authentic Motion&lt;/a&gt;
-Google things that animation should feel authentic. That it should be responsive and make the interface feel more alive. They do so in a number of ways, but mostly updating and changing the interface when a user ineteracts with elements.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;One of the most important jobs for animation in our interface is to give us important feedback on what is happening to the UI in front of you. What does a button do when you press it? How does the next screen in an interface come in? Does it just appear? Or does it scale in and up from the bottom? Animation reveals information about where things come from, and how they work. It is a very important piece in helping users understand how things work. Animation provides cues.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;http://www.google.com/design/spec/animation/authentic-motion.html&quot;&gt;Google Design – Authentic Motion&lt;/a&gt;
+Google thinks that animation should feel authentic. That it should be responsive and make the interface feel more alive. They do so in a number of ways, but mostly updating and changing the interface when a user interacts with elements.&lt;/p&gt;
+
+&lt;div class=&quot;flex-video widescreen&quot;&gt;
 &lt;video src=&quot;http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B2wX4iIvu8L6aHVOOGxBOW5jZlE/animation-meaningfultransitions-visualcontinuity_music-tablet-01_xhdpi.webm&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;games&quot;&gt;Games!&lt;/h4&gt;
+
+&lt;div class=&quot;flex-video widescreen youtube&quot;&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/5K4zjNtQ3y8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;flex-video widescreen youtube&quot;&gt;
+	&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/TYarBbOtlzc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;There’s a lot happening in that video, but pay attention to where things are coming from, how elements are responding, and how animation is assisting in the understanding of the interface.&lt;/p&gt;
 
-&lt;h4 id=&quot;animation-in-ui--game&quot;&gt;Animation in UI &amp;amp; Game&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5K4zjNtQ3y8&quot;&gt;Thomas was alone&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TYarBbOtlzc&quot;&gt;Dots&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TMe0WnkF1Lc&quot;&gt;Designing with Animation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;easing&quot;&gt;Easing&lt;/h4&gt;
+&lt;h3 id=&quot;easing--cushoning&quot;&gt;Easing &amp;amp; Cushoning&lt;/h3&gt;
 &lt;p&gt;Easing is a huge part of making animation feel more organic and fluid. Things IRL don’t just move from here to there at the exact same pace. When you drop a ball on the ground it accellerates. It’s animation quickens as it approaches the ground because gravity is pulling on it.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1600/0*yfq40i7GG4MDdzzA.gif&quot; alt=&quot;Ease In&quot; /&gt;
+&lt;img src=&quot;https://d262ilb51hltx0.cloudfront.net/max/1600/0*LKq1k9BrgDRRqoMR.gif&quot; alt=&quot;Ease Out&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cool-stuff&quot;&gt;Cool Stuff&lt;/h3&gt;
+
+&lt;div class=&quot;flex-video widescreen vimeo&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/1QAI4B_2Mfc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;flex-video widescreen vimeo&quot;&gt;
+&lt;iframe src=&quot;//player.vimeo.com/video/62998334&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/62998334&quot;&gt;demo 2013&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/setheckert&quot;&gt;Seth Eckert&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
 &lt;h3 id=&quot;activity&quot;&gt;Activity&lt;/h3&gt;
-&lt;p&gt;Simple easing in After Effects&lt;/p&gt;
+&lt;p&gt;Simple easing in After Effects!!!!! We will do this together, and bear with me. I haven’t used AE in a while…&lt;/p&gt;
 
 &lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
 &lt;ul&gt;
@@ -82,10 +120,15 @@ Google things that animation should feel authentic. That it should be responsive
   &lt;li&gt;&lt;a href=&quot;http://www.motionaddicts.com/&quot;&gt;Motion Addicts&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://sixux.com/&quot;&gt;Six UX&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://the12principles.tumblr.com/&quot;&gt;The 12 Principles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@sureshvselvaraj/animation-principles-in-ui-design-understanding-easing-bea05243fe3&quot;&gt;Animation Principles in UI&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/user-experience-design-1/the-anatomy-of-a-grid-c955d5355fae&quot;&gt;Some More Grid Stuff&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
 &lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;READ&lt;/strong&gt; Time &amp;amp; Motion (pg 214 - 231)&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;DO&lt;/strong&gt; &lt;a href=&quot;/projects/final-project&quot;&gt;FINISH FINAL PROJECTS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>

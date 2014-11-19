@@ -5,60 +5,106 @@ date:   2014-11-19
 categories: week
 week: Week 12
 color: seafoam
+bgimage: http://clubflyersmag.com/wp-content/uploads/2014/03/anigif_enhanced-buzz-15527-1391600559-4.gif
 ---
 
 ### Agenda
 - Animation
-- Quick Tip
--
+- In a UI
+- Some Cool Stuff
+- Activity / Quick Tip
+
+### Making things move
+So far we've worked mostly in two dimensions and almost exclusively with computer screens. But today, we shall travel straight past the third dimension and **INTO THE FOURTH**. Time.
+![Time](http://www.gimpbible.com/wp-content/uploads/2010/02/gimpbible-f1901.gif)
+_XYZTime_
+
+Time is so interesting because it describes how things go from here to there, and change from this to that. It helps our brains think about states, changes, adding, subtracting. It helps us rationalize things happening on the screen by giving our feeble minds feedback.
+
+![Shapes](http://38.media.tumblr.com/7c00abe58738a66ce9e37ad46665946f/tumblr_nbt7s4tXG01rf78nfo1_400.gif)
+
+Movement also creates delight, when done correctly. When done poorly it makes you cringe. It is souless and gross, and often is because computers interpolate movement in a straight line.
+
+> Computers are jerks and love to fill in the gaps linearly because they are lazy sacks of wires.
+
+_[Pasquale D’Silva](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3)_
+
+Can you think of an animation either in an app, or a game, or a movie, that made you feel awesome? Or is just straight up awesome?
 
 ### Disney
 Disney was the pioneer of modern animation, and the 12 fundamentals that Disney created still hold true for animators today (both in cartooning, and interface).
 
-- Squash and stretch
-- Anticipation
-- Staging
-- Straight ahead action and pose to pose
-- Follow through and overlapping action
-- Slow in and slow out
-
-- Arcs
-- Secondary action
-- Timing
-- Exaggeration
-- Solid drawing
-- Appeal
+1. Squash and stretch
+2. Anticipation
+3. Staging
+4. Straight ahead action and pose to pose
+5. Follow through and overlapping action
+6. Slow in and slow out
+7. Arcs
+8. Secondary action
+9. Timing
+10. Exaggeration
+11. Solid drawing
+12. Appeal
 
 <div class="flex-video widescreen vimeo">
 <iframe src="//player.vimeo.com/video/93206523" width="1000" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/93206523">The illusion of life</a> from <a href="http://vimeo.com/centodesign">cento lodigiani</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-### Making things move
-So far we've worked mostly in two dimensions and almost exclusively with computer screens. But today, we shall travel straight past the third dimension and **INTO THE FOURTH**. Time. How do things get from here to there? Or go from this to that?
-![Time](http://www.gimpbible.com/wp-content/uploads/2010/02/gimpbible-f1901.gif)
-_XYZTime_
+### Motion Graphics
+<div class="flex-video widescreen youtube">
+	<iframe width="560" height="315" src="//www.youtube.com/embed/VpZmIiIXuZ0" frameborder="0" allowfullscreen></iframe>
+</div>
 
-![Shapes](http://38.media.tumblr.com/7c00abe58738a66ce9e37ad46665946f/tumblr_nbt7s4tXG01rf78nfo1_400.gif)
+The intersection of graphic design, and animation is basically motion graphics. It is very much what the name sounds like. Motion graphics has been popularized by applications like After Effects, and Cinema 4D, which both make it easier for simple minded designers to create pretty moving shapes and things.
 
-Movement creates delight, when done correctly.
+### Animation in UI & Game
+<div class="flex-video widescreen youtube">
+	<iframe width="560" height="315" src="//www.youtube.com/embed/TMe0WnkF1Lc" frameborder="0" allowfullscreen></iframe>
+</div>
 
-- [Google Design – Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html)
-Google things that animation should feel authentic. That it should be responsive and make the interface feel more alive. They do so in a number of ways, but mostly updating and changing the interface when a user ineteracts with elements.
+One of the most important jobs for animation in our interface is to give us important feedback on what is happening to the UI in front of you. What does a button do when you press it? How does the next screen in an interface come in? Does it just appear? Or does it scale in and up from the bottom? Animation reveals information about where things come from, and how they work. It is a very important piece in helping users understand how things work. Animation provides cues.
 
+[Google Design – Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html)
+Google thinks that animation should feel authentic. That it should be responsive and make the interface feel more alive. They do so in a number of ways, but mostly updating and changing the interface when a user interacts with elements.
+
+<div class="flex-video widescreen">
 <video src="http://material-design.storage.googleapis.com/publish/v_2/material_ext_publish/0B2wX4iIvu8L6aHVOOGxBOW5jZlE/animation-meaningfultransitions-visualcontinuity_music-tablet-01_xhdpi.webm" controls></video>
+</div>
+
+
+#### Games!
+
+<div class="flex-video widescreen youtube">
+	<iframe width="560" height="315" src="//www.youtube.com/embed/5K4zjNtQ3y8" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="flex-video widescreen youtube">
+	<iframe width="560" height="315" src="//www.youtube.com/embed/TYarBbOtlzc" frameborder="0" allowfullscreen></iframe>
+</div>
 
 There's a lot happening in that video, but pay attention to where things are coming from, how elements are responding, and how animation is assisting in the understanding of the interface.
 
-#### Animation in UI & Game
-- [Thomas was alone](https://www.youtube.com/watch?v=5K4zjNtQ3y8)
-- [Dots](https://www.youtube.com/watch?v=TYarBbOtlzc)
-- [Designing with Animation](https://www.youtube.com/watch?v=TMe0WnkF1Lc)
 
-#### Easing
+
+### Easing & Cushoning
 Easing is a huge part of making animation feel more organic and fluid. Things IRL don't just move from here to there at the exact same pace. When you drop a ball on the ground it accellerates. It's animation quickens as it approaches the ground because gravity is pulling on it.
 
+![Ease In](https://d262ilb51hltx0.cloudfront.net/max/1600/0*yfq40i7GG4MDdzzA.gif)
+![Ease Out](https://d262ilb51hltx0.cloudfront.net/max/1600/0*LKq1k9BrgDRRqoMR.gif)
+
+### Cool Stuff
+
+<div class="flex-video widescreen vimeo">
+<iframe width="560" height="315" src="//www.youtube.com/embed/1QAI4B_2Mfc" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="flex-video widescreen vimeo">
+<iframe src="//player.vimeo.com/video/62998334" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/62998334">demo 2013</a> from <a href="http://vimeo.com/setheckert">Seth Eckert</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+
 ### Activity
-Simple easing in After Effects
+Simple easing in After Effects!!!!! We will do this together, and bear with me. I haven't used AE in a while...
 
 
 ### Resources
@@ -68,6 +114,10 @@ Simple easing in After Effects
 - [Motion Addicts](http://www.motionaddicts.com/)
 - [Six UX](http://sixux.com/)
 - [The 12 Principles](http://the12principles.tumblr.com/)
+- [Animation Principles in UI](https://medium.com/@sureshvselvaraj/animation-principles-in-ui-design-understanding-easing-bea05243fe3 )
+
+- [Some More Grid Stuff](https://medium.com/user-experience-design-1/the-anatomy-of-a-grid-c955d5355fae)
 
 ### Homework
+- **READ** Time & Motion (pg 214 - 231)
 - **DO** [FINISH FINAL PROJECTS](/projects/final-project)
