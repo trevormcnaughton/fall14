@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Wrap Up"
+date:   2014-12-03
+categories: week
+week: Week 14
+color: aqua
+---
+
+### Agenda
+- Wrap Up
+- Work Time
+
+### Work Time
+Some of ya'll have been leaving early for worktime. That's not cool. Let's not do that today.
+
+
+### Homework
+- **DO** [Finish Final Project!](/projects/final-project)
