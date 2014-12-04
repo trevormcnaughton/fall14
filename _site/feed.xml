@@ -5,9 +5,40 @@
     <description>Class website for DID Fall 2014</description>
     <link>http://teach.trvr.co/</link>
     <atom:link href="http://teach.trvr.co/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 03 Dec 2014 09:14:42 -0600</pubDate>
-    <lastBuildDate>Wed, 03 Dec 2014 09:14:42 -0600</lastBuildDate>
+    <pubDate>Wed, 03 Dec 2014 18:08:39 -0600</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2014 18:08:39 -0600</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Wrap Up</title>
+        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Wrap Up&lt;/li&gt;
+  &lt;li&gt;Work Time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;work-time&quot;&gt;Work Time&lt;/h3&gt;
+&lt;p&gt;Today we’ll have a mega productive work session (because I bet some of you could use it :D). Feel free to ask me any questions, now is your chance, BECAUSE IT’S THE LAST CLASS NEXT WEEK.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://asset-d.soup.io/asset/3076/5936_d42e.gif&quot; alt=&quot;SAAAAAD&quot; /&gt;&lt;/p&gt;
+
+&lt;aside&gt;ALSO: Some of ya'll have been leaving early during worktime. That's not cool, and is actually considered late on your attendance if you havent cleared it with me! So, let's not do that today.&lt;/aside&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://img4.wikia.nocookie.net/__cb20121007102258/glee/images/2/26/Teamwork.gif&quot; alt=&quot;Teamwork&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;DO&lt;/strong&gt; &lt;a href=&quot;/projects/final-project&quot;&gt;Finish Final Project!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 03 Dec 2014 00:00:00 -0600</pubDate>
+        <link>http://teach.trvr.co/week/week-14</link>
+        <guid isPermaLink="true">http://teach.trvr.co/week/week-14</guid>
+        
+        
+        <category>week</category>
+        
+      </item>
     
       <item>
         <title>Animation</title>
@@ -862,240 +893,6 @@ Im so into reaction gifs this week. And yes, we have a midterm. It’s going to 
         <pubDate>Wed, 24 Sep 2014 00:00:00 -0500</pubDate>
         <link>http://teach.trvr.co/week/week-04</link>
         <guid isPermaLink="true">http://teach.trvr.co/week/week-04</guid>
-        
-        
-        <category>week</category>
-        
-      </item>
-    
-      <item>
-        <title>Color &amp; Type</title>
-        <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Basic Color Theory&lt;/li&gt;
-  &lt;li&gt;Understanding Type&lt;/li&gt;
-  &lt;li&gt;Activity&lt;/li&gt;
-  &lt;li&gt;Start Project 1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;first-color-theory&quot;&gt;First, Color Theory&lt;/h1&gt;
-&lt;p&gt;Color. Color is a HUGE huge huge concept. Actually both color and type are huge huge huge concepts. But, we are gonna tackle them both since &lt;strong&gt;YOU DEFINITELY ALL READ THE COLOR CHAPTER SO I DON’T EVEN REALLY NEED TO COVER THIS VERY MUCH RIGHT?&lt;/strong&gt; And because we are awesome.&lt;/p&gt;
-
-&lt;ul class=&quot;large-block-grid-3 small-block-grid-1&quot;&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Color Wheel&lt;/h4&gt;
-    &lt;p&gt;Shows relationships between colors. All dem colors.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/hue.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Primary Colors&lt;/h4&gt;
-    &lt;p&gt;These are mixed to make all other colors. Can’t be made from other colors.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/primary.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Secondary Colors&lt;/h4&gt;
-    &lt;p&gt;Two primary colors mixed together create secondary colors.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/secondary.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Tertiary Colors&lt;/h4&gt;
-    &lt;p&gt;Created with one primary and one secondary color mixed together.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/tertiary.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Complementary&lt;/h4&gt;
-    &lt;p&gt;Opposite each other on the color wheel. Think Christmas, Da Bears, or The Lakers&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/complimentary.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Analogous Colors&lt;/h4&gt;
-    &lt;p&gt;In the same section, or very near each other, on the color wheel.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/analogous.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;color-attributes&quot;&gt;Color Attributes&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Hue:&lt;/strong&gt; An element of the color wheel (ROYGBV)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Intensity:&lt;/strong&gt; How bright or dull a color is. Intensity changes with a change in saturation, shading, and/or tinting.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Saturation:&lt;/strong&gt; Purity of a color when neutralizing to grey.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Value:&lt;/strong&gt; How light or dark the color is.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Shade:&lt;/strong&gt; hue + black&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tint:&lt;/strong&gt; hue + white&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;color-models-aka-color-space&quot;&gt;Color Models (aka Color Space)&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;CMYK:&lt;/strong&gt; Cyan, magenta, yellow, and black. Printing/pigments. Subtractive (pigments absorb light, subtracting certain wavelengths of light from our visible spectrum)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;RGB:&lt;/strong&gt; Red, green, blue. On screen. Additive. All three colors at full strength creates white light, while black is the absence of light.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;color-effects&quot;&gt;Color Effects&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Bezold Effect:&lt;/strong&gt; Optical mixing, an optical illusion wherein a color appears lighter or darker based on what color it is adjacent to.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Vibration and Value:&lt;/strong&gt; A color placed on another color close in value can appear to “glow”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;and-now-type&quot;&gt;And now: Type&lt;/h1&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week3/anatomy.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Memorize this. If I ever quiz you on things, this will be on that quiz&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;ul class=&quot;large-block-grid-2 small-block-grid-1&quot;&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Typeface&lt;/h4&gt;
-    &lt;p&gt;A family of fonts. AKA All of Avenir is the Typeface, a font is Avenir Light&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/typeface.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Size&lt;/h4&gt;
-    &lt;p&gt;Size refers to how big the font is in a unit of measure. &lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/font-size.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Weight&lt;/h4&gt;
-    &lt;p&gt;The weight of the font, usually defined as light, regular, or bold.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/font-weight.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-
-  &lt;li&gt;
-    &lt;h4&gt;Tracking&lt;/h4&gt;
-    &lt;p&gt;Defines the space between characters in a word. This is not the same as Kerning.&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/tracking.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Leading&lt;/h4&gt;
-    &lt;p&gt;Is the space between lines of text. Imagine a strip of lead resting between the lines&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/leading.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h4&gt;Kerning&lt;/h4&gt;
-    &lt;p&gt;The space between individual characters. &lt;a href=&quot;http://www.fastcodesign.com/3035334/fast-feed/esurance-learns-an-expensive-lesson-on-why-kerning-matters&quot;&gt;This is why kerning matters&lt;/a&gt;&lt;/p&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/images/week3/kerning.png&quot; alt=&quot;&quot; /&gt;
-    &lt;/figure&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;game-time&quot;&gt;Game Time&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://type.method.ac/&quot;&gt;http://type.method.ac/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://shape.method.ac/&quot;&gt;http://shape.method.ac/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://bezier.method.ac/&quot;&gt;http://bezier.method.ac/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;type-has-personality&quot;&gt;Type has personality&lt;/h3&gt;
-&lt;p&gt;Every font has a personality, and an opnion. Sometimes, just like with real people, different fonts will have stronger personality traits. Every font will be able to tell a story about itself.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week3/type-regal.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Lust Didone is super regal&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week3/type-sturdy.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Merriweather is a solid typeface&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week3/type-overt.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Some are very unique&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week3/type-stylized.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Duke is very unique, and strong&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week3/type-comical.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;I had to...&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;When choosing a typeface you really need to think about the message you want to get across. You aren’t going to write going to make a metal show poster in comic sans. Unless you are a super troll.&lt;/p&gt;
-
-&lt;h3 id=&quot;type-in-illustrator&quot;&gt;Type in Illustrator&lt;/h3&gt;
-&lt;p&gt;Typograpy in Illustrator is another strong use-case for it’s popularity, and power. Here is a breakdown of the Type Tool Palette&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week3/type-tool.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;The elusive Illustrator type tool&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;activity-time&quot;&gt;ACTIVITY TIME&lt;/h3&gt;
-&lt;p&gt;Type out your favorite movie / game / whatever quote and we will set (set is the fancymans word for making type look good) it in illustrator using all the type tool has to offer.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Goonies never say die. / Do the truffle shuffle.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Two quotes from my favorite movie. Someone else in this room better love this movie…&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;/images/week3/chunk.png&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;Proof of my goonie-wisdom&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;homework&quot;&gt;Homework&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Practice Class Activities&lt;/li&gt;
-  &lt;li&gt;Read: Rhythm &amp;amp; Balance and Scale (pg 28 - 51)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/projects/project-01.html&quot;&gt;PROJECT 01 (PROGRESS)&lt;/a&gt; – Minimal movie poster, game cover, or book cover. Show me sketches &amp;amp; concept&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/extra-credit/extra-credit-01.html&quot;&gt;10 Examples of good typography in the wild (Extra Credit)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kuler.adobe.com/create/color-wheel/&quot;&gt;Adobe Kuler&lt;/a&gt; - Create color palettes, schemes. Integrates with adobe apps&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://losttype.com&quot;&gt;Lost Type Co&lt;/a&gt; - A co-op type foundry on the nannernet&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://avondaletypeco.com/&quot;&gt;Avondale type Co&lt;/a&gt; - An awesome local type foundry located in Avondale (not free, but good type isn’t free)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://typekict.com&quot;&gt;Typekit&lt;/a&gt; - If you have an Adobe CC account you get one of these with it&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://justmytype.co/&quot;&gt;Just my type&lt;/a&gt; - Good resource for pairing fonts&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://thinkingwithtype.com/&quot;&gt;http://thinkingwithtype.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 17 Sep 2014 00:00:00 -0500</pubDate>
-        <link>http://teach.trvr.co/week/week-03</link>
-        <guid isPermaLink="true">http://teach.trvr.co/week/week-03</guid>
         
         
         <category>week</category>
